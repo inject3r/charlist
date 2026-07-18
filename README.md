@@ -8,7 +8,7 @@ A collection of characters, symbols, emojis, hieroglyphs, and special characters
 
 ## Screenshot
 
-![CharList Screenshot](https://raw.githubusercontent.com/inject3r/charlist/main/screenshot.jpg)
+![CharList Screenshot](https://raw.githubusercontent.com/inject3r/charlist/master/screenshot.jpg)
 
 ## Features
 
