@@ -42,16 +42,18 @@ jobs:
 
       - name: Prepare deployment folder
         run: |
-          mkdir -p deploy_temp/charlist
-          cp -r dist/* deploy_temp/charlist/
-          cp dist/.nojekyll deploy_temp/charlist/ 2>/dev/null || true
+          mkdir -p deploy_temp
+          cp -r dist/* deploy_temp/
+          cp dist/.nojekyll deploy_temp/ 2>/dev/null || true
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./deploy_temp
-          publish_branch: gh-pages
+          publish_branch: master
+          external_repository: inject3r/inject3r.github.io
+          destination_dir: charlist
           commit_message: "Deploy charlist v${{ steps.version.outputs.VERSION }}"
 
       - name: Create Release
