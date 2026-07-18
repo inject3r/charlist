@@ -1,0 +1,1486 @@
+{
+  "id": "symbols",
+  "name": "Symbols",
+  "chars": [
+    {
+      "char": "℀",
+      "name": "account of"
+    },
+    {
+      "char": "℁",
+      "name": "addressed to the subject"
+    },
+    {
+      "char": "ℂ",
+      "name": "double-struck capital c"
+    },
+    {
+      "char": "℃",
+      "name": "degree celsius"
+    },
+    {
+      "char": "℄",
+      "name": "centre line symbol"
+    },
+    {
+      "char": "℅",
+      "name": "care of"
+    },
+    {
+      "char": "℆",
+      "name": "cada una"
+    },
+    {
+      "char": "ℇ",
+      "name": "euler constant"
+    },
+    {
+      "char": "℈",
+      "name": "scruple"
+    },
+    {
+      "char": "℉",
+      "name": "degree fahrenheit"
+    },
+    {
+      "char": "ℊ",
+      "name": "script small g"
+    },
+    {
+      "char": "ℋ",
+      "name": "script capital h"
+    },
+    {
+      "char": "ℌ",
+      "name": "black-letter capital h"
+    },
+    {
+      "char": "ℍ",
+      "name": "double-struck capital h"
+    },
+    {
+      "char": "ℎ",
+      "name": "planck constant"
+    },
+    {
+      "char": "ℏ",
+      "name": "planck constant over two pi"
+    },
+    {
+      "char": "ℐ",
+      "name": "script capital i"
+    },
+    {
+      "char": "ℑ",
+      "name": "black-letter capital i"
+    },
+    {
+      "char": "ℒ",
+      "name": "script capital l"
+    },
+    {
+      "char": "ℓ",
+      "name": "script small l"
+    },
+    {
+      "char": "℔",
+      "name": "l b bar symbol"
+    },
+    {
+      "char": "ℕ",
+      "name": "double-struck capital n"
+    },
+    {
+      "char": "№",
+      "name": "numero sign"
+    },
+    {
+      "char": "℗",
+      "name": "sound recording copyright"
+    },
+    {
+      "char": "℘",
+      "name": "script capital p"
+    },
+    {
+      "char": "ℙ",
+      "name": "double-struck capital p"
+    },
+    {
+      "char": "ℚ",
+      "name": "double-struck capital q"
+    },
+    {
+      "char": "ℛ",
+      "name": "script capital r"
+    },
+    {
+      "char": "ℜ",
+      "name": "black-letter capital r"
+    },
+    {
+      "char": "ℝ",
+      "name": "double-struck capital r"
+    },
+    {
+      "char": "℞",
+      "name": "prescription take"
+    },
+    {
+      "char": "℟",
+      "name": "response"
+    },
+    {
+      "char": "℠",
+      "name": "service mark"
+    },
+    {
+      "char": "℡",
+      "name": "telephone sign"
+    },
+    {
+      "char": "™",
+      "name": "trade mark sign"
+    },
+    {
+      "char": "℣",
+      "name": "versicle"
+    },
+    {
+      "char": "ℤ",
+      "name": "double-struck capital z"
+    },
+    {
+      "char": "℥",
+      "name": "ounce sign"
+    },
+    {
+      "char": "Ω",
+      "name": "ohm sign"
+    },
+    {
+      "char": "℧",
+      "name": "inverted ohm sign"
+    },
+    {
+      "char": "ℨ",
+      "name": "black-letter capital z"
+    },
+    {
+      "char": "℩",
+      "name": "turned greek small letter iota"
+    },
+    {
+      "char": "K",
+      "name": "kelvin sign"
+    },
+    {
+      "char": "Å",
+      "name": "angstrom sign"
+    },
+    {
+      "char": "ℬ",
+      "name": "script capital b"
+    },
+    {
+      "char": "ℭ",
+      "name": "black-letter capital c"
+    },
+    {
+      "char": "℮",
+      "name": "estimated symbol"
+    },
+    {
+      "char": "ℯ",
+      "name": "script small e"
+    },
+    {
+      "char": "ℰ",
+      "name": "script capital e"
+    },
+    {
+      "char": "ℱ",
+      "name": "script capital f"
+    },
+    {
+      "char": "Ⅎ",
+      "name": "turned capital f"
+    },
+    {
+      "char": "ℳ",
+      "name": "script capital m"
+    },
+    {
+      "char": "ℴ",
+      "name": "script small o"
+    },
+    {
+      "char": "ℵ",
+      "name": "hebrew letter alef"
+    },
+    {
+      "char": "ℶ",
+      "name": "hebrew letter bet"
+    },
+    {
+      "char": "ℷ",
+      "name": "hebrew letter gimel"
+    },
+    {
+      "char": "ℸ",
+      "name": "hebrew letter dalet"
+    },
+    {
+      "char": "℺",
+      "name": "rotated capital q"
+    },
+    {
+      "char": "℻",
+      "name": "facsimile sign"
+    },
+    {
+      "char": "ℼ",
+      "name": "double-struck small pi"
+    },
+    {
+      "char": "ℽ",
+      "name": "double-struck small gamma"
+    },
+    {
+      "char": "ℾ",
+      "name": "double-struck capital gamma"
+    },
+    {
+      "char": "ℿ",
+      "name": "double-struck capital pi"
+    },
+    {
+      "char": "⅀",
+      "name": "double-struck n-ary summation"
+    },
+    {
+      "char": "⅁",
+      "name": "turned sans-serif capital g"
+    },
+    {
+      "char": "⅂",
+      "name": "turned sans-serif capital l"
+    },
+    {
+      "char": "⅃",
+      "name": "reversed sans-serif capital l"
+    },
+    {
+      "char": "⅄",
+      "name": "turned sans-serif capital y"
+    },
+    {
+      "char": "ⅅ",
+      "name": "double-struck italic capital d"
+    },
+    {
+      "char": "ⅆ",
+      "name": "double-struck italic small d"
+    },
+    {
+      "char": "ⅇ",
+      "name": "double-struck italic small e"
+    },
+    {
+      "char": "ⅈ",
+      "name": "double-struck italic small i"
+    },
+    {
+      "char": "ⅉ",
+      "name": "double-struck italic small j"
+    },
+    {
+      "char": "⅊",
+      "name": "property line"
+    },
+    {
+      "char": "⅋",
+      "name": "turned ampersand"
+    },
+    {
+      "char": "⅍",
+      "name": "aktieselskab"
+    },
+    {
+      "char": "ⅎ",
+      "name": "turned small f"
+    },
+    {
+      "char": "⌃",
+      "name": "up arrowhead"
+    },
+    {
+      "char": "⌘",
+      "name": "place of interest sign"
+    },
+    {
+      "char": "⌥",
+      "name": "option key"
+    },
+    {
+      "char": "⌦",
+      "name": "erase to the right"
+    },
+    {
+      "char": "⌫",
+      "name": "erase to the left"
+    },
+    {
+      "char": "⎋",
+      "name": "broken circle with northwest arrow"
+    },
+    {
+      "char": "⏎",
+      "name": "return symbol"
+    },
+    {
+      "char": "★",
+      "name": "black star"
+    },
+    {
+      "char": "☆",
+      "name": "white star"
+    },
+    {
+      "char": "☇",
+      "name": "lightning"
+    },
+    {
+      "char": "☈",
+      "name": "thunderstorm"
+    },
+    {
+      "char": "☉",
+      "name": "sun"
+    },
+    {
+      "char": "☊",
+      "name": "ascending node"
+    },
+    {
+      "char": "☋",
+      "name": "descending node"
+    },
+    {
+      "char": "☌",
+      "name": "conjunction"
+    },
+    {
+      "char": "☍",
+      "name": "opposition"
+    },
+    {
+      "char": "☏",
+      "name": "white telephone"
+    },
+    {
+      "char": "☐",
+      "name": "ballot box"
+    },
+    {
+      "char": "☒",
+      "name": "ballot box with x"
+    },
+    {
+      "char": "☓",
+      "name": "saltire"
+    },
+    {
+      "char": "☖",
+      "name": "white shogi piece"
+    },
+    {
+      "char": "☗",
+      "name": "black shogi piece"
+    },
+    {
+      "char": "☙",
+      "name": "reversed rotated floral heart bullet"
+    },
+    {
+      "char": "☚",
+      "name": "black left pointing index"
+    },
+    {
+      "char": "☛",
+      "name": "black right pointing index"
+    },
+    {
+      "char": "☜",
+      "name": "white left pointing index"
+    },
+    {
+      "char": "☞",
+      "name": "white right pointing index"
+    },
+    {
+      "char": "☟",
+      "name": "white down pointing index"
+    },
+    {
+      "char": "☡",
+      "name": "caution sign"
+    },
+    {
+      "char": "☤",
+      "name": "caduceus"
+    },
+    {
+      "char": "☥",
+      "name": "ankh"
+    },
+    {
+      "char": "☧",
+      "name": "chi rho"
+    },
+    {
+      "char": "☨",
+      "name": "cross of lorraine"
+    },
+    {
+      "char": "☩",
+      "name": "cross of jerusalem"
+    },
+    {
+      "char": "☫",
+      "name": "farsi symbol"
+    },
+    {
+      "char": "☬",
+      "name": "adi shakti"
+    },
+    {
+      "char": "☭",
+      "name": "hammer and sickle"
+    },
+    {
+      "char": "☰",
+      "name": "trigram for heaven"
+    },
+    {
+      "char": "☱",
+      "name": "trigram for lake"
+    },
+    {
+      "char": "☲",
+      "name": "trigram for fire"
+    },
+    {
+      "char": "☳",
+      "name": "trigram for thunder"
+    },
+    {
+      "char": "☴",
+      "name": "trigram for wind"
+    },
+    {
+      "char": "☵",
+      "name": "trigram for water"
+    },
+    {
+      "char": "☶",
+      "name": "trigram for mountain"
+    },
+    {
+      "char": "☷",
+      "name": "trigram for earth"
+    },
+    {
+      "char": "☻",
+      "name": "black smiling face"
+    },
+    {
+      "char": "☼",
+      "name": "white sun with rays"
+    },
+    {
+      "char": "☽",
+      "name": "first quarter moon"
+    },
+    {
+      "char": "☾",
+      "name": "last quarter moon"
+    },
+    {
+      "char": "☿",
+      "name": "mercury"
+    },
+    {
+      "char": "♀",
+      "name": "female sign"
+    },
+    {
+      "char": "♁",
+      "name": "earth"
+    },
+    {
+      "char": "♂",
+      "name": "male sign"
+    },
+    {
+      "char": "♃",
+      "name": "jupiter"
+    },
+    {
+      "char": "♄",
+      "name": "saturn"
+    },
+    {
+      "char": "♅",
+      "name": "uranus"
+    },
+    {
+      "char": "♆",
+      "name": "neptune"
+    },
+    {
+      "char": "♇",
+      "name": "pluto"
+    },
+    {
+      "char": "♔",
+      "name": "white chess king"
+    },
+    {
+      "char": "♕",
+      "name": "white chess queen"
+    },
+    {
+      "char": "♖",
+      "name": "white chess rook"
+    },
+    {
+      "char": "♗",
+      "name": "white chess bishop"
+    },
+    {
+      "char": "♘",
+      "name": "white chess knight"
+    },
+    {
+      "char": "♙",
+      "name": "white chess pawn"
+    },
+    {
+      "char": "♚",
+      "name": "black chess king"
+    },
+    {
+      "char": "♛",
+      "name": "black chess queen"
+    },
+    {
+      "char": "♜",
+      "name": "black chess rook"
+    },
+    {
+      "char": "♝",
+      "name": "black chess bishop"
+    },
+    {
+      "char": "♞",
+      "name": "black chess knight"
+    },
+    {
+      "char": "♟",
+      "name": "black chess pawn"
+    },
+    {
+      "char": "♡",
+      "name": "white heart suit"
+    },
+    {
+      "char": "♢",
+      "name": "white diamond suit"
+    },
+    {
+      "char": "♤",
+      "name": "white spade suit"
+    },
+    {
+      "char": "♧",
+      "name": "white club suit"
+    },
+    {
+      "char": "♩",
+      "name": "quarter note"
+    },
+    {
+      "char": "♪",
+      "name": "eighth note"
+    },
+    {
+      "char": "♫",
+      "name": "beamed eighth notes"
+    },
+    {
+      "char": "♬",
+      "name": "beamed sixteenth notes"
+    },
+    {
+      "char": "♭",
+      "name": "music flat sign"
+    },
+    {
+      "char": "♮",
+      "name": "music natural sign"
+    },
+    {
+      "char": "♯",
+      "name": "music sharp sign"
+    },
+    {
+      "char": "♰",
+      "name": "west syriac cross"
+    },
+    {
+      "char": "♱",
+      "name": "east syriac cross"
+    },
+    {
+      "char": "♲",
+      "name": "universal recycling symbol"
+    },
+    {
+      "char": "♳",
+      "name": "recycling symbol for type-1 plastics"
+    },
+    {
+      "char": "♴",
+      "name": "recycling symbol for type-2 plastics"
+    },
+    {
+      "char": "♵",
+      "name": "recycling symbol for type-3 plastics"
+    },
+    {
+      "char": "♶",
+      "name": "recycling symbol for type-4 plastics"
+    },
+    {
+      "char": "♷",
+      "name": "recycling symbol for type-5 plastics"
+    },
+    {
+      "char": "♸",
+      "name": "recycling symbol for type-6 plastics"
+    },
+    {
+      "char": "♹",
+      "name": "recycling symbol for type-7 plastics"
+    },
+    {
+      "char": "♺",
+      "name": "recycling symbol for generic materials"
+    },
+    {
+      "char": "♼",
+      "name": "recycled paper symbol"
+    },
+    {
+      "char": "♽",
+      "name": "partially-recycled paper symbol"
+    },
+    {
+      "char": "♾",
+      "name": "permanent paper sign"
+    },
+    {
+      "char": "⚀",
+      "name": "die face-1"
+    },
+    {
+      "char": "⚁",
+      "name": "die face-2"
+    },
+    {
+      "char": "⚂",
+      "name": "die face-3"
+    },
+    {
+      "char": "⚃",
+      "name": "die face-4"
+    },
+    {
+      "char": "⚄",
+      "name": "die face-5"
+    },
+    {
+      "char": "⚅",
+      "name": "die face-6"
+    },
+    {
+      "char": "⚆",
+      "name": "white circle with dot right"
+    },
+    {
+      "char": "⚇",
+      "name": "white circle with two dots"
+    },
+    {
+      "char": "⚈",
+      "name": "black circle with white dot right"
+    },
+    {
+      "char": "⚉",
+      "name": "black circle with two white dots"
+    },
+    {
+      "char": "⚊",
+      "name": "monogram for yang"
+    },
+    {
+      "char": "⚋",
+      "name": "monogram for yin"
+    },
+    {
+      "char": "⚌",
+      "name": "digram for greater yang"
+    },
+    {
+      "char": "⚍",
+      "name": "digram for lesser yin"
+    },
+    {
+      "char": "⚎",
+      "name": "digram for lesser yang"
+    },
+    {
+      "char": "⚏",
+      "name": "digram for greater yin"
+    },
+    {
+      "char": "⚐",
+      "name": "white flag"
+    },
+    {
+      "char": "⚑",
+      "name": "black flag"
+    },
+    {
+      "char": "⚕",
+      "name": "staff of aesculapius"
+    },
+    {
+      "char": "⚘",
+      "name": "flower"
+    },
+    {
+      "char": "⚚",
+      "name": "staff of hermes"
+    },
+    {
+      "char": "⚝",
+      "name": "outlined white star"
+    },
+    {
+      "char": "⚞",
+      "name": "three lines converging right"
+    },
+    {
+      "char": "⚟",
+      "name": "three lines converging left"
+    },
+    {
+      "char": "⚢",
+      "name": "doubled female sign"
+    },
+    {
+      "char": "⚣",
+      "name": "doubled male sign"
+    },
+    {
+      "char": "⚤",
+      "name": "interlocked female and male sign"
+    },
+    {
+      "char": "⚥",
+      "name": "male and female sign"
+    },
+    {
+      "char": "⚦",
+      "name": "male with stroke sign"
+    },
+    {
+      "char": "⚧",
+      "name": "male with stroke and male and female sign"
+    },
+    {
+      "char": "⚨",
+      "name": "vertical male with stroke sign"
+    },
+    {
+      "char": "⚩",
+      "name": "horizontal male with stroke sign"
+    },
+    {
+      "char": "⚬",
+      "name": "medium small white circle"
+    },
+    {
+      "char": "⚭",
+      "name": "marriage symbol"
+    },
+    {
+      "char": "⚮",
+      "name": "divorce symbol"
+    },
+    {
+      "char": "⚯",
+      "name": "unmarried partnership symbol"
+    },
+    {
+      "char": "⚲",
+      "name": "neuter"
+    },
+    {
+      "char": "⚾︎",
+      "name": "baseball"
+    },
+    {
+      "char": "⛢",
+      "name": "astronomical symbol for uranus"
+    },
+    {
+      "char": "✁",
+      "name": "upper blade scissors"
+    },
+    {
+      "char": "✂",
+      "name": "black scissors"
+    },
+    {
+      "char": "✃",
+      "name": "lower blade scissors"
+    },
+    {
+      "char": "✄",
+      "name": "white scissors"
+    },
+    {
+      "char": "✆",
+      "name": "telephone location sign"
+    },
+    {
+      "char": "✇",
+      "name": "tape drive"
+    },
+    {
+      "char": "✈",
+      "name": "airplane"
+    },
+    {
+      "char": "✎",
+      "name": "lower right pencil"
+    },
+    {
+      "char": "✐",
+      "name": "upper right pencil"
+    },
+    {
+      "char": "✑",
+      "name": "white nib"
+    },
+    {
+      "char": "✓",
+      "name": "check mark"
+    },
+    {
+      "char": "✕",
+      "name": "multiplication x"
+    },
+    {
+      "char": "✖",
+      "name": "heavy multiplication x"
+    },
+    {
+      "char": "✗",
+      "name": "ballot x"
+    },
+    {
+      "char": "✙",
+      "name": "outlined greek cross"
+    },
+    {
+      "char": "✚",
+      "name": "heavy greek cross"
+    },
+    {
+      "char": "✛",
+      "name": "open centre cross"
+    },
+    {
+      "char": "✜",
+      "name": "heavy open centre cross"
+    },
+    {
+      "char": "✞",
+      "name": "shadowed white latin cross"
+    },
+    {
+      "char": "✟",
+      "name": "outlined latin cross"
+    },
+    {
+      "char": "✠",
+      "name": "maltese cross"
+    },
+    {
+      "char": "✢",
+      "name": "four teardrop-spoked asterisk"
+    },
+    {
+      "char": "✣",
+      "name": "four balloon-spoked asterisk"
+    },
+    {
+      "char": "✤",
+      "name": "heavy four balloon-spoked asterisk"
+    },
+    {
+      "char": "✥",
+      "name": "four club-spoked asterisk"
+    },
+    {
+      "char": "✦",
+      "name": "black four pointed star"
+    },
+    {
+      "char": "✧",
+      "name": "white four pointed star"
+    },
+    {
+      "char": "✩",
+      "name": "stress outlined white star"
+    },
+    {
+      "char": "✪",
+      "name": "circled white star"
+    },
+    {
+      "char": "✫",
+      "name": "open centre black star"
+    },
+    {
+      "char": "✬",
+      "name": "black centre white star"
+    },
+    {
+      "char": "✭",
+      "name": "outlined black star"
+    },
+    {
+      "char": "✮",
+      "name": "heavy outlined black star"
+    },
+    {
+      "char": "✯",
+      "name": "pinwheel star"
+    },
+    {
+      "char": "✰",
+      "name": "shadowed white star"
+    },
+    {
+      "char": "✳",
+      "name": "eight spoked asterisk"
+    },
+    {
+      "char": "✴",
+      "name": "eight pointed black star"
+    },
+    {
+      "char": "✵",
+      "name": "eight pointed pinwheel star"
+    },
+    {
+      "char": "✶",
+      "name": "six pointed black star"
+    },
+    {
+      "char": "✷",
+      "name": "eight pointed rectilinear black star"
+    },
+    {
+      "char": "✸",
+      "name": "heavy eight pointed rectilinear black star"
+    },
+    {
+      "char": "✹",
+      "name": "twelve pointed black star"
+    },
+    {
+      "char": "✺",
+      "name": "sixteen pointed asterisk"
+    },
+    {
+      "char": "✻",
+      "name": "teardrop-spoked asterisk"
+    },
+    {
+      "char": "✼",
+      "name": "open centre teardrop-spoked asterisk"
+    },
+    {
+      "char": "✽",
+      "name": "heavy teardrop-spoked asterisk"
+    },
+    {
+      "char": "✾",
+      "name": "six petalled black and white florette"
+    },
+    {
+      "char": "✿",
+      "name": "black florette"
+    },
+    {
+      "char": "❀",
+      "name": "white florette"
+    },
+    {
+      "char": "❁",
+      "name": "eight petalled outlined black florette"
+    },
+    {
+      "char": "❂",
+      "name": "circled open centre eight pointed star"
+    },
+    {
+      "char": "❃",
+      "name": "heavy teardrop-spoked pinwheel asterisk"
+    },
+    {
+      "char": "❅",
+      "name": "tight trifoliate snowflake"
+    },
+    {
+      "char": "❆",
+      "name": "heavy chevron snowflake"
+    },
+    {
+      "char": "❈",
+      "name": "heavy sparkle"
+    },
+    {
+      "char": "❉",
+      "name": "balloon-spoked asterisk"
+    },
+    {
+      "char": "❊",
+      "name": "eight teardrop-spoked propeller asterisk"
+    },
+    {
+      "char": "❋",
+      "name": "heavy eight teardrop-spoked propeller asterisk"
+    },
+    {
+      "char": "❍",
+      "name": "shadowed white circle"
+    },
+    {
+      "char": "❏",
+      "name": "lower right drop-shadowed white square"
+    },
+    {
+      "char": "❐",
+      "name": "upper right drop-shadowed white square"
+    },
+    {
+      "char": "❑",
+      "name": "lower right shadowed white square"
+    },
+    {
+      "char": "❒",
+      "name": "upper right shadowed white square"
+    },
+    {
+      "char": "❖",
+      "name": "black diamond minus white x"
+    },
+    {
+      "char": "❘",
+      "name": "light vertical bar"
+    },
+    {
+      "char": "❙",
+      "name": "medium vertical bar"
+    },
+    {
+      "char": "❚",
+      "name": "heavy vertical bar"
+    },
+    {
+      "char": "❛",
+      "name": "heavy single turned comma quotation mark ornament"
+    },
+    {
+      "char": "❜",
+      "name": "heavy single comma quotation mark ornament"
+    },
+    {
+      "char": "❝",
+      "name": "heavy double turned comma quotation mark ornament"
+    },
+    {
+      "char": "❞",
+      "name": "heavy double comma quotation mark ornament"
+    },
+    {
+      "char": "❡",
+      "name": "curved stem paragraph sign ornament"
+    },
+    {
+      "char": "❢",
+      "name": "heavy exclamation mark ornament"
+    },
+    {
+      "char": "❥",
+      "name": "rotated heavy black heart bullet"
+    },
+    {
+      "char": "❦",
+      "name": "floral heart"
+    },
+    {
+      "char": "❧",
+      "name": "rotated floral heart bullet"
+    },
+    {
+      "char": "❨",
+      "name": "medium left parenthesis ornament"
+    },
+    {
+      "char": "❩",
+      "name": "medium right parenthesis ornament"
+    },
+    {
+      "char": "❪",
+      "name": "medium flattened left parenthesis ornament"
+    },
+    {
+      "char": "❫",
+      "name": "medium flattened right parenthesis ornament"
+    },
+    {
+      "char": "❬",
+      "name": "medium left-pointing angle bracket ornament"
+    },
+    {
+      "char": "❭",
+      "name": "medium right-pointing angle bracket ornament"
+    },
+    {
+      "char": "❮",
+      "name": "heavy left-pointing angle quotation mark ornament"
+    },
+    {
+      "char": "❯",
+      "name": "heavy right-pointing angle quotation mark ornament"
+    },
+    {
+      "char": "❰",
+      "name": "heavy left-pointing angle bracket ornament"
+    },
+    {
+      "char": "❱",
+      "name": "heavy right-pointing angle bracket ornament"
+    },
+    {
+      "char": "❲",
+      "name": "light left tortoise shell bracket ornament"
+    },
+    {
+      "char": "❳",
+      "name": "light right tortoise shell bracket ornament"
+    },
+    {
+      "char": "❴",
+      "name": "medium left curly bracket ornament"
+    },
+    {
+      "char": "❵",
+      "name": "medium right curly bracket ornament"
+    },
+    {
+      "char": "❶",
+      "name": "dingbat negative circled digit one"
+    },
+    {
+      "char": "❷",
+      "name": "dingbat negative circled digit two"
+    },
+    {
+      "char": "❸",
+      "name": "dingbat negative circled digit three"
+    },
+    {
+      "char": "❹",
+      "name": "dingbat negative circled digit four"
+    },
+    {
+      "char": "❺",
+      "name": "dingbat negative circled digit five"
+    },
+    {
+      "char": "❻",
+      "name": "dingbat negative circled digit six"
+    },
+    {
+      "char": "❼",
+      "name": "dingbat negative circled digit seven"
+    },
+    {
+      "char": "❽",
+      "name": "dingbat negative circled digit eight"
+    },
+    {
+      "char": "❾",
+      "name": "dingbat negative circled digit nine"
+    },
+    {
+      "char": "❿",
+      "name": "dingbat negative circled number ten"
+    },
+    {
+      "char": "➀",
+      "name": "dingbat circled sans-serif digit one"
+    },
+    {
+      "char": "➁",
+      "name": "dingbat circled sans-serif digit two"
+    },
+    {
+      "char": "➂",
+      "name": "dingbat circled sans-serif digit three"
+    },
+    {
+      "char": "➃",
+      "name": "dingbat circled sans-serif digit four"
+    },
+    {
+      "char": "➄",
+      "name": "dingbat circled sans-serif digit five"
+    },
+    {
+      "char": "➅",
+      "name": "dingbat circled sans-serif digit six"
+    },
+    {
+      "char": "➆",
+      "name": "dingbat circled sans-serif digit seven"
+    },
+    {
+      "char": "➇",
+      "name": "dingbat circled sans-serif digit eight"
+    },
+    {
+      "char": "➈",
+      "name": "dingbat circled sans-serif digit nine"
+    },
+    {
+      "char": "➉",
+      "name": "dingbat circled sans-serif number ten"
+    },
+    {
+      "char": "➊",
+      "name": "dingbat negative circled sans-serif digit one"
+    },
+    {
+      "char": "➋",
+      "name": "dingbat negative circled sans-serif digit two"
+    },
+    {
+      "char": "➌",
+      "name": "dingbat negative circled sans-serif digit three"
+    },
+    {
+      "char": "➍",
+      "name": "dingbat negative circled sans-serif digit four"
+    },
+    {
+      "char": "➎",
+      "name": "dingbat negative circled sans-serif digit five"
+    },
+    {
+      "char": "➏",
+      "name": "dingbat negative circled sans-serif digit six"
+    },
+    {
+      "char": "➐",
+      "name": "dingbat negative circled sans-serif digit seven"
+    },
+    {
+      "char": "➑",
+      "name": "dingbat negative circled sans-serif digit eight"
+    },
+    {
+      "char": "➒",
+      "name": "dingbat negative circled sans-serif digit nine"
+    },
+    {
+      "char": "➓",
+      "name": "dingbat negative circled sans-serif number ten"
+    },
+    {
+      "char": "➔",
+      "name": "heavy wide-headed right arrow"
+    },
+    {
+      "char": "➘",
+      "name": "heavy south east arrow"
+    },
+    {
+      "char": "➙",
+      "name": "heavy right arrow"
+    },
+    {
+      "char": "➚",
+      "name": "heavy north east arrow"
+    },
+    {
+      "char": "➛",
+      "name": "drafting point right arrow"
+    },
+    {
+      "char": "➜",
+      "name": "heavy round-tipped right arrow"
+    },
+    {
+      "char": "➝",
+      "name": "triangle-headed right arrow"
+    },
+    {
+      "char": "➞",
+      "name": "heavy triangle-headed right arrow"
+    },
+    {
+      "char": "➟",
+      "name": "dashed triangle-headed right arrow"
+    },
+    {
+      "char": "➠",
+      "name": "heavy dashed triangle-headed right arrow"
+    },
+    {
+      "char": "➡",
+      "name": "black right arrow"
+    },
+    {
+      "char": "➢",
+      "name": "three-d top-lighted right arrowhead"
+    },
+    {
+      "char": "➣",
+      "name": "three-d bottom-lighted right arrowhead"
+    },
+    {
+      "char": "➤",
+      "name": "black right arrowhead"
+    },
+    {
+      "char": "➥",
+      "name": "heavy black curved down and right arrow"
+    },
+    {
+      "char": "➦",
+      "name": "heavy black curved up and right arrow"
+    },
+    {
+      "char": "➧",
+      "name": "squat black right arrow"
+    },
+    {
+      "char": "➨",
+      "name": "heavy concave-pointed black right arrow"
+    },
+    {
+      "char": "➩",
+      "name": "right-shaded white right arrow"
+    },
+    {
+      "char": "➪",
+      "name": "left-shaded white right arrow"
+    },
+    {
+      "char": "➫",
+      "name": "back-tilted shadowed white right arrow"
+    },
+    {
+      "char": "➬",
+      "name": "front-tilted shadowed white right arrow"
+    },
+    {
+      "char": "➭",
+      "name": "heavy lower right-shadowed white right arrow"
+    },
+    {
+      "char": "➮",
+      "name": "heavy upper right-shadowed white right arrow"
+    },
+    {
+      "char": "➯",
+      "name": "notched lower right-shadowed white right arrow"
+    },
+    {
+      "char": "➱",
+      "name": "notched upper right-shadowed white right arrow"
+    },
+    {
+      "char": "➲",
+      "name": "circled heavy white right arrow"
+    },
+    {
+      "char": "➳",
+      "name": "white-feathered right arrow"
+    },
+    {
+      "char": "➴",
+      "name": "black-feathered south east arrow"
+    },
+    {
+      "char": "➵",
+      "name": "black-feathered right arrow"
+    },
+    {
+      "char": "➶",
+      "name": "black-feathered north east arrow"
+    },
+    {
+      "char": "➷",
+      "name": "heavy black-feathered south east arrow"
+    },
+    {
+      "char": "➸",
+      "name": "heavy black-feathered right arrow"
+    },
+    {
+      "char": "➹",
+      "name": "heavy black-feathered north east arrow"
+    },
+    {
+      "char": "➺",
+      "name": "teardrop-barbed right arrow"
+    },
+    {
+      "char": "➻",
+      "name": "heavy teardrop-shanked right arrow"
+    },
+    {
+      "char": "➼",
+      "name": "wedge-tailed right arrow"
+    },
+    {
+      "char": "➽",
+      "name": "heavy wedge-tailed right arrow"
+    },
+    {
+      "char": "➾",
+      "name": "open-outlined right arrow"
+    }
+  ]
+}

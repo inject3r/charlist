@@ -1,0 +1,1030 @@
+{
+  "id": "arrows",
+  "name": "Arrows",
+  "chars": [
+    {
+      "char": "←",
+      "name": "left arrow"
+    },
+    {
+      "char": "↑",
+      "name": "up arrow"
+    },
+    {
+      "char": "→",
+      "name": "right arrow"
+    },
+    {
+      "char": "↓",
+      "name": "down arrow"
+    },
+    {
+      "char": "↔",
+      "name": "left right arrow"
+    },
+    {
+      "char": "↕",
+      "name": "up down arrow"
+    },
+    {
+      "char": "↖",
+      "name": "north west arrow"
+    },
+    {
+      "char": "↗",
+      "name": "north east arrow"
+    },
+    {
+      "char": "↘",
+      "name": "south east arrow"
+    },
+    {
+      "char": "↙",
+      "name": "south west arrow"
+    },
+    {
+      "char": "↚",
+      "name": "left arrow with stroke"
+    },
+    {
+      "char": "↛",
+      "name": "right arrow with stroke"
+    },
+    {
+      "char": "↜",
+      "name": "left wave arrow"
+    },
+    {
+      "char": "↝",
+      "name": "right wave arrow"
+    },
+    {
+      "char": "↞",
+      "name": "left two headed arrow"
+    },
+    {
+      "char": "↟",
+      "name": "up two headed arrow"
+    },
+    {
+      "char": "↠",
+      "name": "right two headed arrow"
+    },
+    {
+      "char": "↡",
+      "name": "down two headed arrow"
+    },
+    {
+      "char": "↢",
+      "name": "left arrow with tail"
+    },
+    {
+      "char": "↣",
+      "name": "right arrow with tail"
+    },
+    {
+      "char": "↤",
+      "name": "left arrow from bar"
+    },
+    {
+      "char": "↥",
+      "name": "up arrow from bar"
+    },
+    {
+      "char": "↦",
+      "name": "right arrow from bar"
+    },
+    {
+      "char": "↧",
+      "name": "down arrow from bar"
+    },
+    {
+      "char": "↨",
+      "name": "up down arrow with base"
+    },
+    {
+      "char": "↩",
+      "name": "left arrow with hook"
+    },
+    {
+      "char": "↪",
+      "name": "right arrow with hook"
+    },
+    {
+      "char": "↫",
+      "name": "left arrow with loop"
+    },
+    {
+      "char": "↬",
+      "name": "right arrow with loop"
+    },
+    {
+      "char": "↭",
+      "name": "left right wave arrow"
+    },
+    {
+      "char": "↮",
+      "name": "left right arrow with stroke"
+    },
+    {
+      "char": "↯",
+      "name": "down zigzag arrow"
+    },
+    {
+      "char": "↰",
+      "name": "up arrow with tip left"
+    },
+    {
+      "char": "↱",
+      "name": "up arrow with tip right"
+    },
+    {
+      "char": "↲",
+      "name": "down arrow with tip left"
+    },
+    {
+      "char": "↳",
+      "name": "down arrow with tip right"
+    },
+    {
+      "char": "↴",
+      "name": "right arrow with corner down"
+    },
+    {
+      "char": "↵",
+      "name": "down arrow with corner left"
+    },
+    {
+      "char": "↶",
+      "name": "anticlockwise top semicircle arrow"
+    },
+    {
+      "char": "↷",
+      "name": "clockwise top semicircle arrow"
+    },
+    {
+      "char": "↸",
+      "name": "north west arrow to long bar"
+    },
+    {
+      "char": "↹",
+      "name": "left arrow to bar over right arrow to bar"
+    },
+    {
+      "char": "↺",
+      "name": "anticlockwise open circle arrow"
+    },
+    {
+      "char": "↻",
+      "name": "clockwise open circle arrow"
+    },
+    {
+      "char": "↼",
+      "name": "left harpoon with barb up"
+    },
+    {
+      "char": "↽",
+      "name": "left harpoon with barb down"
+    },
+    {
+      "char": "↾",
+      "name": "up harpoon with barb right"
+    },
+    {
+      "char": "↿",
+      "name": "up harpoon with barb left"
+    },
+    {
+      "char": "⇀",
+      "name": "right harpoon with barb up"
+    },
+    {
+      "char": "⇁",
+      "name": "right harpoon with barb down"
+    },
+    {
+      "char": "⇂",
+      "name": "down harpoon with barb right"
+    },
+    {
+      "char": "⇃",
+      "name": "down harpoon with barb left"
+    },
+    {
+      "char": "⇄",
+      "name": "right arrow over left arrow"
+    },
+    {
+      "char": "⇅",
+      "name": "up arrow left of down arrow"
+    },
+    {
+      "char": "⇆",
+      "name": "left arrow over right arrow"
+    },
+    {
+      "char": "⇇",
+      "name": "left paired arrows"
+    },
+    {
+      "char": "⇈",
+      "name": "up paired arrows"
+    },
+    {
+      "char": "⇉",
+      "name": "right paired arrows"
+    },
+    {
+      "char": "⇊",
+      "name": "downards paired arrows"
+    },
+    {
+      "char": "⇋",
+      "name": "left harpoon over right harpoon"
+    },
+    {
+      "char": "⇌",
+      "name": "right harpoon over left harpoon"
+    },
+    {
+      "char": "⇍",
+      "name": "left double arrow with stroke"
+    },
+    {
+      "char": "⇎",
+      "name": "left right double arrow with stroke"
+    },
+    {
+      "char": "⇏",
+      "name": "right double arrow with stroke"
+    },
+    {
+      "char": "⇐",
+      "name": "left double arrow"
+    },
+    {
+      "char": "⇑",
+      "name": "up double arrow"
+    },
+    {
+      "char": "⇒",
+      "name": "right double arrow"
+    },
+    {
+      "char": "⇓",
+      "name": "down double arrow"
+    },
+    {
+      "char": "⇔",
+      "name": "left right double arrow"
+    },
+    {
+      "char": "⇕",
+      "name": "up down double arrow"
+    },
+    {
+      "char": "⇖",
+      "name": "north west double arrow"
+    },
+    {
+      "char": "⇗",
+      "name": "north east double arrow"
+    },
+    {
+      "char": "⇘",
+      "name": "south east double arrow"
+    },
+    {
+      "char": "⇙",
+      "name": "south west double arrow"
+    },
+    {
+      "char": "⇚",
+      "name": "left triple arrow"
+    },
+    {
+      "char": "⇛",
+      "name": "right triple arrow"
+    },
+    {
+      "char": "⇜",
+      "name": "left squiggle arrow"
+    },
+    {
+      "char": "⇝",
+      "name": "right squiggle arrow"
+    },
+    {
+      "char": "⇞",
+      "name": "up arrow with double stroke"
+    },
+    {
+      "char": "⇟",
+      "name": "down arrow with double stroke"
+    },
+    {
+      "char": "⇠",
+      "name": "left dashed arrow"
+    },
+    {
+      "char": "⇡",
+      "name": "up dashed arrow"
+    },
+    {
+      "char": "⇢",
+      "name": "right dashed arrow"
+    },
+    {
+      "char": "⇣",
+      "name": "down dashed arrow"
+    },
+    {
+      "char": "⇤",
+      "name": "left arrow to bar"
+    },
+    {
+      "char": "⇥",
+      "name": "right arrow to bar"
+    },
+    {
+      "char": "⇦",
+      "name": "left white arrow"
+    },
+    {
+      "char": "⇧",
+      "name": "up white arrow"
+    },
+    {
+      "char": "⇨",
+      "name": "right white arrow"
+    },
+    {
+      "char": "⇩",
+      "name": "down white arrow"
+    },
+    {
+      "char": "⇪",
+      "name": "up white arrow from bar"
+    },
+    {
+      "char": "⇫",
+      "name": "up white arrow on pedestal"
+    },
+    {
+      "char": "⇬",
+      "name": "up white arrow on pedestal with horizontal bar"
+    },
+    {
+      "char": "⇭",
+      "name": "up white arrow on pedestal with vertical bar"
+    },
+    {
+      "char": "⇮",
+      "name": "up white double arrow"
+    },
+    {
+      "char": "⇯",
+      "name": "up white double arrow on pedestal"
+    },
+    {
+      "char": "⇰",
+      "name": "right white arrow from wall"
+    },
+    {
+      "char": "⇱",
+      "name": "north west arrow to corner"
+    },
+    {
+      "char": "⇲",
+      "name": "south east arrow to corner"
+    },
+    {
+      "char": "⇳",
+      "name": "up down white arrow"
+    },
+    {
+      "char": "⇴",
+      "name": "right arrow with small circle"
+    },
+    {
+      "char": "⇵",
+      "name": "down arrow left of up arrow"
+    },
+    {
+      "char": "⇶",
+      "name": "three right arrows"
+    },
+    {
+      "char": "⇷",
+      "name": "left arrow with vertical stroke"
+    },
+    {
+      "char": "⇸",
+      "name": "right arrow with vertical stroke"
+    },
+    {
+      "char": "⇹",
+      "name": "left right arrow with vertical stroke"
+    },
+    {
+      "char": "⇺",
+      "name": "left arrow with double vertical stroke"
+    },
+    {
+      "char": "⇻",
+      "name": "right arrow with double vertical stroke"
+    },
+    {
+      "char": "⇼",
+      "name": "left right arrow with double vertical stroke"
+    },
+    {
+      "char": "⇽",
+      "name": "left open-headed arrow"
+    },
+    {
+      "char": "⇾",
+      "name": "right open-headed arrow"
+    },
+    {
+      "char": "⇿",
+      "name": "left right open-headed arrow"
+    },
+    {
+      "char": "⟰",
+      "name": "up quadruple arrow"
+    },
+    {
+      "char": "⟱",
+      "name": "down quadruple arrow"
+    },
+    {
+      "char": "⟲",
+      "name": "anticlockwise gapped circle arrow"
+    },
+    {
+      "char": "⟳",
+      "name": "clockwise gapped circle arrow"
+    },
+    {
+      "char": "⟴",
+      "name": "right arrow with circled plus"
+    },
+    {
+      "char": "⟵",
+      "name": "long left arrow"
+    },
+    {
+      "char": "⟶",
+      "name": "long right arrow"
+    },
+    {
+      "char": "⟷",
+      "name": "long left right arrow"
+    },
+    {
+      "char": "⟸",
+      "name": "long left double arrow"
+    },
+    {
+      "char": "⟹",
+      "name": "long right double arrow"
+    },
+    {
+      "char": "⟺",
+      "name": "long left right double arrow"
+    },
+    {
+      "char": "⟻",
+      "name": "long left arrow from bar"
+    },
+    {
+      "char": "⟼",
+      "name": "long right arrow from bar"
+    },
+    {
+      "char": "⟽",
+      "name": "long left double arrow from bar"
+    },
+    {
+      "char": "⟾",
+      "name": "long right double arrow from bar"
+    },
+    {
+      "char": "⟿",
+      "name": "long right squiggle arrow"
+    },
+    {
+      "char": "⤀",
+      "name": "right two-headed arrow with vertical stroke"
+    },
+    {
+      "char": "⤁",
+      "name": "right two-headed arrow with double vertical stroke"
+    },
+    {
+      "char": "⤂",
+      "name": "left double arrow with vertical stroke"
+    },
+    {
+      "char": "⤃",
+      "name": "right double arrow with vertical stroke"
+    },
+    {
+      "char": "⤄",
+      "name": "left right double arrow with vertical stroke"
+    },
+    {
+      "char": "⤅",
+      "name": "right two-headed arrow from bar"
+    },
+    {
+      "char": "⤆",
+      "name": "left double arrow from bar"
+    },
+    {
+      "char": "⤇",
+      "name": "right double arrow from bar"
+    },
+    {
+      "char": "⤈",
+      "name": "down arrow with horizontal stroke"
+    },
+    {
+      "char": "⤉",
+      "name": "up arrow with horizontal stroke"
+    },
+    {
+      "char": "⤊",
+      "name": "up triple arrow"
+    },
+    {
+      "char": "⤋",
+      "name": "down triple arrow"
+    },
+    {
+      "char": "⤌",
+      "name": "left double dash arrow"
+    },
+    {
+      "char": "⤍",
+      "name": "right double dash arrow"
+    },
+    {
+      "char": "⤎",
+      "name": "left triple dash arrow"
+    },
+    {
+      "char": "⤏",
+      "name": "right triple dash arrow"
+    },
+    {
+      "char": "⤐",
+      "name": "right two-headed triple dash arrow"
+    },
+    {
+      "char": "⤑",
+      "name": "right arrow with dotted stem"
+    },
+    {
+      "char": "⤒",
+      "name": "up arrow to bar"
+    },
+    {
+      "char": "⤓",
+      "name": "down arrow to bar"
+    },
+    {
+      "char": "⤔",
+      "name": "right arrow with tail with vertical stroke"
+    },
+    {
+      "char": "⤕",
+      "name": "right arrow with tail with double vertical stroke"
+    },
+    {
+      "char": "⤖",
+      "name": "right two-headed arrow with tail"
+    },
+    {
+      "char": "⤗",
+      "name": "right two-headed arrow with tail with vertical stroke"
+    },
+    {
+      "char": "⤘",
+      "name": "right two-headed arrow with tail with double vertical stroke"
+    },
+    {
+      "char": "⤙",
+      "name": "left arrow-tail"
+    },
+    {
+      "char": "⤚",
+      "name": "right arrow-tail"
+    },
+    {
+      "char": "⤛",
+      "name": "left double arrow-tail"
+    },
+    {
+      "char": "⤜",
+      "name": "right double arrow-tail"
+    },
+    {
+      "char": "⤝",
+      "name": "left arrow to black diamond"
+    },
+    {
+      "char": "⤞",
+      "name": "right arrow to black diamond"
+    },
+    {
+      "char": "⤟",
+      "name": "left arrow from bar to black diamond"
+    },
+    {
+      "char": "⤠",
+      "name": "right arrow from bar to black diamond"
+    },
+    {
+      "char": "⤡",
+      "name": "north west and south east arrow"
+    },
+    {
+      "char": "⤢",
+      "name": "north east and south west arrow"
+    },
+    {
+      "char": "⤣",
+      "name": "north west arrow with hook"
+    },
+    {
+      "char": "⤤",
+      "name": "north east arrow with hook"
+    },
+    {
+      "char": "⤥",
+      "name": "south east arrow with hook"
+    },
+    {
+      "char": "⤦",
+      "name": "south west arrow with hook"
+    },
+    {
+      "char": "⤧",
+      "name": "north west arrow and north east arrow"
+    },
+    {
+      "char": "⤨",
+      "name": "north east arrow and south east arrow"
+    },
+    {
+      "char": "⤩",
+      "name": "south east arrow and south west arrow"
+    },
+    {
+      "char": "⤪",
+      "name": "south west arrow and north west arrow"
+    },
+    {
+      "char": "⤫",
+      "name": "rising diagonal crossing falling diagonal"
+    },
+    {
+      "char": "⤬",
+      "name": "falling diagonal crossing rising diagonal"
+    },
+    {
+      "char": "⤭",
+      "name": "south east arrow crossing north east arrow"
+    },
+    {
+      "char": "⤮",
+      "name": "north east arrow crossing south east arrow"
+    },
+    {
+      "char": "⤯",
+      "name": "falling diagonal crossing north east arrow"
+    },
+    {
+      "char": "⤰",
+      "name": "rising diagonal crossing south east arrow"
+    },
+    {
+      "char": "⤱",
+      "name": "north east arrow crossing north west arrow"
+    },
+    {
+      "char": "⤲",
+      "name": "north west arrow crossing north east arrow"
+    },
+    {
+      "char": "⤳",
+      "name": "wave arrow pointing directly right"
+    },
+    {
+      "char": "⤴",
+      "name": "arrow pointing right then curving up"
+    },
+    {
+      "char": "⤵",
+      "name": "arrow pointing right then curving down"
+    },
+    {
+      "char": "⤶",
+      "name": "arrow pointing down then curving left"
+    },
+    {
+      "char": "⤷",
+      "name": "arrow pointing down then curving right"
+    },
+    {
+      "char": "⤸",
+      "name": "right-side arc clockwise arrow"
+    },
+    {
+      "char": "⤹",
+      "name": "left-side arc anticlockwise arrow"
+    },
+    {
+      "char": "⤺",
+      "name": "top arc anticlockwise arrow"
+    },
+    {
+      "char": "⤻",
+      "name": "bottom arc anticlockwise arrow"
+    },
+    {
+      "char": "⤼",
+      "name": "top arc clockwise arrow with minus"
+    },
+    {
+      "char": "⤽",
+      "name": "top arc anticlockwise arrow with plus"
+    },
+    {
+      "char": "⤾",
+      "name": "lower right semicircular clockwise arrow"
+    },
+    {
+      "char": "⤿",
+      "name": "lower left semicircular anticlockwise arrow"
+    },
+    {
+      "char": "⥀",
+      "name": "anticlockwise closed circle arrow"
+    },
+    {
+      "char": "⥁",
+      "name": "clockwise closed circle arrow"
+    },
+    {
+      "char": "⥂",
+      "name": "right arrow above short left arrow"
+    },
+    {
+      "char": "⥃",
+      "name": "left arrow above short right arrow"
+    },
+    {
+      "char": "⥄",
+      "name": "short right arrow above left arrow"
+    },
+    {
+      "char": "⥅",
+      "name": "right arrow with plus below"
+    },
+    {
+      "char": "⥆",
+      "name": "left arrow with plus below"
+    },
+    {
+      "char": "⥇",
+      "name": "right arrow through x"
+    },
+    {
+      "char": "⥈",
+      "name": "left right arrow through small circle"
+    },
+    {
+      "char": "⥉",
+      "name": "up two-headed arrow from small circle"
+    },
+    {
+      "char": "⥊",
+      "name": "left barb up right barb down harpoon"
+    },
+    {
+      "char": "⥋",
+      "name": "left barb down right barb up harpoon"
+    },
+    {
+      "char": "⥌",
+      "name": "up barb right down barb left harpoon"
+    },
+    {
+      "char": "⥍",
+      "name": "up barb left down barb right harpoon"
+    },
+    {
+      "char": "⥎",
+      "name": "left barb up right barb up harpoon"
+    },
+    {
+      "char": "⥏",
+      "name": "up barb right down barb right harpoon"
+    },
+    {
+      "char": "⥐",
+      "name": "left barb down right barb down harpoon"
+    },
+    {
+      "char": "⥑",
+      "name": "up barb left down barb left harpoon"
+    },
+    {
+      "char": "⥒",
+      "name": "left harpoon with barb up to bar"
+    },
+    {
+      "char": "⥓",
+      "name": "right harpoon with barb up to bar"
+    },
+    {
+      "char": "⥔",
+      "name": "up harpoon with barb right to bar"
+    },
+    {
+      "char": "⥕",
+      "name": "down harpoon with barb right to bar"
+    },
+    {
+      "char": "⥖",
+      "name": "left harpoon with barb down to bar"
+    },
+    {
+      "char": "⥗",
+      "name": "right harpoon with barb down to bar"
+    },
+    {
+      "char": "⥘",
+      "name": "up harpoon with barb left to bar"
+    },
+    {
+      "char": "⥙",
+      "name": "down harpoon with barb left to bar"
+    },
+    {
+      "char": "⥚",
+      "name": "left harpoon with barb up from bar"
+    },
+    {
+      "char": "⥛",
+      "name": "right harpoon with barb up from bar"
+    },
+    {
+      "char": "⥜",
+      "name": "up harpoon with barb right from bar"
+    },
+    {
+      "char": "⥝",
+      "name": "down harpoon with barb right from bar"
+    },
+    {
+      "char": "⥞",
+      "name": "left harpoon with barb down from bar"
+    },
+    {
+      "char": "⥟",
+      "name": "right harpoon with barb down from bar"
+    },
+    {
+      "char": "⥠",
+      "name": "up harpoon with barb left from bar"
+    },
+    {
+      "char": "⥡",
+      "name": "down harpoon with barb left from bar"
+    },
+    {
+      "char": "⥢",
+      "name": "left harpoon with barb up above left harpoon with barb down"
+    },
+    {
+      "char": "⥣",
+      "name": "up harpoon with barb left beside up harpoon with barb right"
+    },
+    {
+      "char": "⥤",
+      "name": "right harpoon with barb up above right harpoon with barb down"
+    },
+    {
+      "char": "⥥",
+      "name": "down harpoon with barb left beside down harpoon with barb right"
+    },
+    {
+      "char": "⥦",
+      "name": "left harpoon with barb up above right harpoon with barb up"
+    },
+    {
+      "char": "⥧",
+      "name": "left harpoon with barb down above right harpoon with barb down"
+    },
+    {
+      "char": "⥨",
+      "name": "right harpoon with barb up above left harpoon with barb up"
+    },
+    {
+      "char": "⥩",
+      "name": "right harpoon with barb down above left harpoon with barb down"
+    },
+    {
+      "char": "⥪",
+      "name": "left harpoon with barb up above long dash"
+    },
+    {
+      "char": "⥫",
+      "name": "left harpoon with barb down below long dash"
+    },
+    {
+      "char": "⥬",
+      "name": "right harpoon with barb up above long dash"
+    },
+    {
+      "char": "⥭",
+      "name": "right harpoon with barb down below long dash"
+    },
+    {
+      "char": "⥮",
+      "name": "up harpoon with barb left beside down harpoon with barb right"
+    },
+    {
+      "char": "⥯",
+      "name": "down harpoon with barb left beside up harpoon with barb right"
+    },
+    {
+      "char": "⥰",
+      "name": "right double arrow with rounded head"
+    },
+    {
+      "char": "⥱",
+      "name": "equals sign above right arrow"
+    },
+    {
+      "char": "⥲",
+      "name": "tilde operator above right arrow"
+    },
+    {
+      "char": "⥳",
+      "name": "left arrow above tilde operator"
+    },
+    {
+      "char": "⥴",
+      "name": "right arrow above tilde operator"
+    },
+    {
+      "char": "⥵",
+      "name": "right arrow above almost equal to"
+    },
+    {
+      "char": "⥶",
+      "name": "less-than above left arrow"
+    },
+    {
+      "char": "⥷",
+      "name": "left arrow through less-than"
+    },
+    {
+      "char": "⥸",
+      "name": "greater-than above right arrow"
+    },
+    {
+      "char": "⥹",
+      "name": "subset above right arrow"
+    },
+    {
+      "char": "⥺",
+      "name": "left arrow through subset"
+    },
+    {
+      "char": "⥻",
+      "name": "superset above left arrow"
+    },
+    {
+      "char": "⥼",
+      "name": "left fish tail"
+    },
+    {
+      "char": "⥽",
+      "name": "right fish tail"
+    },
+    {
+      "char": "⥾",
+      "name": "up fish tail"
+    },
+    {
+      "char": "⥿",
+      "name": "down fish tail"
+    }
+  ]
+}

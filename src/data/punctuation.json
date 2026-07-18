@@ -1,0 +1,514 @@
+{
+  "id": "punctuation",
+  "name": "Punctuation",
+  "chars": [
+    {
+      "char": "!",
+      "name": "exclamation mark"
+    },
+    {
+      "char": "#",
+      "name": "number sign"
+    },
+    {
+      "char": "$",
+      "name": "dollar sign"
+    },
+    {
+      "char": "%",
+      "name": "percent sign"
+    },
+    {
+      "char": "&#39;",
+      "name": "apostrophe"
+    },
+    {
+      "char": "&amp;",
+      "name": "ampersand"
+    },
+    {
+      "char": "&gt;",
+      "name": "greater-than sign"
+    },
+    {
+      "char": "&lt;",
+      "name": "less-than sign"
+    },
+    {
+      "char": "&quot;",
+      "name": "quotation mark"
+    },
+    {
+      "char": "(",
+      "name": "left parenthesis"
+    },
+    {
+      "char": ")",
+      "name": "right parenthesis"
+    },
+    {
+      "char": "*",
+      "name": "asterisk"
+    },
+    {
+      "char": "+",
+      "name": "plus sign"
+    },
+    {
+      "char": ",",
+      "name": "comma"
+    },
+    {
+      "char": ".",
+      "name": "period"
+    },
+    {
+      "char": "/",
+      "name": "slash"
+    },
+    {
+      "char": ":",
+      "name": "colon"
+    },
+    {
+      "char": ";",
+      "name": "semicolon"
+    },
+    {
+      "char": "=",
+      "name": "equal sign"
+    },
+    {
+      "char": "?",
+      "name": "question mark"
+    },
+    {
+      "char": "@",
+      "name": "at symbol"
+    },
+    {
+      "char": "[",
+      "name": "left bracket"
+    },
+    {
+      "char": "\\",
+      "name": "backslash"
+    },
+    {
+      "char": "]",
+      "name": "right bracket"
+    },
+    {
+      "char": "^",
+      "name": "caret"
+    },
+    {
+      "char": "_",
+      "name": "underscore"
+    },
+    {
+      "char": "`",
+      "name": "grave accent"
+    },
+    {
+      "char": "{",
+      "name": "left brace"
+    },
+    {
+      "char": "|",
+      "name": "vertical bar"
+    },
+    {
+      "char": "}",
+      "name": "right brace"
+    },
+    {
+      "char": "~",
+      "name": "tilde"
+    },
+    {
+      "char": "¡",
+      "name": "inverted exclamation mark"
+    },
+    {
+      "char": "¢",
+      "name": "cent sign"
+    },
+    {
+      "char": "£",
+      "name": "pound sign"
+    },
+    {
+      "char": "¤",
+      "name": "currency sign"
+    },
+    {
+      "char": "¥",
+      "name": "yen sign"
+    },
+    {
+      "char": "¦",
+      "name": "broken vertical bar"
+    },
+    {
+      "char": "§",
+      "name": "section sign"
+    },
+    {
+      "char": "¨",
+      "name": "umlaut"
+    },
+    {
+      "char": "©",
+      "name": "copyright sign"
+    },
+    {
+      "char": "ª",
+      "name": "feminine ordinal indicator"
+    },
+    {
+      "char": "«",
+      "name": "double left-pointing angle quotation mark"
+    },
+    {
+      "char": "¬",
+      "name": "not sign"
+    },
+    {
+      "char": "®",
+      "name": "registered trade mark sign"
+    },
+    {
+      "char": "¯",
+      "name": "spacing macron"
+    },
+    {
+      "char": "°",
+      "name": "degree sign"
+    },
+    {
+      "char": "±",
+      "name": "plus or minus sign"
+    },
+    {
+      "char": "´",
+      "name": "acute accent"
+    },
+    {
+      "char": "µ",
+      "name": "micro sign"
+    },
+    {
+      "char": "¶",
+      "name": "paragraph sign"
+    },
+    {
+      "char": "·",
+      "name": "middle dot"
+    },
+    {
+      "char": "¸",
+      "name": "spacing cedilla"
+    },
+    {
+      "char": "º",
+      "name": "masculine ordinal indicator"
+    },
+    {
+      "char": "»",
+      "name": "double right-pointing angle quotation mark"
+    },
+    {
+      "char": "¼",
+      "name": "fraction one quarter"
+    },
+    {
+      "char": "½",
+      "name": "fraction one half"
+    },
+    {
+      "char": "¾",
+      "name": "fraction three quarters"
+    },
+    {
+      "char": "¿",
+      "name": "inverted question mark"
+    },
+    {
+      "char": "‐",
+      "name": "hyphen"
+    },
+    {
+      "char": "‑",
+      "name": "non-breaking hyphen"
+    },
+    {
+      "char": "‒",
+      "name": "figure dash"
+    },
+    {
+      "char": "–",
+      "name": "en dash"
+    },
+    {
+      "char": "—",
+      "name": "em dash"
+    },
+    {
+      "char": "―",
+      "name": "horizontal bar"
+    },
+    {
+      "char": "‖",
+      "name": "double vertical line"
+    },
+    {
+      "char": "‗",
+      "name": "double low line"
+    },
+    {
+      "char": "‘",
+      "name": "left single quotation mark"
+    },
+    {
+      "char": "’",
+      "name": "right single quotation mark"
+    },
+    {
+      "char": "‚",
+      "name": "single low-9 quotation mark"
+    },
+    {
+      "char": "‛",
+      "name": "single high-reversed-9 quotation mark"
+    },
+    {
+      "char": "“",
+      "name": "left double quotation mark"
+    },
+    {
+      "char": "”",
+      "name": "right double quotation mark"
+    },
+    {
+      "char": "„",
+      "name": "double low-9 quotation mark"
+    },
+    {
+      "char": "‟",
+      "name": "double high-reversed-9 quotation mark"
+    },
+    {
+      "char": "†",
+      "name": "dagger"
+    },
+    {
+      "char": "‡",
+      "name": "double dagger"
+    },
+    {
+      "char": "•",
+      "name": "bullet"
+    },
+    {
+      "char": "‣",
+      "name": "triangular bullet"
+    },
+    {
+      "char": "․",
+      "name": "one dot leader"
+    },
+    {
+      "char": "‥",
+      "name": "two dot leader"
+    },
+    {
+      "char": "…",
+      "name": "horizontal ellipsis"
+    },
+    {
+      "char": "‧",
+      "name": "hyphenation point"
+    },
+    {
+      "char": "‰",
+      "name": "per mille sign"
+    },
+    {
+      "char": "‱",
+      "name": "per ten thousand sign"
+    },
+    {
+      "char": "′",
+      "name": "prime"
+    },
+    {
+      "char": "″",
+      "name": "double prime"
+    },
+    {
+      "char": "‴",
+      "name": "triple prime"
+    },
+    {
+      "char": "‵",
+      "name": "reversed prime"
+    },
+    {
+      "char": "‶",
+      "name": "reversed double prime"
+    },
+    {
+      "char": "‷",
+      "name": "reversed triple prime"
+    },
+    {
+      "char": "‸",
+      "name": "caret"
+    },
+    {
+      "char": "‹",
+      "name": "single left-pointing angle quotation mark"
+    },
+    {
+      "char": "›",
+      "name": "single right-pointing angle quotation mark"
+    },
+    {
+      "char": "※",
+      "name": "reference mark"
+    },
+    {
+      "char": "‽",
+      "name": "interrobang"
+    },
+    {
+      "char": "‾",
+      "name": "overline"
+    },
+    {
+      "char": "‿",
+      "name": "undertie"
+    },
+    {
+      "char": "⁀",
+      "name": "character tie"
+    },
+    {
+      "char": "⁁",
+      "name": "caret insertion point"
+    },
+    {
+      "char": "⁂",
+      "name": "asterism"
+    },
+    {
+      "char": "⁃",
+      "name": "hyphen bullet"
+    },
+    {
+      "char": "⁄",
+      "name": "fraction slash"
+    },
+    {
+      "char": "⁅",
+      "name": "left square bracket with quill"
+    },
+    {
+      "char": "⁆",
+      "name": "right square bracket with quill"
+    },
+    {
+      "char": "⁇",
+      "name": "double question mark"
+    },
+    {
+      "char": "⁈",
+      "name": "question exclamation mark"
+    },
+    {
+      "char": "⁊",
+      "name": "tironian sign et"
+    },
+    {
+      "char": "⁋",
+      "name": "reversed pilcrow sign"
+    },
+    {
+      "char": "⁌",
+      "name": "black left bullet"
+    },
+    {
+      "char": "⁍",
+      "name": "black right bullet"
+    },
+    {
+      "char": "⁎",
+      "name": "low asterisk"
+    },
+    {
+      "char": "⁏",
+      "name": "reversed semicolon"
+    },
+    {
+      "char": "⁐",
+      "name": "close up"
+    },
+    {
+      "char": "⁑",
+      "name": "two asterisks aligned vertically"
+    },
+    {
+      "char": "⁒",
+      "name": "commercial minus sign"
+    },
+    {
+      "char": "⁓",
+      "name": "swung dash"
+    },
+    {
+      "char": "⁔",
+      "name": "inverted undertie"
+    },
+    {
+      "char": "⁕",
+      "name": "flower punctuation mark"
+    },
+    {
+      "char": "⁖",
+      "name": "three dot punctuation"
+    },
+    {
+      "char": "⁗",
+      "name": "quadruple prime"
+    },
+    {
+      "char": "⁘",
+      "name": "four dot punctuation"
+    },
+    {
+      "char": "⁙",
+      "name": "five dot punctuation"
+    },
+    {
+      "char": "⁚",
+      "name": "two dot punctuation"
+    },
+    {
+      "char": "⁛",
+      "name": "four dot mark"
+    },
+    {
+      "char": "⁜",
+      "name": "dotted cross"
+    },
+    {
+      "char": "⁝",
+      "name": "tricolon"
+    },
+    {
+      "char": "⁞",
+      "name": "vertical four dots"
+    }
+  ]
+}

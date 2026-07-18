@@ -1,0 +1,1914 @@
+{
+  "id": "other",
+  "name": "Other",
+  "chars": [
+    {
+      "char": "×",
+      "name": "multiplication sign"
+    },
+    {
+      "char": "÷",
+      "name": "division sign"
+    },
+    {
+      "char": "̍",
+      "name": "combining vertical line above"
+    },
+    {
+      "char": "̎",
+      "name": "combining double vertical line above"
+    },
+    {
+      "char": "̔",
+      "name": "combining reversed comma above"
+    },
+    {
+      "char": "̕",
+      "name": "combining comma above right"
+    },
+    {
+      "char": "̖",
+      "name": "combining grave accent below"
+    },
+    {
+      "char": "̗",
+      "name": "combining acute accent below"
+    },
+    {
+      "char": "̡",
+      "name": "combining palatalized hook below"
+    },
+    {
+      "char": "̢",
+      "name": "combining retroflex hook below"
+    },
+    {
+      "char": "̫",
+      "name": "combining inverted double arch below"
+    },
+    {
+      "char": "̭",
+      "name": "combining circumflex accent below"
+    },
+    {
+      "char": "̲",
+      "name": "combining low line"
+    },
+    {
+      "char": "̳",
+      "name": "combining double low line"
+    },
+    {
+      "char": "̵",
+      "name": "combining short stroke overlay"
+    },
+    {
+      "char": "̶",
+      "name": "combining long stroke overlay"
+    },
+    {
+      "char": "̷",
+      "name": "combining short solidus overlay"
+    },
+    {
+      "char": "̸",
+      "name": "combining long solidus overlay"
+    },
+    {
+      "char": "̾",
+      "name": "combining vertical tilde"
+    },
+    {
+      "char": "̿",
+      "name": "combining double overline"
+    },
+    {
+      "char": "̀",
+      "name": "combining grave tone mark"
+    },
+    {
+      "char": "́",
+      "name": "combining acute tone mark"
+    },
+    {
+      "char": "̓",
+      "name": "combining greek koronis"
+    },
+    {
+      "char": "̈́",
+      "name": "combining greek dialytika tonos"
+    },
+    {
+      "char": "͆",
+      "name": "combining bridge above"
+    },
+    {
+      "char": "͇",
+      "name": "combining equals sign below"
+    },
+    {
+      "char": "͈",
+      "name": "combining double vertical line below"
+    },
+    {
+      "char": "͉",
+      "name": "combining left angle below"
+    },
+    {
+      "char": "͊",
+      "name": "combining not tilde above"
+    },
+    {
+      "char": "͋",
+      "name": "combining homothetic above"
+    },
+    {
+      "char": "͌",
+      "name": "combining almost equal to above"
+    },
+    {
+      "char": "͍",
+      "name": "combining left right arrow below"
+    },
+    {
+      "char": "͎",
+      "name": "combining up arrow below"
+    },
+    {
+      "char": "͐",
+      "name": "combining right arrowhead above"
+    },
+    {
+      "char": "͑",
+      "name": "combining left half ring above"
+    },
+    {
+      "char": "͒",
+      "name": "combining fermata"
+    },
+    {
+      "char": "͓",
+      "name": "combining x below"
+    },
+    {
+      "char": "͔",
+      "name": "combining left arrowhead below"
+    },
+    {
+      "char": "͕",
+      "name": "combining right arrowhead below"
+    },
+    {
+      "char": "͖",
+      "name": "combining right arrowhead and up arrowhead below"
+    },
+    {
+      "char": "͗",
+      "name": "combining right half ring above"
+    },
+    {
+      "char": "͘",
+      "name": "combining dot above right"
+    },
+    {
+      "char": "͙",
+      "name": "combining asterisk below"
+    },
+    {
+      "char": "͚",
+      "name": "combining double ring below"
+    },
+    {
+      "char": "͛",
+      "name": "combining zigzag above"
+    },
+    {
+      "char": "͜",
+      "name": "combining double breve below"
+    },
+    {
+      "char": "͝",
+      "name": "combining double breve"
+    },
+    {
+      "char": "͞",
+      "name": "combining double macron"
+    },
+    {
+      "char": "͟",
+      "name": "combining double macron below"
+    },
+    {
+      "char": "͠",
+      "name": "combining double tilde"
+    },
+    {
+      "char": "͡",
+      "name": "combining double inverted breve"
+    },
+    {
+      "char": "͢",
+      "name": "combining double rightwards arrow below"
+    },
+    {
+      "char": "ͣ",
+      "name": "combining latin small letter a"
+    },
+    {
+      "char": "ͤ",
+      "name": "combining latin small letter e"
+    },
+    {
+      "char": "ͥ",
+      "name": "combining latin small letter i"
+    },
+    {
+      "char": "ͦ",
+      "name": "combining latin small letter o"
+    },
+    {
+      "char": "ͧ",
+      "name": "combining latin small letter u"
+    },
+    {
+      "char": "ͨ",
+      "name": "combining latin small letter c"
+    },
+    {
+      "char": "ͩ",
+      "name": "combining latin small letter d"
+    },
+    {
+      "char": "ͪ",
+      "name": "combining latin small letter h"
+    },
+    {
+      "char": "ͫ",
+      "name": "combining latin small letter m"
+    },
+    {
+      "char": "ͬ",
+      "name": "combining latin small letter r"
+    },
+    {
+      "char": "ͭ",
+      "name": "combining latin small letter t"
+    },
+    {
+      "char": "ͮ",
+      "name": "combining latin small letter v"
+    },
+    {
+      "char": "ͯ",
+      "name": "combining latin small letter x"
+    },
+    {
+      "char": "৲",
+      "name": "bengali rupee mark"
+    },
+    {
+      "char": "৳",
+      "name": "bengali rupee sign"
+    },
+    {
+      "char": "૱",
+      "name": "gujarati rupee sign"
+    },
+    {
+      "char": "௹",
+      "name": "tamil rupee sign"
+    },
+    {
+      "char": "฿",
+      "name": "thai currency symbol baht"
+    },
+    {
+      "char": "៛",
+      "name": "khmer currency symbol riel"
+    },
+    {
+      "char": "‼",
+      "name": "double exclamation mark"
+    },
+    {
+      "char": "⁉",
+      "name": "exclamation question mark"
+    },
+    {
+      "char": "⁺",
+      "name": "superscript plus sign"
+    },
+    {
+      "char": "⁻",
+      "name": "superscript minus"
+    },
+    {
+      "char": "⁼",
+      "name": "superscript equals sign"
+    },
+    {
+      "char": "⁽",
+      "name": "superscript left parenthesis"
+    },
+    {
+      "char": "⁾",
+      "name": "superscript right parenthesis"
+    },
+    {
+      "char": "ⁿ",
+      "name": "superscript latin small letter n"
+    },
+    {
+      "char": "₊",
+      "name": "subscript plus sign"
+    },
+    {
+      "char": "₋",
+      "name": "subscript minus"
+    },
+    {
+      "char": "₌",
+      "name": "subscript equals sign"
+    },
+    {
+      "char": "₍",
+      "name": "subscript left parenthesis"
+    },
+    {
+      "char": "₎",
+      "name": "subscript right parenthesis"
+    },
+    {
+      "char": "ₐ",
+      "name": "latin subscript small letter a"
+    },
+    {
+      "char": "ₑ",
+      "name": "latin subscript small letter e"
+    },
+    {
+      "char": "ₒ",
+      "name": "latin subscript small letter o"
+    },
+    {
+      "char": "ₓ",
+      "name": "latin subscript small letter x"
+    },
+    {
+      "char": "ₔ",
+      "name": "latin subscript small letter schwa"
+    },
+    {
+      "char": "ℹ",
+      "name": "information source"
+    },
+    {
+      "char": "␛",
+      "name": "symbol for escape"
+    },
+    {
+      "char": "␡",
+      "name": "symbol for delete"
+    },
+    {
+      "char": "␣",
+      "name": "open box"
+    },
+    {
+      "char": "☀",
+      "name": "black sun with rays"
+    },
+    {
+      "char": "☁",
+      "name": "cloud"
+    },
+    {
+      "char": "☂",
+      "name": "umbrella"
+    },
+    {
+      "char": "☃",
+      "name": "snowman"
+    },
+    {
+      "char": "☄",
+      "name": "comet"
+    },
+    {
+      "char": "☎",
+      "name": "black telephone"
+    },
+    {
+      "char": "☑",
+      "name": "ballot box with check"
+    },
+    {
+      "char": "☘",
+      "name": "shamrock"
+    },
+    {
+      "char": "☝",
+      "name": "white up pointing index"
+    },
+    {
+      "char": "☠",
+      "name": "skull and crossbones"
+    },
+    {
+      "char": "☢",
+      "name": "radioactive sign"
+    },
+    {
+      "char": "☣",
+      "name": "biohazard sign"
+    },
+    {
+      "char": "☦",
+      "name": "orthodox cross"
+    },
+    {
+      "char": "☪",
+      "name": "star and crescent"
+    },
+    {
+      "char": "☮",
+      "name": "peace symbol"
+    },
+    {
+      "char": "☯",
+      "name": "yin yang"
+    },
+    {
+      "char": "☸",
+      "name": "wheel of dharma"
+    },
+    {
+      "char": "☹",
+      "name": "white frowning face"
+    },
+    {
+      "char": "☺",
+      "name": "white smiling face"
+    },
+    {
+      "char": "♠",
+      "name": "black spade suit"
+    },
+    {
+      "char": "♣",
+      "name": "black club suit"
+    },
+    {
+      "char": "♥",
+      "name": "black heart suit"
+    },
+    {
+      "char": "♦",
+      "name": "black diamond suit"
+    },
+    {
+      "char": "♨",
+      "name": "hot springs"
+    },
+    {
+      "char": "♻",
+      "name": "black universal recycling symbol"
+    },
+    {
+      "char": "⚒",
+      "name": "hammer and pick"
+    },
+    {
+      "char": "⚔",
+      "name": "crossed swords"
+    },
+    {
+      "char": "⚖",
+      "name": "scales"
+    },
+    {
+      "char": "⚗",
+      "name": "alembic"
+    },
+    {
+      "char": "⚙",
+      "name": "gear"
+    },
+    {
+      "char": "⚛",
+      "name": "atom symbol"
+    },
+    {
+      "char": "⚜",
+      "name": "fleur-de-lis"
+    },
+    {
+      "char": "⚠",
+      "name": "warning sign"
+    },
+    {
+      "char": "⚰",
+      "name": "coffin"
+    },
+    {
+      "char": "⚱",
+      "name": "funeral urn"
+    },
+    {
+      "char": "✉",
+      "name": "envelope"
+    },
+    {
+      "char": "✌",
+      "name": "victory hand"
+    },
+    {
+      "char": "✍",
+      "name": "writing hand"
+    },
+    {
+      "char": "✏",
+      "name": "pencil"
+    },
+    {
+      "char": "✒",
+      "name": "black nib"
+    },
+    {
+      "char": "✔",
+      "name": "heavy check mark"
+    },
+    {
+      "char": "✘",
+      "name": "heavy ballot x"
+    },
+    {
+      "char": "✝",
+      "name": "latin cross"
+    },
+    {
+      "char": "✡",
+      "name": "star of david"
+    },
+    {
+      "char": "✱",
+      "name": "heavy asterisk"
+    },
+    {
+      "char": "✲",
+      "name": "open centre asterisk"
+    },
+    {
+      "char": "❄",
+      "name": "snowflake"
+    },
+    {
+      "char": "❇",
+      "name": "sparkle"
+    },
+    {
+      "char": "❣",
+      "name": "heavy heart exclamation mark ornament"
+    },
+    {
+      "char": "❤",
+      "name": "heavy black heart"
+    },
+    {
+      "char": "➡",
+      "name": "black right arrow"
+    },
+    {
+      "char": "㍐",
+      "name": "square yuan"
+    },
+    {
+      "char": "元",
+      "name": "yuan character, in china"
+    },
+    {
+      "char": "円",
+      "name": "yen character"
+    },
+    {
+      "char": "圆",
+      "name": "yen/yuan character variant one"
+    },
+    {
+      "char": "圎",
+      "name": "yen/yuan character variant two"
+    },
+    {
+      "char": "圓",
+      "name": "yuan character, in hong kong and taiwan"
+    },
+    {
+      "char": "圜",
+      "name": "yen/yuan character variant three"
+    },
+    {
+      "char": "원",
+      "name": "won character"
+    },
+    {
+      "char": "＄",
+      "name": "fullwidth dollar sign"
+    },
+    {
+      "char": "￠",
+      "name": "fullwidth cent sign"
+    },
+    {
+      "char": "￡",
+      "name": "fullwidth pound sign"
+    },
+    {
+      "char": "￥",
+      "name": "fullwidth yen sign"
+    },
+    {
+      "char": "￦",
+      "name": "fullwidth won sign"
+    },
+    {
+      "char": "🀀",
+      "name": "Mahjong Tile East Wind"
+    },
+    {
+      "char": "🀁",
+      "name": "Mahjong Tile South Wind"
+    },
+    {
+      "char": "🀂",
+      "name": "Mahjong Tile West Wind"
+    },
+    {
+      "char": "🀃",
+      "name": "Mahjong Tile North Wind"
+    },
+    {
+      "char": "🀄",
+      "name": "Mahjong Tile Red Dragon"
+    },
+    {
+      "char": "🀅",
+      "name": "Mahjong Tile Green Dragon"
+    },
+    {
+      "char": "🀆",
+      "name": "Mahjong Tile White Dragon"
+    },
+    {
+      "char": "🀇",
+      "name": "Mahjong Tile One of Characters"
+    },
+    {
+      "char": "🀈",
+      "name": "Mahjong Tile Two of Characters"
+    },
+    {
+      "char": "🀉",
+      "name": "Mahjong Tile Three of Characters"
+    },
+    {
+      "char": "🀊",
+      "name": "Mahjong Tile Four of Characters"
+    },
+    {
+      "char": "🀋",
+      "name": "Mahjong Tile Five of Characters"
+    },
+    {
+      "char": "🀌",
+      "name": "Mahjong Tile Six of Characters"
+    },
+    {
+      "char": "🀍",
+      "name": "Mahjong Tile Seven of Characters"
+    },
+    {
+      "char": "🀎",
+      "name": "Mahjong Tile Eight of Characters"
+    },
+    {
+      "char": "🀏",
+      "name": "Mahjong Tile Nine of Characters"
+    },
+    {
+      "char": "🀐",
+      "name": "Mahjong Tile One of Bamboos"
+    },
+    {
+      "char": "🀑",
+      "name": "Mahjong Tile Two of Bamboos"
+    },
+    {
+      "char": "🀒",
+      "name": "Mahjong Tile Three of Bamboos"
+    },
+    {
+      "char": "🀓",
+      "name": "Mahjong Tile Four of Bamboos"
+    },
+    {
+      "char": "🀔",
+      "name": "Mahjong Tile Five of Bamboos"
+    },
+    {
+      "char": "🀕",
+      "name": "Mahjong Tile Six of Bamboos"
+    },
+    {
+      "char": "🀖",
+      "name": "Mahjong Tile Seven of Bamboos"
+    },
+    {
+      "char": "🀗",
+      "name": "Mahjong Tile Eight of Bamboos"
+    },
+    {
+      "char": "🀘",
+      "name": "Mahjong Tile Nine of Bamboos"
+    },
+    {
+      "char": "🀙",
+      "name": "Mahjong Tile One of Circles"
+    },
+    {
+      "char": "🀚",
+      "name": "Mahjong Tile Two of Circles"
+    },
+    {
+      "char": "🀛",
+      "name": "Mahjong Tile Three of Circles"
+    },
+    {
+      "char": "🀜",
+      "name": "Mahjong Tile Four of Circles"
+    },
+    {
+      "char": "🀝",
+      "name": "Mahjong Tile Five of Circles"
+    },
+    {
+      "char": "🀞",
+      "name": "Mahjong Tile Six of Circles"
+    },
+    {
+      "char": "🀟",
+      "name": "Mahjong Tile Seven of Circles"
+    },
+    {
+      "char": "🀠",
+      "name": "Mahjong Tile Eight of Circles"
+    },
+    {
+      "char": "🀡",
+      "name": "Mahjong Tile Nine of Circles"
+    },
+    {
+      "char": "🀢",
+      "name": "Mahjong Tile Plum"
+    },
+    {
+      "char": "🀣",
+      "name": "Mahjong Tile Orchid"
+    },
+    {
+      "char": "🀤",
+      "name": "Mahjong Tile Bamboo"
+    },
+    {
+      "char": "🀥",
+      "name": "Mahjong Tile Chrysanthemum"
+    },
+    {
+      "char": "🀦",
+      "name": "Mahjong Tile Spring"
+    },
+    {
+      "char": "🀧",
+      "name": "Mahjong Tile Summer"
+    },
+    {
+      "char": "🀨",
+      "name": "Mahjong Tile Autumn"
+    },
+    {
+      "char": "🀩",
+      "name": "Mahjong Tile Winter"
+    },
+    {
+      "char": "🀪",
+      "name": "Mahjong Tile Joker"
+    },
+    {
+      "char": "🀫",
+      "name": "Mahjong Tile Back"
+    },
+    {
+      "char": "🀰",
+      "name": "Domino Tile Horizontal Back"
+    },
+    {
+      "char": "🀱",
+      "name": "Domino Tile Horizontal-00-00"
+    },
+    {
+      "char": "🀲",
+      "name": "Domino Tile Horizontal-00-01"
+    },
+    {
+      "char": "🀳",
+      "name": "Domino Tile Horizontal-00-02"
+    },
+    {
+      "char": "🀴",
+      "name": "Domino Tile Horizontal-00-03"
+    },
+    {
+      "char": "🀵",
+      "name": "Domino Tile Horizontal-00-04"
+    },
+    {
+      "char": "🀶",
+      "name": "Domino Tile Horizontal-00-05"
+    },
+    {
+      "char": "🀷",
+      "name": "Domino Tile Horizontal-00-06"
+    },
+    {
+      "char": "🀸",
+      "name": "Domino Tile Horizontal-01-00"
+    },
+    {
+      "char": "🀹",
+      "name": "Domino Tile Horizontal-01-01"
+    },
+    {
+      "char": "🀺",
+      "name": "Domino Tile Horizontal-01-02"
+    },
+    {
+      "char": "🀻",
+      "name": "Domino Tile Horizontal-01-03"
+    },
+    {
+      "char": "🀼",
+      "name": "Domino Tile Horizontal-01-04"
+    },
+    {
+      "char": "🀽",
+      "name": "Domino Tile Horizontal-01-05"
+    },
+    {
+      "char": "🀾",
+      "name": "Domino Tile Horizontal-01-06"
+    },
+    {
+      "char": "🀿",
+      "name": "Domino Tile Horizontal-02-00"
+    },
+    {
+      "char": "🁀",
+      "name": "Domino Tile Horizontal-02-01"
+    },
+    {
+      "char": "🁁",
+      "name": "Domino Tile Horizontal-02-02"
+    },
+    {
+      "char": "🁂",
+      "name": "Domino Tile Horizontal-02-03"
+    },
+    {
+      "char": "🁃",
+      "name": "Domino Tile Horizontal-02-04"
+    },
+    {
+      "char": "🁄",
+      "name": "Domino Tile Horizontal-02-05"
+    },
+    {
+      "char": "🁅",
+      "name": "Domino Tile Horizontal-02-06"
+    },
+    {
+      "char": "🁆",
+      "name": "Domino Tile Horizontal-03-00"
+    },
+    {
+      "char": "🁇",
+      "name": "Domino Tile Horizontal-03-01"
+    },
+    {
+      "char": "🁈",
+      "name": "Domino Tile Horizontal-03-02"
+    },
+    {
+      "char": "🁉",
+      "name": "Domino Tile Horizontal-03-03"
+    },
+    {
+      "char": "🁊",
+      "name": "Domino Tile Horizontal-03-04"
+    },
+    {
+      "char": "🁋",
+      "name": "Domino Tile Horizontal-03-05"
+    },
+    {
+      "char": "🁌",
+      "name": "Domino Tile Horizontal-03-06"
+    },
+    {
+      "char": "🁍",
+      "name": "Domino Tile Horizontal-04-00"
+    },
+    {
+      "char": "🁎",
+      "name": "Domino Tile Horizontal-04-01"
+    },
+    {
+      "char": "🁏",
+      "name": "Domino Tile Horizontal-04-02"
+    },
+    {
+      "char": "🁐",
+      "name": "Domino Tile Horizontal-04-03"
+    },
+    {
+      "char": "🁑",
+      "name": "Domino Tile Horizontal-04-04"
+    },
+    {
+      "char": "🁒",
+      "name": "Domino Tile Horizontal-04-05"
+    },
+    {
+      "char": "🁓",
+      "name": "Domino Tile Horizontal-04-06"
+    },
+    {
+      "char": "🁔",
+      "name": "Domino Tile Horizontal-05-00"
+    },
+    {
+      "char": "🁕",
+      "name": "Domino Tile Horizontal-05-01"
+    },
+    {
+      "char": "🁖",
+      "name": "Domino Tile Horizontal-05-02"
+    },
+    {
+      "char": "🁗",
+      "name": "Domino Tile Horizontal-05-03"
+    },
+    {
+      "char": "🁘",
+      "name": "Domino Tile Horizontal-05-04"
+    },
+    {
+      "char": "🁙",
+      "name": "Domino Tile Horizontal-05-05"
+    },
+    {
+      "char": "🁚",
+      "name": "Domino Tile Horizontal-05-06"
+    },
+    {
+      "char": "🁛",
+      "name": "Domino Tile Horizontal-06-00"
+    },
+    {
+      "char": "🁜",
+      "name": "Domino Tile Horizontal-06-01"
+    },
+    {
+      "char": "🁝",
+      "name": "Domino Tile Horizontal-06-02"
+    },
+    {
+      "char": "🁞",
+      "name": "Domino Tile Horizontal-06-03"
+    },
+    {
+      "char": "🁟",
+      "name": "Domino Tile Horizontal-06-04"
+    },
+    {
+      "char": "🁠",
+      "name": "Domino Tile Horizontal-06-05"
+    },
+    {
+      "char": "🁡",
+      "name": "Domino Tile Horizontal-06-06"
+    },
+    {
+      "char": "🁢",
+      "name": "Domino Tile Vertical Back"
+    },
+    {
+      "char": "🂠",
+      "name": "Playing Card Back"
+    },
+    {
+      "char": "🂡",
+      "name": "Playing Card Ace of Spades"
+    },
+    {
+      "char": "🂢",
+      "name": "Playing Card Two of Spades"
+    },
+    {
+      "char": "🂣",
+      "name": "Playing Card Three of Spades"
+    },
+    {
+      "char": "🂤",
+      "name": "Playing Card Four of Spades"
+    },
+    {
+      "char": "🂥",
+      "name": "Playing Card Five of Spades"
+    },
+    {
+      "char": "🂦",
+      "name": "Playing Card Six of Spades"
+    },
+    {
+      "char": "🂧",
+      "name": "Playing Card Seven of Spades"
+    },
+    {
+      "char": "🂨",
+      "name": "Playing Card Eight of Spades"
+    },
+    {
+      "char": "🂩",
+      "name": "Playing Card Nine of Spades"
+    },
+    {
+      "char": "🂪",
+      "name": "Playing Card Ten of Spades"
+    },
+    {
+      "char": "🂫",
+      "name": "Playing Card Jack of Spades"
+    },
+    {
+      "char": "🂬",
+      "name": "Playing Card Knight of Spades"
+    },
+    {
+      "char": "🂭",
+      "name": "Playing Card Queen of Spades"
+    },
+    {
+      "char": "🂮",
+      "name": "Playing Card King of Spades"
+    },
+    {
+      "char": "🂱",
+      "name": "Playing Card Ace of Hearts"
+    },
+    {
+      "char": "🂲",
+      "name": "Playing Card Two of Hearts"
+    },
+    {
+      "char": "🂳",
+      "name": "Playing Card Three of Hearts"
+    },
+    {
+      "char": "🂴",
+      "name": "Playing Card Four of Hearts"
+    },
+    {
+      "char": "🂵",
+      "name": "Playing Card Five of Hearts"
+    },
+    {
+      "char": "🂶",
+      "name": "Playing Card Six of Hearts"
+    },
+    {
+      "char": "🂷",
+      "name": "Playing Card Seven of Hearts"
+    },
+    {
+      "char": "🂸",
+      "name": "Playing Card Eight of Hearts"
+    },
+    {
+      "char": "🂹",
+      "name": "Playing Card Nine of Hearts"
+    },
+    {
+      "char": "🂺",
+      "name": "Playing Card Ten of Hearts"
+    },
+    {
+      "char": "🂻",
+      "name": "Playing Card Jack of Hearts"
+    },
+    {
+      "char": "🂼",
+      "name": "Playing Card Knight of Hearts"
+    },
+    {
+      "char": "🂽",
+      "name": "Playing Card Queen of Hearts"
+    },
+    {
+      "char": "🂾",
+      "name": "Playing Card King of Hearts"
+    },
+    {
+      "char": "🂿",
+      "name": "Playing Card Red Joker"
+    },
+    {
+      "char": "🃁",
+      "name": "Playing Card Ace of Diamonds"
+    },
+    {
+      "char": "🃂",
+      "name": "Playing Card Two of Diamonds"
+    },
+    {
+      "char": "🃃",
+      "name": "Playing Card Three of Diamonds"
+    },
+    {
+      "char": "🃄",
+      "name": "Playing Card Four of Diamonds"
+    },
+    {
+      "char": "🃅",
+      "name": "Playing Card Five of Diamonds"
+    },
+    {
+      "char": "🃆",
+      "name": "Playing Card Six of Diamonds"
+    },
+    {
+      "char": "🃇",
+      "name": "Playing Card Seven of Diamonds"
+    },
+    {
+      "char": "🃈",
+      "name": "Playing Card Eight of Diamonds"
+    },
+    {
+      "char": "🃉",
+      "name": "Playing Card Nine of Diamonds"
+    },
+    {
+      "char": "🃊",
+      "name": "Playing Card Ten of Diamonds"
+    },
+    {
+      "char": "🃋",
+      "name": "Playing Card Jack of Diamonds"
+    },
+    {
+      "char": "🃌",
+      "name": "Playing Card Knight of Diamonds"
+    },
+    {
+      "char": "🃍",
+      "name": "Playing Card Queen of Diamonds"
+    },
+    {
+      "char": "🃎",
+      "name": "Playing Card King of Diamonds"
+    },
+    {
+      "char": "🃏",
+      "name": "Playing Card Black Joker"
+    },
+    {
+      "char": "🃑",
+      "name": "Playing Card Ace of Clubs"
+    },
+    {
+      "char": "🃒",
+      "name": "Playing Card Two of Clubs"
+    },
+    {
+      "char": "🃓",
+      "name": "Playing Card Three of Clubs"
+    },
+    {
+      "char": "🃔",
+      "name": "Playing Card Four of Clubs"
+    },
+    {
+      "char": "🃕",
+      "name": "Playing Card Five of Clubs"
+    },
+    {
+      "char": "🃖",
+      "name": "Playing Card Six of Clubs"
+    },
+    {
+      "char": "🃗",
+      "name": "Playing Card Seven of Clubs"
+    },
+    {
+      "char": "🃘",
+      "name": "Playing Card Eight of Clubs"
+    },
+    {
+      "char": "🃙",
+      "name": "Playing Card Nine of Clubs"
+    },
+    {
+      "char": "🃚",
+      "name": "Playing Card Ten of Clubs"
+    },
+    {
+      "char": "🃛",
+      "name": "Playing Card Jack of Clubs"
+    },
+    {
+      "char": "🃜",
+      "name": "Playing Card Knight of Clubs"
+    },
+    {
+      "char": "🃝",
+      "name": "Playing Card Queen of Clubs"
+    },
+    {
+      "char": "🃞",
+      "name": "Playing Card King of Clubs"
+    },
+    {
+      "char": "🃟",
+      "name": "Playing Card White Joker"
+    },
+    {
+      "char": "🃠",
+      "name": "Playing Card Fool"
+    },
+    {
+      "char": "🃡",
+      "name": "Playing Card Trump-1"
+    },
+    {
+      "char": "🃢",
+      "name": "Playing Card Trump-2"
+    },
+    {
+      "char": "🃣",
+      "name": "Playing Card Trump-3"
+    },
+    {
+      "char": "🃤",
+      "name": "Playing Card Trump-4"
+    },
+    {
+      "char": "🃥",
+      "name": "Playing Card Trump-5"
+    },
+    {
+      "char": "🃦",
+      "name": "Playing Card Trump-6"
+    },
+    {
+      "char": "🃧",
+      "name": "Playing Card Trump-7"
+    },
+    {
+      "char": "🃨",
+      "name": "Playing Card Trump-8"
+    },
+    {
+      "char": "🃩",
+      "name": "Playing Card Trump-9"
+    },
+    {
+      "char": "🃪",
+      "name": "Playing Card Trump-10"
+    },
+    {
+      "char": "🃫",
+      "name": "Playing Card Trump-11"
+    },
+    {
+      "char": "🃬",
+      "name": "Playing Card Trump-12"
+    },
+    {
+      "char": "🃭",
+      "name": "Playing Card Trump-13"
+    },
+    {
+      "char": "🃮",
+      "name": "Playing Card Trump-14"
+    },
+    {
+      "char": "🃯",
+      "name": "Playing Card Trump-15"
+    },
+    {
+      "char": "🃰",
+      "name": "Playing Card Trump-16"
+    },
+    {
+      "char": "🃱",
+      "name": "Playing Card Trump-17"
+    },
+    {
+      "char": "🃲",
+      "name": "Playing Card Trump-18"
+    },
+    {
+      "char": "🃳",
+      "name": "Playing Card Trump-19"
+    },
+    {
+      "char": "🃴",
+      "name": "Playing Card Trump-20"
+    },
+    {
+      "char": "🃵",
+      "name": "Playing Card Trump-21"
+    },
+    {
+      "char": "🄀",
+      "name": "digit zero full stop"
+    },
+    {
+      "char": "🄁",
+      "name": "digit zero comma"
+    },
+    {
+      "char": "🄂",
+      "name": "digit one comma"
+    },
+    {
+      "char": "🄃",
+      "name": "digit two comma"
+    },
+    {
+      "char": "🄄",
+      "name": "digit three comma"
+    },
+    {
+      "char": "🄅",
+      "name": "digit four comma"
+    },
+    {
+      "char": "🄆",
+      "name": "digit five comma"
+    },
+    {
+      "char": "🄇",
+      "name": "digit six comma"
+    },
+    {
+      "char": "🄈",
+      "name": "digit seven comma"
+    },
+    {
+      "char": "🄉",
+      "name": "digit eight comma"
+    },
+    {
+      "char": "🄊",
+      "name": "digit nine comma"
+    },
+    {
+      "char": "🄐",
+      "name": "parenthesized latin capital letter a"
+    },
+    {
+      "char": "🄑",
+      "name": "parenthesized latin capital letter b"
+    },
+    {
+      "char": "🄒",
+      "name": "parenthesized latin capital letter c"
+    },
+    {
+      "char": "🄓",
+      "name": "parenthesized latin capital letter d"
+    },
+    {
+      "char": "🄔",
+      "name": "parenthesized latin capital letter e"
+    },
+    {
+      "char": "🄕",
+      "name": "parenthesized latin capital letter f"
+    },
+    {
+      "char": "🄖",
+      "name": "parenthesized latin capital letter g"
+    },
+    {
+      "char": "🄗",
+      "name": "parenthesized latin capital letter h"
+    },
+    {
+      "char": "🄘",
+      "name": "parenthesized latin capital letter i"
+    },
+    {
+      "char": "🄙",
+      "name": "parenthesized latin capital letter j"
+    },
+    {
+      "char": "🄚",
+      "name": "parenthesized latin capital letter k"
+    },
+    {
+      "char": "🄛",
+      "name": "parenthesized latin capital letter l"
+    },
+    {
+      "char": "🄜",
+      "name": "parenthesized latin capital letter m"
+    },
+    {
+      "char": "🄝",
+      "name": "parenthesized latin capital letter n"
+    },
+    {
+      "char": "🄞",
+      "name": "parenthesized latin capital letter o"
+    },
+    {
+      "char": "🄟",
+      "name": "parenthesized latin capital letter p"
+    },
+    {
+      "char": "🄠",
+      "name": "parenthesized latin capital letter q"
+    },
+    {
+      "char": "🄡",
+      "name": "parenthesized latin capital letter r"
+    },
+    {
+      "char": "🄢",
+      "name": "parenthesized latin capital letter s"
+    },
+    {
+      "char": "🄣",
+      "name": "parenthesized latin capital letter t"
+    },
+    {
+      "char": "🄤",
+      "name": "parenthesized latin capital letter u"
+    },
+    {
+      "char": "🄥",
+      "name": "parenthesized latin capital letter v"
+    },
+    {
+      "char": "🄦",
+      "name": "parenthesized latin capital letter w"
+    },
+    {
+      "char": "🄧",
+      "name": "parenthesized latin capital letter x"
+    },
+    {
+      "char": "🄨",
+      "name": "parenthesized latin capital letter y"
+    },
+    {
+      "char": "🄩",
+      "name": "parenthesized latin capital letter z"
+    },
+    {
+      "char": "🄰",
+      "name": "squared latin capital letter a"
+    },
+    {
+      "char": "🄱",
+      "name": "squared latin capital letter b"
+    },
+    {
+      "char": "🄲",
+      "name": "squared latin capital letter c"
+    },
+    {
+      "char": "🄳",
+      "name": "squared latin capital letter d"
+    },
+    {
+      "char": "🄴",
+      "name": "squared latin capital letter e"
+    },
+    {
+      "char": "🄵",
+      "name": "squared latin capital letter f"
+    },
+    {
+      "char": "🄶",
+      "name": "squared latin capital letter g"
+    },
+    {
+      "char": "🄷",
+      "name": "squared latin capital letter h"
+    },
+    {
+      "char": "🄸",
+      "name": "squared latin capital letter i"
+    },
+    {
+      "char": "🄹",
+      "name": "squared latin capital letter j"
+    },
+    {
+      "char": "🄺",
+      "name": "squared latin capital letter k"
+    },
+    {
+      "char": "🄻",
+      "name": "squared latin capital letter l"
+    },
+    {
+      "char": "🄼",
+      "name": "squared latin capital letter m"
+    },
+    {
+      "char": "🄽",
+      "name": "squared latin capital letter n"
+    },
+    {
+      "char": "🄾",
+      "name": "squared latin capital letter o"
+    },
+    {
+      "char": "🄿",
+      "name": "squared latin capital letter p"
+    },
+    {
+      "char": "🅀",
+      "name": "squared latin capital letter q"
+    },
+    {
+      "char": "🅁",
+      "name": "squared latin capital letter r"
+    },
+    {
+      "char": "🅂",
+      "name": "squared latin capital letter s"
+    },
+    {
+      "char": "🅃",
+      "name": "squared latin capital letter t"
+    },
+    {
+      "char": "🅄",
+      "name": "squared latin capital letter u"
+    },
+    {
+      "char": "🅅",
+      "name": "squared latin capital letter v"
+    },
+    {
+      "char": "🅆",
+      "name": "squared latin capital letter w"
+    },
+    {
+      "char": "🅇",
+      "name": "squared latin capital letter x"
+    },
+    {
+      "char": "🅈",
+      "name": "squared latin capital letter y"
+    },
+    {
+      "char": "🅉",
+      "name": "squared latin capital letter z"
+    },
+    {
+      "char": "🅏",
+      "name": "squared wc"
+    },
+    {
+      "char": "🅐",
+      "name": "negative circled latin capital letter a"
+    },
+    {
+      "char": "🅑",
+      "name": "negative circled latin capital letter b"
+    },
+    {
+      "char": "🅒",
+      "name": "negative circled latin capital letter c"
+    },
+    {
+      "char": "🅓",
+      "name": "negative circled latin capital letter d"
+    },
+    {
+      "char": "🅔",
+      "name": "negative circled latin capital letter e"
+    },
+    {
+      "char": "🅕",
+      "name": "negative circled latin capital letter f"
+    },
+    {
+      "char": "🅖",
+      "name": "negative circled latin capital letter g"
+    },
+    {
+      "char": "🅗",
+      "name": "negative circled latin capital letter h"
+    },
+    {
+      "char": "🅘",
+      "name": "negative circled latin capital letter i"
+    },
+    {
+      "char": "🅙",
+      "name": "negative circled latin capital letter j"
+    },
+    {
+      "char": "🅚",
+      "name": "negative circled latin capital letter k"
+    },
+    {
+      "char": "🅛",
+      "name": "negative circled latin capital letter l"
+    },
+    {
+      "char": "🅜",
+      "name": "negative circled latin capital letter m"
+    },
+    {
+      "char": "🅝",
+      "name": "negative circled latin capital letter n"
+    },
+    {
+      "char": "🅞",
+      "name": "negative circled latin capital letter o"
+    },
+    {
+      "char": "🅟",
+      "name": "negative circled latin capital letter p"
+    },
+    {
+      "char": "🅠",
+      "name": "negative circled latin capital letter q"
+    },
+    {
+      "char": "🅡",
+      "name": "negative circled latin capital letter r"
+    },
+    {
+      "char": "🅢",
+      "name": "negative circled latin capital letter s"
+    },
+    {
+      "char": "🅣",
+      "name": "negative circled latin capital letter t"
+    },
+    {
+      "char": "🅤",
+      "name": "negative circled latin capital letter u"
+    },
+    {
+      "char": "🅥",
+      "name": "negative circled latin capital letter v"
+    },
+    {
+      "char": "🅦",
+      "name": "negative circled latin capital letter w"
+    },
+    {
+      "char": "🅧",
+      "name": "negative circled latin capital letter x"
+    },
+    {
+      "char": "🅨",
+      "name": "negative circled latin capital letter y"
+    },
+    {
+      "char": "🅩",
+      "name": "negative circled latin capital letter z"
+    },
+    {
+      "char": "🅰",
+      "name": "negative squared latin capital letter a"
+    },
+    {
+      "char": "🅱",
+      "name": "negative squared latin capital letter b"
+    },
+    {
+      "char": "🅲",
+      "name": "negative squared latin capital letter c"
+    },
+    {
+      "char": "🅳",
+      "name": "negative squared latin capital letter d"
+    },
+    {
+      "char": "🅴",
+      "name": "negative squared latin capital letter e"
+    },
+    {
+      "char": "🅵",
+      "name": "negative squared latin capital letter f"
+    },
+    {
+      "char": "🅶",
+      "name": "negative squared latin capital letter g"
+    },
+    {
+      "char": "🅷",
+      "name": "negative squared latin capital letter h"
+    },
+    {
+      "char": "🅸",
+      "name": "negative squared latin capital letter i"
+    },
+    {
+      "char": "🅹",
+      "name": "negative squared latin capital letter j"
+    },
+    {
+      "char": "🅺",
+      "name": "negative squared latin capital letter k"
+    },
+    {
+      "char": "🅻",
+      "name": "negative squared latin capital letter l"
+    },
+    {
+      "char": "🅼",
+      "name": "negative squared latin capital letter m"
+    },
+    {
+      "char": "🅽",
+      "name": "negative squared latin capital letter n"
+    },
+    {
+      "char": "🅾",
+      "name": "negative squared latin capital letter o"
+    },
+    {
+      "char": "🅿",
+      "name": "negative squared latin capital letter p"
+    },
+    {
+      "char": "🆀",
+      "name": "negative squared latin capital letter q"
+    },
+    {
+      "char": "🆁",
+      "name": "negative squared latin capital letter r"
+    },
+    {
+      "char": "🆂",
+      "name": "negative squared latin capital letter s"
+    },
+    {
+      "char": "🆃",
+      "name": "negative squared latin capital letter t"
+    },
+    {
+      "char": "🆄",
+      "name": "negative squared latin capital letter u"
+    },
+    {
+      "char": "🆅",
+      "name": "negative squared latin capital letter v"
+    },
+    {
+      "char": "🆆",
+      "name": "negative squared latin capital letter w"
+    },
+    {
+      "char": "🆇",
+      "name": "negative squared latin capital letter x"
+    },
+    {
+      "char": "🆈",
+      "name": "negative squared latin capital letter y"
+    },
+    {
+      "char": "🆉",
+      "name": "negative squared latin capital letter z"
+    },
+    {
+      "char": "🆏",
+      "name": "negative squared wc"
+    },
+    {
+      "char": "🇦",
+      "name": "regional indicator symbol letter a"
+    },
+    {
+      "char": "🇧",
+      "name": "regional indicator symbol letter b"
+    },
+    {
+      "char": "🇨",
+      "name": "regional indicator symbol letter c"
+    },
+    {
+      "char": "🇩",
+      "name": "regional indicator symbol letter d"
+    },
+    {
+      "char": "🇪",
+      "name": "regional indicator symbol letter e"
+    },
+    {
+      "char": "🇫",
+      "name": "regional indicator symbol letter f"
+    },
+    {
+      "char": "🇬",
+      "name": "regional indicator symbol letter g"
+    },
+    {
+      "char": "🇭",
+      "name": "regional indicator symbol letter h"
+    },
+    {
+      "char": "🇮",
+      "name": "regional indicator symbol letter i"
+    },
+    {
+      "char": "🇯",
+      "name": "regional indicator symbol letter j"
+    },
+    {
+      "char": "🇰",
+      "name": "regional indicator symbol letter k"
+    },
+    {
+      "char": "🇱",
+      "name": "regional indicator symbol letter l"
+    },
+    {
+      "char": "🇲",
+      "name": "regional indicator symbol letter m"
+    },
+    {
+      "char": "🇳",
+      "name": "regional indicator symbol letter n"
+    },
+    {
+      "char": "🇴",
+      "name": "regional indicator symbol letter o"
+    },
+    {
+      "char": "🇵",
+      "name": "regional indicator symbol letter p"
+    },
+    {
+      "char": "🇶",
+      "name": "regional indicator symbol letter q"
+    },
+    {
+      "char": "🇷",
+      "name": "regional indicator symbol letter r"
+    },
+    {
+      "char": "🇸",
+      "name": "regional indicator symbol letter s"
+    },
+    {
+      "char": "🇹",
+      "name": "regional indicator symbol letter t"
+    },
+    {
+      "char": "🇺",
+      "name": "regional indicator symbol letter u"
+    },
+    {
+      "char": "🇻",
+      "name": "regional indicator symbol letter v"
+    },
+    {
+      "char": "🇼",
+      "name": "regional indicator symbol letter w"
+    },
+    {
+      "char": "🇽",
+      "name": "regional indicator symbol letter x"
+    },
+    {
+      "char": "🇾",
+      "name": "regional indicator symbol letter y"
+    },
+    {
+      "char": "🇿",
+      "name": "regional indicator symbol letter z"
+    }
+  ]
+}

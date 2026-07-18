@@ -1,0 +1,2754 @@
+{
+  "id": "letters",
+  "name": "Letters",
+  "chars": [
+    {
+      "char": "A",
+      "name": "uppercase a"
+    },
+    {
+      "char": "B",
+      "name": "uppercase b"
+    },
+    {
+      "char": "C",
+      "name": "uppercase c"
+    },
+    {
+      "char": "D",
+      "name": "uppercase d"
+    },
+    {
+      "char": "E",
+      "name": "uppercase e"
+    },
+    {
+      "char": "F",
+      "name": "uppercase f"
+    },
+    {
+      "char": "G",
+      "name": "uppercase g"
+    },
+    {
+      "char": "H",
+      "name": "uppercase h"
+    },
+    {
+      "char": "I",
+      "name": "uppercase i"
+    },
+    {
+      "char": "J",
+      "name": "uppercase j"
+    },
+    {
+      "char": "K",
+      "name": "uppercase k"
+    },
+    {
+      "char": "L",
+      "name": "uppercase l"
+    },
+    {
+      "char": "M",
+      "name": "uppercase m"
+    },
+    {
+      "char": "N",
+      "name": "uppercase n"
+    },
+    {
+      "char": "O",
+      "name": "uppercase o"
+    },
+    {
+      "char": "P",
+      "name": "uppercase p"
+    },
+    {
+      "char": "Q",
+      "name": "uppercase q"
+    },
+    {
+      "char": "R",
+      "name": "uppercase r"
+    },
+    {
+      "char": "S",
+      "name": "uppercase s"
+    },
+    {
+      "char": "T",
+      "name": "uppercase t"
+    },
+    {
+      "char": "U",
+      "name": "uppercase u"
+    },
+    {
+      "char": "V",
+      "name": "uppercase v"
+    },
+    {
+      "char": "V̇",
+      "name": "volume symbol uppercase"
+    },
+    {
+      "char": "W",
+      "name": "uppercase w"
+    },
+    {
+      "char": "X",
+      "name": "uppercase x"
+    },
+    {
+      "char": "Y",
+      "name": "uppercase y"
+    },
+    {
+      "char": "Z",
+      "name": "uppercase z"
+    },
+    {
+      "char": "a",
+      "name": "lowercase a"
+    },
+    {
+      "char": "b",
+      "name": "lowercase b"
+    },
+    {
+      "char": "c",
+      "name": "lowercase c"
+    },
+    {
+      "char": "d",
+      "name": "lowercase d"
+    },
+    {
+      "char": "e",
+      "name": "lowercase e"
+    },
+    {
+      "char": "f",
+      "name": "lowercase f"
+    },
+    {
+      "char": "g",
+      "name": "lowercase g"
+    },
+    {
+      "char": "h",
+      "name": "lowercase h"
+    },
+    {
+      "char": "i",
+      "name": "lowercase i"
+    },
+    {
+      "char": "j",
+      "name": "lowercase j"
+    },
+    {
+      "char": "k",
+      "name": "lowercase k"
+    },
+    {
+      "char": "l",
+      "name": "lowercase l"
+    },
+    {
+      "char": "m",
+      "name": "lowercase m"
+    },
+    {
+      "char": "n",
+      "name": "lowercase n"
+    },
+    {
+      "char": "o",
+      "name": "lowercase o"
+    },
+    {
+      "char": "p",
+      "name": "lowercase p"
+    },
+    {
+      "char": "q",
+      "name": "lowercase q"
+    },
+    {
+      "char": "r",
+      "name": "lowercase r"
+    },
+    {
+      "char": "s",
+      "name": "lowercase s"
+    },
+    {
+      "char": "t",
+      "name": "lowercase t"
+    },
+    {
+      "char": "u",
+      "name": "lowercase u"
+    },
+    {
+      "char": "v",
+      "name": "lowercase v"
+    },
+    {
+      "char": "v̇",
+      "name": "volume symbol lowercase"
+    },
+    {
+      "char": "w",
+      "name": "lowercase w"
+    },
+    {
+      "char": "x",
+      "name": "lowercase x"
+    },
+    {
+      "char": "y",
+      "name": "lowercase y"
+    },
+    {
+      "char": "z",
+      "name": "lowercase z"
+    },
+    {
+      "char": "À",
+      "name": "uppercase a with grave"
+    },
+    {
+      "char": "Á",
+      "name": "uppercase a with acute"
+    },
+    {
+      "char": "Â",
+      "name": "uppercase a with circumflex"
+    },
+    {
+      "char": "Ã",
+      "name": "uppercase a with tilde"
+    },
+    {
+      "char": "Ä",
+      "name": "uppercase a with umlaut"
+    },
+    {
+      "char": "Å",
+      "name": "uppercase a with ring"
+    },
+    {
+      "char": "Æ",
+      "name": "uppercase ae"
+    },
+    {
+      "char": "Ç",
+      "name": "uppercase c with cedilla"
+    },
+    {
+      "char": "È",
+      "name": "uppercase e with grave"
+    },
+    {
+      "char": "É",
+      "name": "uppercase e with acute"
+    },
+    {
+      "char": "Ê",
+      "name": "uppercase e with circumflex"
+    },
+    {
+      "char": "Ë",
+      "name": "uppercase e with umlaut"
+    },
+    {
+      "char": "Ì",
+      "name": "uppercase l with grave"
+    },
+    {
+      "char": "Í",
+      "name": "uppercase l with acute"
+    },
+    {
+      "char": "Î",
+      "name": "uppercase l with circumflex"
+    },
+    {
+      "char": "Ï",
+      "name": "uppercase l with umlaut"
+    },
+    {
+      "char": "Ð",
+      "name": "uppercase eth"
+    },
+    {
+      "char": "Ñ",
+      "name": "uppercase n with tilde"
+    },
+    {
+      "char": "Ò",
+      "name": "uppercase o with grave"
+    },
+    {
+      "char": "Ó",
+      "name": "uppercase o with acute"
+    },
+    {
+      "char": "Ô",
+      "name": "uppercase o with circumflex"
+    },
+    {
+      "char": "Õ",
+      "name": "uppercase o with tilde"
+    },
+    {
+      "char": "Ö",
+      "name": "uppercase o with umlaut"
+    },
+    {
+      "char": "Ø",
+      "name": "uppercase o with slash"
+    },
+    {
+      "char": "Ù",
+      "name": "uppercase u with grave"
+    },
+    {
+      "char": "Ú",
+      "name": "uppercase u with acute"
+    },
+    {
+      "char": "Û",
+      "name": "uppercase u with circumflex"
+    },
+    {
+      "char": "Ü",
+      "name": "uppercase u with umlaut"
+    },
+    {
+      "char": "Ý",
+      "name": "uppercase y with acute"
+    },
+    {
+      "char": "Þ",
+      "name": "uppercase thorn"
+    },
+    {
+      "char": "ß",
+      "name": "lowercase ess-zed"
+    },
+    {
+      "char": "à",
+      "name": "lowercase a with grave"
+    },
+    {
+      "char": "á",
+      "name": "lowercase a with acute"
+    },
+    {
+      "char": "â",
+      "name": "lowercase a with circumflex"
+    },
+    {
+      "char": "ã",
+      "name": "lowercase a with tilde"
+    },
+    {
+      "char": "ä",
+      "name": "lowercase a with umlaut"
+    },
+    {
+      "char": "å",
+      "name": "lowercase a with ring"
+    },
+    {
+      "char": "æ",
+      "name": "lowercase ae"
+    },
+    {
+      "char": "ç",
+      "name": "lowercase c with cedilla"
+    },
+    {
+      "char": "è",
+      "name": "lowercase e with grave"
+    },
+    {
+      "char": "é",
+      "name": "lowercase e with acute"
+    },
+    {
+      "char": "ê",
+      "name": "lowercase e with circumflex"
+    },
+    {
+      "char": "ë",
+      "name": "lowercase e with umlaut"
+    },
+    {
+      "char": "ì",
+      "name": "lowercase i with grave"
+    },
+    {
+      "char": "í",
+      "name": "lowercase i with acute"
+    },
+    {
+      "char": "î",
+      "name": "lowercase i with circumflex"
+    },
+    {
+      "char": "ï",
+      "name": "lowercase i with umlaut"
+    },
+    {
+      "char": "ð",
+      "name": "lowercase eth"
+    },
+    {
+      "char": "ñ",
+      "name": "lowercase n with tilde"
+    },
+    {
+      "char": "ò",
+      "name": "lowercase o with grave"
+    },
+    {
+      "char": "ó",
+      "name": "lowercase o with acute"
+    },
+    {
+      "char": "ô",
+      "name": "lowercase o with circumflex"
+    },
+    {
+      "char": "õ",
+      "name": "lowercase o with tilde"
+    },
+    {
+      "char": "ö",
+      "name": "lowercase o with umlaut"
+    },
+    {
+      "char": "ø",
+      "name": "lowercase o with slash"
+    },
+    {
+      "char": "ù",
+      "name": "lowercase u with grave"
+    },
+    {
+      "char": "ú",
+      "name": "lowercase u with acute"
+    },
+    {
+      "char": "û",
+      "name": "lowercase u with circumflex"
+    },
+    {
+      "char": "ü",
+      "name": "lowercase u with umlaut"
+    },
+    {
+      "char": "ý",
+      "name": "lowercase y with acute"
+    },
+    {
+      "char": "þ",
+      "name": "lowercase thorn"
+    },
+    {
+      "char": "ÿ",
+      "name": "lowercase y with umlaut"
+    },
+    {
+      "char": "Ā",
+      "name": "uppercase a with macron"
+    },
+    {
+      "char": "ā",
+      "name": "lowercase a with macron"
+    },
+    {
+      "char": "Ă",
+      "name": "uppercase a with breve"
+    },
+    {
+      "char": "ă",
+      "name": "lowercase a with breve"
+    },
+    {
+      "char": "Ą",
+      "name": "uppercase a with ogonek"
+    },
+    {
+      "char": "ą",
+      "name": "lowercase a with ogonek"
+    },
+    {
+      "char": "Ć",
+      "name": "uppercase c with acute"
+    },
+    {
+      "char": "ć",
+      "name": "lowercase c with acute"
+    },
+    {
+      "char": "Ĉ",
+      "name": "uppercase c with circumflex"
+    },
+    {
+      "char": "ĉ",
+      "name": "lowercase c with circumflex"
+    },
+    {
+      "char": "Ċ",
+      "name": "uppercase c with dot above"
+    },
+    {
+      "char": "ċ",
+      "name": "lowercase c with dot above"
+    },
+    {
+      "char": "Č",
+      "name": "uppercase c with caron"
+    },
+    {
+      "char": "č",
+      "name": "lowercase c with caron"
+    },
+    {
+      "char": "Ď",
+      "name": "uppercase d with caron"
+    },
+    {
+      "char": "ď",
+      "name": "lowercase d with caron"
+    },
+    {
+      "char": "Đ",
+      "name": "uppercase d with stroke"
+    },
+    {
+      "char": "đ",
+      "name": "lowercase d with stroke"
+    },
+    {
+      "char": "Ē",
+      "name": "uppercase e with macron"
+    },
+    {
+      "char": "ē",
+      "name": "lowercase e with macron"
+    },
+    {
+      "char": "Ĕ",
+      "name": "uppercase e with breve"
+    },
+    {
+      "char": "ĕ",
+      "name": "lowercase e with breve"
+    },
+    {
+      "char": "Ė",
+      "name": "uppercase e with dot above"
+    },
+    {
+      "char": "ė",
+      "name": "lowercase e with dot above"
+    },
+    {
+      "char": "Ę",
+      "name": "uppercase e with ogonek"
+    },
+    {
+      "char": "ę",
+      "name": "lowercase e with ogonek"
+    },
+    {
+      "char": "Ě",
+      "name": "uppercase e with caron"
+    },
+    {
+      "char": "ě",
+      "name": "lowercase e with caron"
+    },
+    {
+      "char": "Ĝ",
+      "name": "uppercase g with circumflex"
+    },
+    {
+      "char": "ĝ",
+      "name": "lowercase g with circumflex"
+    },
+    {
+      "char": "Ğ",
+      "name": "uppercase g with breve"
+    },
+    {
+      "char": "ğ",
+      "name": "lowercase g with breve"
+    },
+    {
+      "char": "Ġ",
+      "name": "uppercase g with dot above"
+    },
+    {
+      "char": "ġ",
+      "name": "lowercase g with dot above"
+    },
+    {
+      "char": "Ģ",
+      "name": "uppercase g with cedilla"
+    },
+    {
+      "char": "ģ",
+      "name": "lowercase g with cedilla"
+    },
+    {
+      "char": "Ĥ",
+      "name": "uppercase h with circumflex"
+    },
+    {
+      "char": "ĥ",
+      "name": "lowercase h with circumflex"
+    },
+    {
+      "char": "Ħ",
+      "name": "uppercase h with stroke"
+    },
+    {
+      "char": "ħ",
+      "name": "lowercase h with stroke"
+    },
+    {
+      "char": "Ĩ",
+      "name": "uppercase i with tilde"
+    },
+    {
+      "char": "ĩ",
+      "name": "lowercase i with tilde"
+    },
+    {
+      "char": "Ī",
+      "name": "uppercase i with macron"
+    },
+    {
+      "char": "ī",
+      "name": "lowercase i with macron"
+    },
+    {
+      "char": "Ĭ",
+      "name": "uppercase i with breve"
+    },
+    {
+      "char": "ĭ",
+      "name": "lowercase i with breve"
+    },
+    {
+      "char": "Į",
+      "name": "uppercase i with ogonek"
+    },
+    {
+      "char": "į",
+      "name": "lowercase i with ogonek"
+    },
+    {
+      "char": "İ",
+      "name": "uppercase i with dot above"
+    },
+    {
+      "char": "ı",
+      "name": "lowercase dotless i"
+    },
+    {
+      "char": "Ĳ",
+      "name": "latin capital ligature ij"
+    },
+    {
+      "char": "ĳ",
+      "name": "latin small ligature ij"
+    },
+    {
+      "char": "Ĵ",
+      "name": "uppercase j with circumflex"
+    },
+    {
+      "char": "ĵ",
+      "name": "lowercase j with circumflex"
+    },
+    {
+      "char": "Ķ",
+      "name": "uppercase k with cedilla"
+    },
+    {
+      "char": "ķ",
+      "name": "lowercase k with cedilla"
+    },
+    {
+      "char": "ĸ",
+      "name": "lowercase kra"
+    },
+    {
+      "char": "Ĺ",
+      "name": "uppercase l with acute"
+    },
+    {
+      "char": "ĺ",
+      "name": "lowercase l with acute"
+    },
+    {
+      "char": "Ļ",
+      "name": "uppercase l with cedilla"
+    },
+    {
+      "char": "ļ",
+      "name": "lowercase l with cedilla"
+    },
+    {
+      "char": "Ľ",
+      "name": "uppercase l with caron"
+    },
+    {
+      "char": "ľ",
+      "name": "lowercase l with caron"
+    },
+    {
+      "char": "Ŀ",
+      "name": "uppercase l with middle dot"
+    },
+    {
+      "char": "ŀ",
+      "name": "lowercase l with middle dot"
+    },
+    {
+      "char": "Ł",
+      "name": "uppercase l with stroke"
+    },
+    {
+      "char": "ł",
+      "name": "lowercase l with stroke"
+    },
+    {
+      "char": "Ń",
+      "name": "uppercase n with acute"
+    },
+    {
+      "char": "ń",
+      "name": "lowercase n with acute"
+    },
+    {
+      "char": "Ņ",
+      "name": "uppercase n with cedilla"
+    },
+    {
+      "char": "ņ",
+      "name": "lowercase n with cedilla"
+    },
+    {
+      "char": "Ň",
+      "name": "uppercase n with caron"
+    },
+    {
+      "char": "ň",
+      "name": "lowercase n with caron"
+    },
+    {
+      "char": "ŉ",
+      "name": "lowercase n preceded by apostrophe"
+    },
+    {
+      "char": "Ŋ",
+      "name": "uppercase eng"
+    },
+    {
+      "char": "ŋ",
+      "name": "lowercase eng"
+    },
+    {
+      "char": "Ō",
+      "name": "uppercase o with macron"
+    },
+    {
+      "char": "ō",
+      "name": "lowercase o with macron"
+    },
+    {
+      "char": "Ŏ",
+      "name": "uppercase o with breve"
+    },
+    {
+      "char": "ŏ",
+      "name": "lowercase o with breve"
+    },
+    {
+      "char": "Ő",
+      "name": "uppercase o with double acute"
+    },
+    {
+      "char": "ő",
+      "name": "lowercase o with double acute"
+    },
+    {
+      "char": "Œ",
+      "name": "uppercase ligature oe"
+    },
+    {
+      "char": "œ",
+      "name": "lowercase ligature oe"
+    },
+    {
+      "char": "Ŕ",
+      "name": "uppercase r with acute"
+    },
+    {
+      "char": "ŕ",
+      "name": "lowercase r with acute"
+    },
+    {
+      "char": "Ŗ",
+      "name": "uppercase r with cedilla"
+    },
+    {
+      "char": "ŗ",
+      "name": "lowercase r with cedilla"
+    },
+    {
+      "char": "Ř",
+      "name": "uppercase r with caron"
+    },
+    {
+      "char": "ř",
+      "name": "lowercase r with caron"
+    },
+    {
+      "char": "Ś",
+      "name": "uppercase s with acute"
+    },
+    {
+      "char": "ś",
+      "name": "lowercase s with acute"
+    },
+    {
+      "char": "Ŝ",
+      "name": "uppercase s with circumflex"
+    },
+    {
+      "char": "ŝ",
+      "name": "lowercase s with circumflex"
+    },
+    {
+      "char": "Ş",
+      "name": "uppercase s with cedilla"
+    },
+    {
+      "char": "ş",
+      "name": "lowercase s with cedilla"
+    },
+    {
+      "char": "Š",
+      "name": "uppercase s with caron"
+    },
+    {
+      "char": "š",
+      "name": "lowercase s with caron"
+    },
+    {
+      "char": "Ţ",
+      "name": "uppercase t with cedilla"
+    },
+    {
+      "char": "ţ",
+      "name": "lowercase t with cedilla"
+    },
+    {
+      "char": "Ť",
+      "name": "uppercase t with caron"
+    },
+    {
+      "char": "ť",
+      "name": "lowercase t with caron"
+    },
+    {
+      "char": "Ŧ",
+      "name": "uppercase t with stroke"
+    },
+    {
+      "char": "ŧ",
+      "name": "lowercase t with stroke"
+    },
+    {
+      "char": "Ũ",
+      "name": "uppercase u with tilde"
+    },
+    {
+      "char": "ũ",
+      "name": "lowercase u with tilde"
+    },
+    {
+      "char": "Ū",
+      "name": "uppercase u with macron"
+    },
+    {
+      "char": "ū",
+      "name": "lowercase u with macron"
+    },
+    {
+      "char": "Ŭ",
+      "name": "uppercase u with breve"
+    },
+    {
+      "char": "ŭ",
+      "name": "lowercase u with breve"
+    },
+    {
+      "char": "Ů",
+      "name": "uppercase u with ring above"
+    },
+    {
+      "char": "ů",
+      "name": "lowercase u with ring above"
+    },
+    {
+      "char": "Ű",
+      "name": "uppercase u with double acute"
+    },
+    {
+      "char": "ű",
+      "name": "lowercase u with double acute"
+    },
+    {
+      "char": "Ų",
+      "name": "uppercase u with ogonek"
+    },
+    {
+      "char": "ų",
+      "name": "lowercase u with ogonek"
+    },
+    {
+      "char": "Ŵ",
+      "name": "uppercase w with circumflex"
+    },
+    {
+      "char": "ŵ",
+      "name": "lowercase w with circumflex"
+    },
+    {
+      "char": "Ŷ",
+      "name": "uppercase y with circumflex"
+    },
+    {
+      "char": "ŷ",
+      "name": "lowercase y with circumflex"
+    },
+    {
+      "char": "Ÿ",
+      "name": "uppercase y with diaeresis"
+    },
+    {
+      "char": "Ź",
+      "name": "uppercase z with acute"
+    },
+    {
+      "char": "ź",
+      "name": "lowercase z with acute"
+    },
+    {
+      "char": "Ż",
+      "name": "uppercase z with dot above"
+    },
+    {
+      "char": "ż",
+      "name": "lowercase z with dot above"
+    },
+    {
+      "char": "Ž",
+      "name": "uppercase z with caron"
+    },
+    {
+      "char": "ž",
+      "name": "lowercase z with caron"
+    },
+    {
+      "char": "ſ",
+      "name": "lowercase long s"
+    },
+    {
+      "char": "ƀ",
+      "name": "lowercase b with stroke"
+    },
+    {
+      "char": "Ɓ",
+      "name": "uppercase b with hook"
+    },
+    {
+      "char": "Ƃ",
+      "name": "uppercase b with topbar"
+    },
+    {
+      "char": "ƃ",
+      "name": "lowercase b with topbar"
+    },
+    {
+      "char": "Ƅ",
+      "name": "uppercase tone six"
+    },
+    {
+      "char": "ƅ",
+      "name": "lowercase tone six"
+    },
+    {
+      "char": "Ɔ",
+      "name": "uppercase open o"
+    },
+    {
+      "char": "Ƈ",
+      "name": "uppercase c with hook"
+    },
+    {
+      "char": "ƈ",
+      "name": "lowercase c with hook"
+    },
+    {
+      "char": "Ɖ",
+      "name": "uppercase african d"
+    },
+    {
+      "char": "Ɗ",
+      "name": "uppercase d with hook"
+    },
+    {
+      "char": "Ƌ",
+      "name": "uppercase d with topbar"
+    },
+    {
+      "char": "ƌ",
+      "name": "lowercase d with topbar"
+    },
+    {
+      "char": "ƍ",
+      "name": "lowercase turned delta"
+    },
+    {
+      "char": "Ǝ",
+      "name": "uppercase reversed e"
+    },
+    {
+      "char": "Ə",
+      "name": "uppercase schwa"
+    },
+    {
+      "char": "Ɛ",
+      "name": "uppercase open e"
+    },
+    {
+      "char": "Ƒ",
+      "name": "uppercase f with hook"
+    },
+    {
+      "char": "ƒ",
+      "name": "lowercase f with hook"
+    },
+    {
+      "char": "ƒ",
+      "name": "function"
+    },
+    {
+      "char": "Ɠ",
+      "name": "uppercase g with hook"
+    },
+    {
+      "char": "Ɣ",
+      "name": "uppercase gamma"
+    },
+    {
+      "char": "ƕ",
+      "name": "lowercase hv"
+    },
+    {
+      "char": "Ɩ",
+      "name": "uppercase iota"
+    },
+    {
+      "char": "Ɨ",
+      "name": "uppercase i with stroke"
+    },
+    {
+      "char": "Ƙ",
+      "name": "uppercase k with hook"
+    },
+    {
+      "char": "ƙ",
+      "name": "lowercase k with hook"
+    },
+    {
+      "char": "ƚ",
+      "name": "lowercase l with bar"
+    },
+    {
+      "char": "ƛ",
+      "name": "lowercase lambda with stroke"
+    },
+    {
+      "char": "Ɯ",
+      "name": "uppercase turned m"
+    },
+    {
+      "char": "Ɲ",
+      "name": "uppercase n with left hook"
+    },
+    {
+      "char": "ƞ",
+      "name": "lowercase n with long right leg"
+    },
+    {
+      "char": "Ɵ",
+      "name": "uppercase o with middle tilde"
+    },
+    {
+      "char": "Ơ",
+      "name": "uppercase o with horn"
+    },
+    {
+      "char": "ơ",
+      "name": "lowercase o with horn"
+    },
+    {
+      "char": "Ƣ",
+      "name": "uppercase oi"
+    },
+    {
+      "char": "ƣ",
+      "name": "lowercase oi"
+    },
+    {
+      "char": "Ƥ",
+      "name": "uppercase p with hook"
+    },
+    {
+      "char": "ƥ",
+      "name": "lowercase p with hook"
+    },
+    {
+      "char": "Ʀ",
+      "name": "latin letter yr"
+    },
+    {
+      "char": "Ƨ",
+      "name": "uppercase tone two"
+    },
+    {
+      "char": "ƨ",
+      "name": "lowercase tone two"
+    },
+    {
+      "char": "Ʃ",
+      "name": "uppercase esh"
+    },
+    {
+      "char": "ƪ",
+      "name": "latin letter reversed esh loop"
+    },
+    {
+      "char": "ƫ",
+      "name": "lowercase t with palatal hook"
+    },
+    {
+      "char": "Ƭ",
+      "name": "uppercase t with hook"
+    },
+    {
+      "char": "ƭ",
+      "name": "lowercase t with hook"
+    },
+    {
+      "char": "Ʈ",
+      "name": "uppercase t with retroflex hook"
+    },
+    {
+      "char": "Ư",
+      "name": "uppercase u with horn"
+    },
+    {
+      "char": "ư",
+      "name": "lowercase u with horn"
+    },
+    {
+      "char": "Ʊ",
+      "name": "uppercase upsilon"
+    },
+    {
+      "char": "Ʋ",
+      "name": "uppercase v with hook"
+    },
+    {
+      "char": "Ƴ",
+      "name": "uppercase y with hook"
+    },
+    {
+      "char": "ƴ",
+      "name": "lowercase y with hook"
+    },
+    {
+      "char": "Ƶ",
+      "name": "uppercase z with stroke"
+    },
+    {
+      "char": "ƶ",
+      "name": "lowercase z with stroke"
+    },
+    {
+      "char": "Ʒ",
+      "name": "uppercase ezh"
+    },
+    {
+      "char": "Ƹ",
+      "name": "uppercase ezh reversed"
+    },
+    {
+      "char": "ƹ",
+      "name": "lowercase ezh reversed"
+    },
+    {
+      "char": "ƺ",
+      "name": "lowercase ezh with tail"
+    },
+    {
+      "char": "ƻ",
+      "name": "latin letter two with stroke"
+    },
+    {
+      "char": "Ƽ",
+      "name": "uppercase tone five"
+    },
+    {
+      "char": "ƽ",
+      "name": "lowercase tone five"
+    },
+    {
+      "char": "ƾ",
+      "name": "latin letter inverted glottal stop with stroke"
+    },
+    {
+      "char": "ƿ",
+      "name": "latin letter wynn"
+    },
+    {
+      "char": "ǀ",
+      "name": "latin letter dental click"
+    },
+    {
+      "char": "ǁ",
+      "name": "latin letter lateral click"
+    },
+    {
+      "char": "ǂ",
+      "name": "latin letter alveolar click"
+    },
+    {
+      "char": "ǃ",
+      "name": "latin letter retroflex click"
+    },
+    {
+      "char": "Ǆ",
+      "name": "uppercase dz with caron"
+    },
+    {
+      "char": "ǅ",
+      "name": "uppercase d with small letter z with caron"
+    },
+    {
+      "char": "ǆ",
+      "name": "lowercase dz with caron"
+    },
+    {
+      "char": "Ǉ",
+      "name": "uppercase lj"
+    },
+    {
+      "char": "ǈ",
+      "name": "uppercase l with small letter j"
+    },
+    {
+      "char": "ǉ",
+      "name": "lowercase lj"
+    },
+    {
+      "char": "Ǌ",
+      "name": "uppercase nj"
+    },
+    {
+      "char": "ǋ",
+      "name": "uppercase n with small letter j"
+    },
+    {
+      "char": "ǌ",
+      "name": "lowercase nj"
+    },
+    {
+      "char": "Ǎ",
+      "name": "uppercase a with caron"
+    },
+    {
+      "char": "ǎ",
+      "name": "lowercase a with caron"
+    },
+    {
+      "char": "Ǐ",
+      "name": "uppercase i with caron"
+    },
+    {
+      "char": "ǐ",
+      "name": "lowercase i with caron"
+    },
+    {
+      "char": "Ǒ",
+      "name": "uppercase o with caron"
+    },
+    {
+      "char": "ǒ",
+      "name": "lowercase o with caron"
+    },
+    {
+      "char": "Ǔ",
+      "name": "uppercase u with caron"
+    },
+    {
+      "char": "ǔ",
+      "name": "lowercase u with caron"
+    },
+    {
+      "char": "Ǖ",
+      "name": "uppercase u with diaeresis and macron"
+    },
+    {
+      "char": "ǖ",
+      "name": "lowercase u with diaeresis and macron"
+    },
+    {
+      "char": "Ǘ",
+      "name": "uppercase u with diaeresis and acute"
+    },
+    {
+      "char": "ǘ",
+      "name": "lowercase u with diaeresis and acute"
+    },
+    {
+      "char": "Ǚ",
+      "name": "uppercase u with diaeresis and caron"
+    },
+    {
+      "char": "ǚ",
+      "name": "lowercase u with diaeresis and caron"
+    },
+    {
+      "char": "Ǜ",
+      "name": "uppercase u with diaeresis and grave"
+    },
+    {
+      "char": "ǜ",
+      "name": "lowercase u with diaeresis and grave"
+    },
+    {
+      "char": "ǝ",
+      "name": "lowercase turned e"
+    },
+    {
+      "char": "Ǟ",
+      "name": "uppercase a with diaeresis and macron"
+    },
+    {
+      "char": "ǟ",
+      "name": "lowercase a with diaeresis and macron"
+    },
+    {
+      "char": "Ǡ",
+      "name": "uppercase a with dot above and macron"
+    },
+    {
+      "char": "ǡ",
+      "name": "lowercase a with dot above and macron"
+    },
+    {
+      "char": "Ǣ",
+      "name": "uppercase ae with macron"
+    },
+    {
+      "char": "ǣ",
+      "name": "lowercase ae with macron"
+    },
+    {
+      "char": "Ǥ",
+      "name": "uppercase g with stroke"
+    },
+    {
+      "char": "ǥ",
+      "name": "lowercase g with stroke"
+    },
+    {
+      "char": "Ǧ",
+      "name": "uppercase g with caron"
+    },
+    {
+      "char": "ǧ",
+      "name": "lowercase g with caron"
+    },
+    {
+      "char": "Ǩ",
+      "name": "uppercase k with caron"
+    },
+    {
+      "char": "ǩ",
+      "name": "lowercase k with caron"
+    },
+    {
+      "char": "Ǫ",
+      "name": "uppercase o with ogonek"
+    },
+    {
+      "char": "ǫ",
+      "name": "lowercase o with ogonek"
+    },
+    {
+      "char": "Ǭ",
+      "name": "uppercase o with ogonek and macron"
+    },
+    {
+      "char": "ǭ",
+      "name": "lowercase o with ogonek and macron"
+    },
+    {
+      "char": "Ǯ",
+      "name": "uppercase ezh with caron"
+    },
+    {
+      "char": "ǯ",
+      "name": "lowercase ezh with caron"
+    },
+    {
+      "char": "ǰ",
+      "name": "lowercase j with caron"
+    },
+    {
+      "char": "Ǳ",
+      "name": "uppercase dz"
+    },
+    {
+      "char": "ǲ",
+      "name": "uppercase d with small letter z"
+    },
+    {
+      "char": "ǳ",
+      "name": "lowercase dz"
+    },
+    {
+      "char": "Ǵ",
+      "name": "uppercase g with acute"
+    },
+    {
+      "char": "ǵ",
+      "name": "lowercase g with acute"
+    },
+    {
+      "char": "Ƕ",
+      "name": "uppercase hwair"
+    },
+    {
+      "char": "Ƿ",
+      "name": "uppercase wynn"
+    },
+    {
+      "char": "Ǹ",
+      "name": "uppercase n with grave"
+    },
+    {
+      "char": "ǹ",
+      "name": "lowercase n with grave"
+    },
+    {
+      "char": "Ǻ",
+      "name": "uppercase a with ring above and acute"
+    },
+    {
+      "char": "ǻ",
+      "name": "lowercase a with ring above and acute"
+    },
+    {
+      "char": "Ǽ",
+      "name": "uppercase ae with acute"
+    },
+    {
+      "char": "ǽ",
+      "name": "lowercase ae with acute"
+    },
+    {
+      "char": "Ǿ",
+      "name": "uppercase o with stroke and acute"
+    },
+    {
+      "char": "ǿ",
+      "name": "lowercase o with stroke and acute"
+    },
+    {
+      "char": "Ȁ",
+      "name": "uppercase a with double grave"
+    },
+    {
+      "char": "ȁ",
+      "name": "lowercase a with double grave"
+    },
+    {
+      "char": "Ȃ",
+      "name": "uppercase a with inverted breve"
+    },
+    {
+      "char": "ȃ",
+      "name": "lowercase a with inverted breve"
+    },
+    {
+      "char": "Ȅ",
+      "name": "uppercase e with double grave"
+    },
+    {
+      "char": "ȅ",
+      "name": "lowercase e with double grave"
+    },
+    {
+      "char": "Ȇ",
+      "name": "uppercase e with inverted breve"
+    },
+    {
+      "char": "ȇ",
+      "name": "lowercase e with inverted breve"
+    },
+    {
+      "char": "Ȉ",
+      "name": "uppercase i with double grave"
+    },
+    {
+      "char": "ȉ",
+      "name": "lowercase i with double grave"
+    },
+    {
+      "char": "Ȋ",
+      "name": "uppercase i with inverted breve"
+    },
+    {
+      "char": "ȋ",
+      "name": "lowercase i with inverted breve"
+    },
+    {
+      "char": "Ȍ",
+      "name": "uppercase o with double grave"
+    },
+    {
+      "char": "ȍ",
+      "name": "lowercase o with double grave"
+    },
+    {
+      "char": "Ȏ",
+      "name": "uppercase o with inverted breve"
+    },
+    {
+      "char": "ȏ",
+      "name": "lowercase o with inverted breve"
+    },
+    {
+      "char": "Ȑ",
+      "name": "uppercase r with double grave"
+    },
+    {
+      "char": "ȑ",
+      "name": "lowercase r with double grave"
+    },
+    {
+      "char": "Ȓ",
+      "name": "uppercase r with inverted breve"
+    },
+    {
+      "char": "ȓ",
+      "name": "lowercase r with inverted breve"
+    },
+    {
+      "char": "Ȕ",
+      "name": "uppercase u with double grave"
+    },
+    {
+      "char": "ȕ",
+      "name": "lowercase u with double grave"
+    },
+    {
+      "char": "Ȗ",
+      "name": "uppercase u with inverted breve"
+    },
+    {
+      "char": "ȗ",
+      "name": "lowercase u with inverted breve"
+    },
+    {
+      "char": "Ș",
+      "name": "uppercase s with comma below"
+    },
+    {
+      "char": "ș",
+      "name": "lowercase s with comma below"
+    },
+    {
+      "char": "Ț",
+      "name": "uppercase t with comma below"
+    },
+    {
+      "char": "ț",
+      "name": "lowercase t with comma below"
+    },
+    {
+      "char": "Ȝ",
+      "name": "uppercase yogh"
+    },
+    {
+      "char": "ȝ",
+      "name": "lowercase yogh"
+    },
+    {
+      "char": "Ȟ",
+      "name": "uppercase h with caron"
+    },
+    {
+      "char": "ȟ",
+      "name": "lowercase h with caron"
+    },
+    {
+      "char": "Ƞ",
+      "name": "uppercase n with long right leg"
+    },
+    {
+      "char": "ȡ",
+      "name": "lowercase d with curl"
+    },
+    {
+      "char": "Ȣ",
+      "name": "uppercase ou"
+    },
+    {
+      "char": "ȣ",
+      "name": "lowercase ou"
+    },
+    {
+      "char": "Ȥ",
+      "name": "uppercase z with hook"
+    },
+    {
+      "char": "ȥ",
+      "name": "lowercase z with hook"
+    },
+    {
+      "char": "Ȧ",
+      "name": "uppercase a with dot above"
+    },
+    {
+      "char": "ȧ",
+      "name": "lowercase a with dot above"
+    },
+    {
+      "char": "Ȩ",
+      "name": "uppercase e with cedilla"
+    },
+    {
+      "char": "ȩ",
+      "name": "lowercase e with cedilla"
+    },
+    {
+      "char": "Ȫ",
+      "name": "uppercase o with diaeresis and macron"
+    },
+    {
+      "char": "ȫ",
+      "name": "lowercase o with diaeresis and macron"
+    },
+    {
+      "char": "Ȭ",
+      "name": "uppercase o with tilde and macron"
+    },
+    {
+      "char": "ȭ",
+      "name": "lowercase o with tilde and macron"
+    },
+    {
+      "char": "Ȯ",
+      "name": "uppercase o with dot above"
+    },
+    {
+      "char": "ȯ",
+      "name": "lowercase o with dot above"
+    },
+    {
+      "char": "Ȱ",
+      "name": "uppercase o with dot above and macron"
+    },
+    {
+      "char": "ȱ",
+      "name": "lowercase o with dot above and macron"
+    },
+    {
+      "char": "Ȳ",
+      "name": "uppercase y with macron"
+    },
+    {
+      "char": "ȳ",
+      "name": "lowercase y with macron"
+    },
+    {
+      "char": "ȴ",
+      "name": "lowercase l with curl"
+    },
+    {
+      "char": "ȵ",
+      "name": "lowercase n with curl"
+    },
+    {
+      "char": "ȶ",
+      "name": "lowercase t with curl"
+    },
+    {
+      "char": "ȷ",
+      "name": "lowercase dotless j"
+    },
+    {
+      "char": "ȸ",
+      "name": "lowercase db digraph"
+    },
+    {
+      "char": "ȹ",
+      "name": "lowercase qp digraph"
+    },
+    {
+      "char": "Ⱥ",
+      "name": "uppercase a with stroke"
+    },
+    {
+      "char": "Ȼ",
+      "name": "uppercase c with stroke"
+    },
+    {
+      "char": "ȼ",
+      "name": "lowercase c with stroke"
+    },
+    {
+      "char": "Ƚ",
+      "name": "uppercase l with bar"
+    },
+    {
+      "char": "Ⱦ",
+      "name": "uppercase t with diagonal stroke"
+    },
+    {
+      "char": "ȿ",
+      "name": "lowercase s with swash tail"
+    },
+    {
+      "char": "ɀ",
+      "name": "lowercase z with swash tail"
+    },
+    {
+      "char": "Ɂ",
+      "name": "uppercase glottal stop"
+    },
+    {
+      "char": "ɂ",
+      "name": "lowercase glottal stop"
+    },
+    {
+      "char": "Ƀ",
+      "name": "uppercase b with stroke"
+    },
+    {
+      "char": "Ʉ",
+      "name": "uppercase u bar"
+    },
+    {
+      "char": "Ʌ",
+      "name": "uppercase turned v"
+    },
+    {
+      "char": "Ɇ",
+      "name": "uppercase e with stroke"
+    },
+    {
+      "char": "ɇ",
+      "name": "lowercase e with stroke"
+    },
+    {
+      "char": "Ɉ",
+      "name": "uppercase j with stroke"
+    },
+    {
+      "char": "ɉ",
+      "name": "lowercase j with stroke"
+    },
+    {
+      "char": "Ɋ",
+      "name": "uppercase small q with hook tail"
+    },
+    {
+      "char": "ɋ",
+      "name": "lowercase q with hook tail"
+    },
+    {
+      "char": "Ɍ",
+      "name": "uppercase r with stroke"
+    },
+    {
+      "char": "ɍ",
+      "name": "lowercase r with stroke"
+    },
+    {
+      "char": "Ɏ",
+      "name": "uppercase y with stroke"
+    },
+    {
+      "char": "ɏ",
+      "name": "lowercase y with stroke"
+    },
+    {
+      "char": "ɐ",
+      "name": "lowercase turned a"
+    },
+    {
+      "char": "ɑ",
+      "name": "lowercase alpha"
+    },
+    {
+      "char": "ɒ",
+      "name": "lowercase turned alpha"
+    },
+    {
+      "char": "ɓ",
+      "name": "lowercase b with hook"
+    },
+    {
+      "char": "ɔ",
+      "name": "lowercase open o"
+    },
+    {
+      "char": "ɕ",
+      "name": "lowercase c with curl"
+    },
+    {
+      "char": "ɖ",
+      "name": "lowercase d with tail"
+    },
+    {
+      "char": "ɗ",
+      "name": "lowercase d with hook"
+    },
+    {
+      "char": "ɘ",
+      "name": "lowercase reversed e"
+    },
+    {
+      "char": "ə",
+      "name": "lowercase schwa"
+    },
+    {
+      "char": "ɚ",
+      "name": "lowercase schwa with hook"
+    },
+    {
+      "char": "ɛ",
+      "name": "lowercase open e"
+    },
+    {
+      "char": "ɜ",
+      "name": "lowercase reversed open e"
+    },
+    {
+      "char": "ɝ",
+      "name": "lowercase reversed open e with hook"
+    },
+    {
+      "char": "ɞ",
+      "name": "lowercase closed reversed open e"
+    },
+    {
+      "char": "ɟ",
+      "name": "lowercase dotless j with stroke"
+    },
+    {
+      "char": "ɠ",
+      "name": "lowercase g with hook"
+    },
+    {
+      "char": "ɡ",
+      "name": "lowercase script g"
+    },
+    {
+      "char": "ɢ",
+      "name": "latin letter small capital g"
+    },
+    {
+      "char": "ɣ",
+      "name": "lowercase gamma"
+    },
+    {
+      "char": "ɤ",
+      "name": "lowercase rams horn"
+    },
+    {
+      "char": "ɥ",
+      "name": "lowercase turned h"
+    },
+    {
+      "char": "ɦ",
+      "name": "lowercase h with hook"
+    },
+    {
+      "char": "ɧ",
+      "name": "lowercase heng with hook"
+    },
+    {
+      "char": "ɨ",
+      "name": "lowercase i with stroke"
+    },
+    {
+      "char": "ɩ",
+      "name": "lowercase iota"
+    },
+    {
+      "char": "ɪ",
+      "name": "latin letter small capital i"
+    },
+    {
+      "char": "ɫ",
+      "name": "lowercase l with middle tilde"
+    },
+    {
+      "char": "ɬ",
+      "name": "lowercase l with belt"
+    },
+    {
+      "char": "ɭ",
+      "name": "lowercase l with retroflex hook"
+    },
+    {
+      "char": "ɮ",
+      "name": "lowercase lezh"
+    },
+    {
+      "char": "ɯ",
+      "name": "lowercase turned m"
+    },
+    {
+      "char": "ɰ",
+      "name": "lowercase turned m with long leg"
+    },
+    {
+      "char": "ɱ",
+      "name": "lowercase m with hook"
+    },
+    {
+      "char": "ɲ",
+      "name": "lowercase n with left hook"
+    },
+    {
+      "char": "ɳ",
+      "name": "lowercase n with retroflex hook"
+    },
+    {
+      "char": "ɴ",
+      "name": "latin letter small capital n"
+    },
+    {
+      "char": "ɵ",
+      "name": "lowercase barred o"
+    },
+    {
+      "char": "ɶ",
+      "name": "latin letter small capital oe"
+    },
+    {
+      "char": "ɷ",
+      "name": "lowercase closed omega"
+    },
+    {
+      "char": "ɸ",
+      "name": "lowercase phi"
+    },
+    {
+      "char": "ɹ",
+      "name": "lowercase turned r"
+    },
+    {
+      "char": "ɺ",
+      "name": "lowercase turned r with long leg"
+    },
+    {
+      "char": "ɻ",
+      "name": "lowercase turned r with hook"
+    },
+    {
+      "char": "ɼ",
+      "name": "lowercase r with long leg"
+    },
+    {
+      "char": "ɽ",
+      "name": "lowercase r with tail"
+    },
+    {
+      "char": "ɾ",
+      "name": "lowercase r with fishhook"
+    },
+    {
+      "char": "ɿ",
+      "name": "lowercase reversed r with fishhook"
+    },
+    {
+      "char": "ʀ",
+      "name": "latin letter small capital r"
+    },
+    {
+      "char": "ʁ",
+      "name": "latin letter small capital inverted r"
+    },
+    {
+      "char": "ʂ",
+      "name": "lowercase s with hook"
+    },
+    {
+      "char": "ʃ",
+      "name": "lowercase esh"
+    },
+    {
+      "char": "ʄ",
+      "name": "lowercase dotless j with stroke and hook"
+    },
+    {
+      "char": "ʅ",
+      "name": "lowercase squat reversed esh"
+    },
+    {
+      "char": "ʆ",
+      "name": "lowercase esh with curl"
+    },
+    {
+      "char": "ʇ",
+      "name": "lowercase turned t"
+    },
+    {
+      "char": "ʈ",
+      "name": "lowercase t with retroflex hook"
+    },
+    {
+      "char": "ʉ",
+      "name": "lowercase u bar"
+    },
+    {
+      "char": "ʊ",
+      "name": "lowercase upsilon"
+    },
+    {
+      "char": "ʋ",
+      "name": "lowercase v with hook"
+    },
+    {
+      "char": "ʌ",
+      "name": "lowercase turned v"
+    },
+    {
+      "char": "ʍ",
+      "name": "lowercase turned w"
+    },
+    {
+      "char": "ʎ",
+      "name": "lowercase turned y"
+    },
+    {
+      "char": "ʏ",
+      "name": "latin letter small capital y"
+    },
+    {
+      "char": "ʐ",
+      "name": "lowercase z with retroflex hook"
+    },
+    {
+      "char": "ʑ",
+      "name": "lowercase z with curl"
+    },
+    {
+      "char": "ʒ",
+      "name": "lowercase ezh"
+    },
+    {
+      "char": "ʓ",
+      "name": "lowercase ezh with curl"
+    },
+    {
+      "char": "ʔ",
+      "name": "latin letter glottal stop"
+    },
+    {
+      "char": "ʕ",
+      "name": "latin letter pharyngeal voiced fricative"
+    },
+    {
+      "char": "ʖ",
+      "name": "latin letter inverted glottal stop"
+    },
+    {
+      "char": "ʗ",
+      "name": "latin letter stretched c"
+    },
+    {
+      "char": "ʘ",
+      "name": "latin letter bilabial click"
+    },
+    {
+      "char": "ʙ",
+      "name": "latin letter small capital b"
+    },
+    {
+      "char": "ʚ",
+      "name": "lowercase closed open e"
+    },
+    {
+      "char": "ʛ",
+      "name": "latin letter small capital g with hook"
+    },
+    {
+      "char": "ʜ",
+      "name": "latin letter small capital h"
+    },
+    {
+      "char": "ʝ",
+      "name": "lowercase j with crossed-tail"
+    },
+    {
+      "char": "ʞ",
+      "name": "lowercase turned k"
+    },
+    {
+      "char": "ʟ",
+      "name": "latin letter small capital l"
+    },
+    {
+      "char": "ʠ",
+      "name": "lowercase q with hook"
+    },
+    {
+      "char": "ʡ",
+      "name": "latin letter glottal stop with stroke"
+    },
+    {
+      "char": "ʢ",
+      "name": "latin letter reversed glottal stop with stroke"
+    },
+    {
+      "char": "ʣ",
+      "name": "lowercase dz digraph"
+    },
+    {
+      "char": "ʤ",
+      "name": "lowercase dezh digraph"
+    },
+    {
+      "char": "ʥ",
+      "name": "lowercase dz digraph with curl"
+    },
+    {
+      "char": "ʦ",
+      "name": "lowercase ts digraph"
+    },
+    {
+      "char": "ʧ",
+      "name": "lowercase tesh digraph"
+    },
+    {
+      "char": "ʨ",
+      "name": "lowercase tc digraph with curl"
+    },
+    {
+      "char": "ʩ",
+      "name": "lowercase feng digraph"
+    },
+    {
+      "char": "ʪ",
+      "name": "lowercase ls digraph"
+    },
+    {
+      "char": "ʫ",
+      "name": "lowercase lz digraph"
+    },
+    {
+      "char": "ʬ",
+      "name": "lowercase bilabial percussive"
+    },
+    {
+      "char": "ʭ",
+      "name": "lowercase bidental percussive"
+    },
+    {
+      "char": "ʮ",
+      "name": "lowercase turned h with fishhook"
+    },
+    {
+      "char": "ʯ",
+      "name": "lowercase turned h with fishhook and tail"
+    },
+    {
+      "char": "Ά",
+      "name": "greek capital letter alpha with tonos"
+    },
+    {
+      "char": "·",
+      "name": "greek ano teleia"
+    },
+    {
+      "char": "Έ",
+      "name": "greek capital letter epsilon with tonos"
+    },
+    {
+      "char": "Ή",
+      "name": "greek capital letter eta with tonos"
+    },
+    {
+      "char": "Ί",
+      "name": "greek capital letter iota with tonos"
+    },
+    {
+      "char": "Ό",
+      "name": "greek capital letter omicron with tonos"
+    },
+    {
+      "char": "Ύ",
+      "name": "greek capital letter upsilon with tonos"
+    },
+    {
+      "char": "Ώ",
+      "name": "greek capital letter omega with tonos"
+    },
+    {
+      "char": "ΐ",
+      "name": "greek small letter iota with dialytika and tonos"
+    },
+    {
+      "char": "Α",
+      "name": "greek capital letter alpha"
+    },
+    {
+      "char": "Β",
+      "name": "greek capital letter beta"
+    },
+    {
+      "char": "Γ",
+      "name": "greek capital letter gamma"
+    },
+    {
+      "char": "Δ",
+      "name": "greek capital letter delta"
+    },
+    {
+      "char": "Ε",
+      "name": "greek capital letter epsilon"
+    },
+    {
+      "char": "Ζ",
+      "name": "greek capital letter zeta"
+    },
+    {
+      "char": "Η",
+      "name": "greek capital letter eta"
+    },
+    {
+      "char": "Θ",
+      "name": "greek capital letter theta"
+    },
+    {
+      "char": "Ι",
+      "name": "greek capital letter iota"
+    },
+    {
+      "char": "Κ",
+      "name": "greek capital letter kappa"
+    },
+    {
+      "char": "Λ",
+      "name": "greek capital letter lamda"
+    },
+    {
+      "char": "Μ",
+      "name": "greek capital letter mu"
+    },
+    {
+      "char": "Ν",
+      "name": "greek capital letter nu"
+    },
+    {
+      "char": "Ξ",
+      "name": "greek capital letter xi"
+    },
+    {
+      "char": "Ο",
+      "name": "greek capital letter omicron"
+    },
+    {
+      "char": "Π",
+      "name": "greek capital letter pi"
+    },
+    {
+      "char": "Ρ",
+      "name": "greek capital letter rho"
+    },
+    {
+      "char": "Σ",
+      "name": "greek capital letter sigma"
+    },
+    {
+      "char": "Τ",
+      "name": "greek capital letter tau"
+    },
+    {
+      "char": "Υ",
+      "name": "greek capital letter upsilon"
+    },
+    {
+      "char": "Φ",
+      "name": "greek capital letter phi"
+    },
+    {
+      "char": "Χ",
+      "name": "greek capital letter chi"
+    },
+    {
+      "char": "Ψ",
+      "name": "greek capital letter psi"
+    },
+    {
+      "char": "Ω",
+      "name": "greek capital letter omega"
+    },
+    {
+      "char": "Ϊ",
+      "name": "greek capital letter iota with dialytika"
+    },
+    {
+      "char": "Ϋ",
+      "name": "greek capital letter upsilon with dialytika"
+    },
+    {
+      "char": "ά",
+      "name": "greek small letter alpha with tonos"
+    },
+    {
+      "char": "έ",
+      "name": "greek small letter epsilon with tonos"
+    },
+    {
+      "char": "ή",
+      "name": "greek small letter eta with tonos"
+    },
+    {
+      "char": "ί",
+      "name": "greek small letter iota with tonos"
+    },
+    {
+      "char": "ΰ",
+      "name": "greek small letter upsilon with dialytika and tonos"
+    },
+    {
+      "char": "α",
+      "name": "greek small letter alpha"
+    },
+    {
+      "char": "β",
+      "name": "greek small letter beta"
+    },
+    {
+      "char": "γ",
+      "name": "greek small letter gamma"
+    },
+    {
+      "char": "δ",
+      "name": "greek small letter delta"
+    },
+    {
+      "char": "ε",
+      "name": "greek small letter epsilon"
+    },
+    {
+      "char": "ζ",
+      "name": "greek small letter zeta"
+    },
+    {
+      "char": "η",
+      "name": "greek small letter eta"
+    },
+    {
+      "char": "θ",
+      "name": "greek small letter theta"
+    },
+    {
+      "char": "ι",
+      "name": "greek small letter iota"
+    },
+    {
+      "char": "κ",
+      "name": "greek small letter kappa"
+    },
+    {
+      "char": "λ",
+      "name": "greek small letter lamda"
+    },
+    {
+      "char": "μ",
+      "name": "greek small letter mu"
+    },
+    {
+      "char": "ν",
+      "name": "greek small letter nu"
+    },
+    {
+      "char": "ξ",
+      "name": "greek small letter xi"
+    },
+    {
+      "char": "ο",
+      "name": "greek small letter omicron"
+    },
+    {
+      "char": "π",
+      "name": "greek small letter pi"
+    },
+    {
+      "char": "ρ",
+      "name": "greek small letter rho"
+    },
+    {
+      "char": "ς",
+      "name": "greek small letter final sigma"
+    },
+    {
+      "char": "σ",
+      "name": "greek small letter sigma"
+    },
+    {
+      "char": "τ",
+      "name": "greek small letter tau"
+    },
+    {
+      "char": "υ",
+      "name": "greek small letter upsilon"
+    },
+    {
+      "char": "φ",
+      "name": "greek small letter phi"
+    },
+    {
+      "char": "χ",
+      "name": "greek small letter chi"
+    },
+    {
+      "char": "ψ",
+      "name": "greek small letter psi"
+    },
+    {
+      "char": "ω",
+      "name": "greek small letter omega"
+    },
+    {
+      "char": "ϊ",
+      "name": "greek small letter iota with dialytika"
+    },
+    {
+      "char": "ϋ",
+      "name": "greek small letter upsilon with dialytika"
+    },
+    {
+      "char": "ό",
+      "name": "greek small letter omicron with tonos"
+    },
+    {
+      "char": "ύ",
+      "name": "greek small letter upsilon with tonos"
+    },
+    {
+      "char": "ώ",
+      "name": "greek small letter omega with tonos"
+    },
+    {
+      "char": "ה",
+      "name": "hebrew letter he"
+    },
+    {
+      "char": "ו",
+      "name": "hebrew letter vav"
+    },
+    {
+      "char": "ז",
+      "name": "hebrew letter zayin"
+    },
+    {
+      "char": "ח",
+      "name": "hebrew letter het"
+    },
+    {
+      "char": "ט",
+      "name": "hebrew letter tet"
+    },
+    {
+      "char": "י",
+      "name": "hebrew letter yod"
+    },
+    {
+      "char": "ך",
+      "name": "hebrew letter final kaf"
+    },
+    {
+      "char": "כ",
+      "name": "hebrew letter kaf"
+    },
+    {
+      "char": "ל",
+      "name": "hebrew letter lamed"
+    },
+    {
+      "char": "ם",
+      "name": "hebrew letter final mem"
+    },
+    {
+      "char": "מ",
+      "name": "hebrew letter mem"
+    },
+    {
+      "char": "ן",
+      "name": "hebrew letter final nun"
+    },
+    {
+      "char": "נ",
+      "name": "hebrew letter nun"
+    },
+    {
+      "char": "ס",
+      "name": "hebrew letter samekh"
+    },
+    {
+      "char": "ע",
+      "name": "hebrew letter ayin"
+    },
+    {
+      "char": "ף",
+      "name": "hebrew letter final pe"
+    },
+    {
+      "char": "פ",
+      "name": "hebrew letter pe"
+    },
+    {
+      "char": "ץ",
+      "name": "hebrew letter final tsadi"
+    },
+    {
+      "char": "צ",
+      "name": "hebrew letter tsadi"
+    },
+    {
+      "char": "ק",
+      "name": "hebrew letter qof"
+    },
+    {
+      "char": "ר",
+      "name": "hebrew letter resh"
+    },
+    {
+      "char": "ש",
+      "name": "hebrew letter shin"
+    },
+    {
+      "char": "ת",
+      "name": "hebrew letter tav"
+    },
+    {
+      "char": "ء",
+      "name": "arabic letter hamza"
+    },
+    {
+      "char": "آ",
+      "name": "arabic letter alef with madda above"
+    },
+    {
+      "char": "أ",
+      "name": "arabic letter alef with hamza above"
+    },
+    {
+      "char": "ؤ",
+      "name": "arabic letter waw with hamza above"
+    },
+    {
+      "char": "إ",
+      "name": "arabic letter alef with hamza below"
+    },
+    {
+      "char": "ئ",
+      "name": "arabic letter yeh with hamza above"
+    },
+    {
+      "char": "ا",
+      "name": "arabic letter alef"
+    },
+    {
+      "char": "ب",
+      "name": "arabic letter beh"
+    },
+    {
+      "char": "ة",
+      "name": "arabic letter teh marbuta"
+    },
+    {
+      "char": "ت",
+      "name": "arabic letter teh"
+    },
+    {
+      "char": "ث",
+      "name": "arabic letter theh"
+    },
+    {
+      "char": "ج",
+      "name": "arabic letter jeem"
+    },
+    {
+      "char": "ح",
+      "name": "arabic letter hah"
+    },
+    {
+      "char": "خ",
+      "name": "arabic letter khah"
+    },
+    {
+      "char": "د",
+      "name": "arabic letter dal"
+    },
+    {
+      "char": "ذ",
+      "name": "arabic letter thal"
+    },
+    {
+      "char": "ر",
+      "name": "arabic letter reh"
+    },
+    {
+      "char": "ز",
+      "name": "arabic letter zain"
+    },
+    {
+      "char": "س",
+      "name": "arabic letter seen"
+    },
+    {
+      "char": "ش",
+      "name": "arabic letter sheen"
+    },
+    {
+      "char": "ص",
+      "name": "arabic letter sad"
+    },
+    {
+      "char": "ض",
+      "name": "arabic letter dad"
+    },
+    {
+      "char": "ط",
+      "name": "arabic letter tah"
+    },
+    {
+      "char": "ظ",
+      "name": "arabic letter zah"
+    },
+    {
+      "char": "ع",
+      "name": "arabic letter ain"
+    },
+    {
+      "char": "غ",
+      "name": "arabic letter ghain"
+    },
+    {
+      "char": "ػ",
+      "name": "arabic letter keheh with two dots above"
+    },
+    {
+      "char": "ؼ",
+      "name": "arabic letter keheh with three dots below"
+    },
+    {
+      "char": "ؽ",
+      "name": "arabic letter farsi yeh with inverted v"
+    },
+    {
+      "char": "ؾ",
+      "name": "arabic letter farsi yeh with two dots above"
+    },
+    {
+      "char": "ؿ",
+      "name": "arabic letter farsi yeh with three dots above"
+    },
+    {
+      "char": "ـ",
+      "name": "arabic tatweel"
+    },
+    {
+      "char": "ف",
+      "name": "arabic letter feh"
+    },
+    {
+      "char": "ق",
+      "name": "arabic letter qaf"
+    },
+    {
+      "char": "ك",
+      "name": "arabic letter kaf"
+    },
+    {
+      "char": "ل",
+      "name": "arabic letter lam"
+    },
+    {
+      "char": "م",
+      "name": "arabic letter meem"
+    },
+    {
+      "char": "ن",
+      "name": "arabic letter noon"
+    },
+    {
+      "char": "ه",
+      "name": "arabic letter heh"
+    },
+    {
+      "char": "و",
+      "name": "arabic letter waw"
+    },
+    {
+      "char": "ى",
+      "name": "arabic letter alef maksura"
+    },
+    {
+      "char": "ي",
+      "name": "arabic letter yeh"
+    },
+    {
+      "char": "Ꞓ",
+      "name": "uppercase c with bar"
+    },
+    {
+      "char": "ꞓ",
+      "name": "lowercase c with bar"
+    },
+    {
+      "char": "﷼",
+      "name": "rial sign"
+    }
+  ]
+}

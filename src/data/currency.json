@@ -1,0 +1,122 @@
+{
+  "id": "currency",
+  "name": "Currency",
+  "chars": [
+    {
+      "char": "₠",
+      "name": "euro-currency sign"
+    },
+    {
+      "char": "₡",
+      "name": "colon sign"
+    },
+    {
+      "char": "₢",
+      "name": "cruzeiro sign"
+    },
+    {
+      "char": "₣",
+      "name": "french franc sign"
+    },
+    {
+      "char": "₤",
+      "name": "lira sign"
+    },
+    {
+      "char": "₥",
+      "name": "mill sign"
+    },
+    {
+      "char": "₦",
+      "name": "naira sign"
+    },
+    {
+      "char": "₧",
+      "name": "peseta sign"
+    },
+    {
+      "char": "₨",
+      "name": "rupee sign"
+    },
+    {
+      "char": "₩",
+      "name": "won sign"
+    },
+    {
+      "char": "₪",
+      "name": "new sheqel sign"
+    },
+    {
+      "char": "₫",
+      "name": "dong sign"
+    },
+    {
+      "char": "€",
+      "name": "euro sign"
+    },
+    {
+      "char": "₭",
+      "name": "kip sign"
+    },
+    {
+      "char": "₮",
+      "name": "tugrik sign"
+    },
+    {
+      "char": "₯",
+      "name": "drachma sign"
+    },
+    {
+      "char": "₰",
+      "name": "german penny symbol"
+    },
+    {
+      "char": "₱",
+      "name": "peso sign"
+    },
+    {
+      "char": "₲",
+      "name": "guarani sign"
+    },
+    {
+      "char": "₳",
+      "name": "austral sign"
+    },
+    {
+      "char": "₴",
+      "name": "hryvnia sign"
+    },
+    {
+      "char": "₵",
+      "name": "cedi sign"
+    },
+    {
+      "char": "₶",
+      "name": "livre tournois sign"
+    },
+    {
+      "char": "₸",
+      "name": "tenge sign"
+    },
+    {
+      "char": "₹",
+      "name": "indian rupee sign"
+    },
+    {
+      "char": "₺",
+      "name": "turkish lira sign"
+    },
+    {
+      "char": "₼",
+      "name": "manat sign"
+    },
+    {
+      "char": "₽",
+      "name": "ruble sign"
+    },
+    {
+      "char": "₿",
+      "name": "bitcoin sign"
+    }
+  ]
+}

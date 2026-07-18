@@ -1,0 +1,1030 @@
+{
+  "id": "math",
+  "name": "Math",
+  "chars": [
+    {
+      "char": "∀",
+      "name": "for all"
+    },
+    {
+      "char": "∁",
+      "name": "complement"
+    },
+    {
+      "char": "∂",
+      "name": "partial differential"
+    },
+    {
+      "char": "∃",
+      "name": "there exists"
+    },
+    {
+      "char": "∄",
+      "name": "there does not exist"
+    },
+    {
+      "char": "∅",
+      "name": "empty set"
+    },
+    {
+      "char": "∆",
+      "name": "increment"
+    },
+    {
+      "char": "∇",
+      "name": "nabla"
+    },
+    {
+      "char": "∈",
+      "name": "element of"
+    },
+    {
+      "char": "∉",
+      "name": "not an element of"
+    },
+    {
+      "char": "∊",
+      "name": "small element of"
+    },
+    {
+      "char": "∋",
+      "name": "contains as member"
+    },
+    {
+      "char": "∌",
+      "name": "does not contain as member"
+    },
+    {
+      "char": "∍",
+      "name": "small contains as member"
+    },
+    {
+      "char": "∎",
+      "name": "end of proof"
+    },
+    {
+      "char": "∏",
+      "name": "n-ary product"
+    },
+    {
+      "char": "∐",
+      "name": "n-ary coproduct"
+    },
+    {
+      "char": "∑",
+      "name": "n-ary summation"
+    },
+    {
+      "char": "−",
+      "name": "minus sign"
+    },
+    {
+      "char": "∓",
+      "name": "minus-or-plus sign"
+    },
+    {
+      "char": "∔",
+      "name": "dot plus"
+    },
+    {
+      "char": "∕",
+      "name": "division slash"
+    },
+    {
+      "char": "∖",
+      "name": "set minus"
+    },
+    {
+      "char": "∗",
+      "name": "asterisk operator"
+    },
+    {
+      "char": "∘",
+      "name": "ring operator"
+    },
+    {
+      "char": "∙",
+      "name": "bullet operator"
+    },
+    {
+      "char": "√",
+      "name": "square root"
+    },
+    {
+      "char": "∛",
+      "name": "cube root"
+    },
+    {
+      "char": "∜",
+      "name": "fourth root"
+    },
+    {
+      "char": "∝",
+      "name": "proportional to"
+    },
+    {
+      "char": "∞",
+      "name": "infinity"
+    },
+    {
+      "char": "∟",
+      "name": "right angle"
+    },
+    {
+      "char": "∠",
+      "name": "angle"
+    },
+    {
+      "char": "∡",
+      "name": "measured angle"
+    },
+    {
+      "char": "∢",
+      "name": "spherical angle"
+    },
+    {
+      "char": "∣",
+      "name": "divides"
+    },
+    {
+      "char": "∤",
+      "name": "does not divide"
+    },
+    {
+      "char": "∥",
+      "name": "parallel to"
+    },
+    {
+      "char": "∦",
+      "name": "not parallel to"
+    },
+    {
+      "char": "∧",
+      "name": "logical and"
+    },
+    {
+      "char": "∨",
+      "name": "logical or"
+    },
+    {
+      "char": "∩",
+      "name": "intersection"
+    },
+    {
+      "char": "∪",
+      "name": "union"
+    },
+    {
+      "char": "∫",
+      "name": "integral"
+    },
+    {
+      "char": "∬",
+      "name": "double integral"
+    },
+    {
+      "char": "∭",
+      "name": "triple integral"
+    },
+    {
+      "char": "∮",
+      "name": "contour integral"
+    },
+    {
+      "char": "∯",
+      "name": "surface integral"
+    },
+    {
+      "char": "∰",
+      "name": "volume integral"
+    },
+    {
+      "char": "∱",
+      "name": "clockwise integral"
+    },
+    {
+      "char": "∲",
+      "name": "clockwise contour integral"
+    },
+    {
+      "char": "∳",
+      "name": "anticlockwise contour integral"
+    },
+    {
+      "char": "∴",
+      "name": "therefore"
+    },
+    {
+      "char": "∵",
+      "name": "because"
+    },
+    {
+      "char": "∶",
+      "name": "ratio"
+    },
+    {
+      "char": "∷",
+      "name": "proportion"
+    },
+    {
+      "char": "∸",
+      "name": "dot minus"
+    },
+    {
+      "char": "∹",
+      "name": "excess"
+    },
+    {
+      "char": "∺",
+      "name": "geometric proportion"
+    },
+    {
+      "char": "∻",
+      "name": "homothetic"
+    },
+    {
+      "char": "∼",
+      "name": "tilde operator"
+    },
+    {
+      "char": "∽",
+      "name": "reversed tilde"
+    },
+    {
+      "char": "∾",
+      "name": "inverted lazy s"
+    },
+    {
+      "char": "∿",
+      "name": "sine wave"
+    },
+    {
+      "char": "≀",
+      "name": "wreath product"
+    },
+    {
+      "char": "≁",
+      "name": "not tilde"
+    },
+    {
+      "char": "≂",
+      "name": "minus tilde"
+    },
+    {
+      "char": "≃",
+      "name": "asymptotically equal to"
+    },
+    {
+      "char": "≄",
+      "name": "not asymptotically equal to"
+    },
+    {
+      "char": "≅",
+      "name": "approximately equal to"
+    },
+    {
+      "char": "≆",
+      "name": "approximately but not actually equal to"
+    },
+    {
+      "char": "≇",
+      "name": "neither approximately nor actually equal to"
+    },
+    {
+      "char": "≈",
+      "name": "almost equal to"
+    },
+    {
+      "char": "≉",
+      "name": "not almost equal to"
+    },
+    {
+      "char": "≊",
+      "name": "almost equal or equal to"
+    },
+    {
+      "char": "≋",
+      "name": "triple tilde"
+    },
+    {
+      "char": "≌",
+      "name": "all equal to"
+    },
+    {
+      "char": "≍",
+      "name": "equivalent to"
+    },
+    {
+      "char": "≎",
+      "name": "geometrically equivalent to"
+    },
+    {
+      "char": "≏",
+      "name": "difference between"
+    },
+    {
+      "char": "≐",
+      "name": "approaches the limit"
+    },
+    {
+      "char": "≑",
+      "name": "geometrically equal to"
+    },
+    {
+      "char": "≒",
+      "name": "approximately equal to or the image of"
+    },
+    {
+      "char": "≓",
+      "name": "image of or approximately equal to"
+    },
+    {
+      "char": "≔",
+      "name": "colon equals"
+    },
+    {
+      "char": "≕",
+      "name": "equals colon"
+    },
+    {
+      "char": "≖",
+      "name": "ring in equal to"
+    },
+    {
+      "char": "≗",
+      "name": "ring equal to"
+    },
+    {
+      "char": "≘",
+      "name": "corresponds to"
+    },
+    {
+      "char": "≙",
+      "name": "estimates"
+    },
+    {
+      "char": "≚",
+      "name": "equiangular to"
+    },
+    {
+      "char": "≛",
+      "name": "star equals"
+    },
+    {
+      "char": "≜",
+      "name": "delta equal to"
+    },
+    {
+      "char": "≝",
+      "name": "equal to by definition"
+    },
+    {
+      "char": "≞",
+      "name": "measured by"
+    },
+    {
+      "char": "≟",
+      "name": "questioned equal to"
+    },
+    {
+      "char": "≠",
+      "name": "not equal to sign"
+    },
+    {
+      "char": "≡",
+      "name": "identical to"
+    },
+    {
+      "char": "≢",
+      "name": "not identical to"
+    },
+    {
+      "char": "≣",
+      "name": "strictly equivalent to"
+    },
+    {
+      "char": "≤",
+      "name": "less-than or equal to"
+    },
+    {
+      "char": "≥",
+      "name": "greater-than or equal to"
+    },
+    {
+      "char": "≦",
+      "name": "less-than over equal to"
+    },
+    {
+      "char": "≧",
+      "name": "greater-than over equal to"
+    },
+    {
+      "char": "≨",
+      "name": "less-than but not equal to"
+    },
+    {
+      "char": "≩",
+      "name": "greater-than but not equal to"
+    },
+    {
+      "char": "≪",
+      "name": "much less-than"
+    },
+    {
+      "char": "≫",
+      "name": "much greater-than"
+    },
+    {
+      "char": "≬",
+      "name": "between"
+    },
+    {
+      "char": "≭",
+      "name": "not equivalent to"
+    },
+    {
+      "char": "≮",
+      "name": "not less-than"
+    },
+    {
+      "char": "≯",
+      "name": "not greater-than"
+    },
+    {
+      "char": "≰",
+      "name": "neither less-than nor equal to"
+    },
+    {
+      "char": "≱",
+      "name": "neither greater-than nor equal to"
+    },
+    {
+      "char": "≲",
+      "name": "less-than or equivalent to"
+    },
+    {
+      "char": "≳",
+      "name": "greater-than or equivalent to"
+    },
+    {
+      "char": "≴",
+      "name": "neither less-than nor equivalent to"
+    },
+    {
+      "char": "≵",
+      "name": "neither greater-than nor equivalent to"
+    },
+    {
+      "char": "≶",
+      "name": "less-than or greater-than"
+    },
+    {
+      "char": "≷",
+      "name": "greater-than or less-than"
+    },
+    {
+      "char": "≸",
+      "name": "neither less-than nor greater-than"
+    },
+    {
+      "char": "≹",
+      "name": "neither greater-than nor less-than"
+    },
+    {
+      "char": "≺",
+      "name": "precedes"
+    },
+    {
+      "char": "≻",
+      "name": "succeeds"
+    },
+    {
+      "char": "≼",
+      "name": "precedes or equal to"
+    },
+    {
+      "char": "≽",
+      "name": "succeeds or equal to"
+    },
+    {
+      "char": "≾",
+      "name": "precedes or equivalent to"
+    },
+    {
+      "char": "≿",
+      "name": "succeeds or equivalent to"
+    },
+    {
+      "char": "⊀",
+      "name": "does not precede"
+    },
+    {
+      "char": "⊁",
+      "name": "does not succeed"
+    },
+    {
+      "char": "⊂",
+      "name": "subset of"
+    },
+    {
+      "char": "⊃",
+      "name": "superset of"
+    },
+    {
+      "char": "⊄",
+      "name": "not a subset of"
+    },
+    {
+      "char": "⊅",
+      "name": "not a superset of"
+    },
+    {
+      "char": "⊆",
+      "name": "subset of or equal to"
+    },
+    {
+      "char": "⊇",
+      "name": "superset of or equal to"
+    },
+    {
+      "char": "⊈",
+      "name": "neither a subset of nor equal to"
+    },
+    {
+      "char": "⊉",
+      "name": "neither a superset of nor equal to"
+    },
+    {
+      "char": "⊊",
+      "name": "subset of with not equal to"
+    },
+    {
+      "char": "⊋",
+      "name": "superset of with not equal to"
+    },
+    {
+      "char": "⊌",
+      "name": "multiset"
+    },
+    {
+      "char": "⊍",
+      "name": "multiset multiplication"
+    },
+    {
+      "char": "⊎",
+      "name": "multiset union"
+    },
+    {
+      "char": "⊏",
+      "name": "square image of"
+    },
+    {
+      "char": "⊐",
+      "name": "square original of"
+    },
+    {
+      "char": "⊑",
+      "name": "square image of or equal to"
+    },
+    {
+      "char": "⊒",
+      "name": "square original of or equal to"
+    },
+    {
+      "char": "⊓",
+      "name": "square cap"
+    },
+    {
+      "char": "⊔",
+      "name": "square cup"
+    },
+    {
+      "char": "⊕",
+      "name": "circled plus"
+    },
+    {
+      "char": "⊖",
+      "name": "circled minus"
+    },
+    {
+      "char": "⊗",
+      "name": "circled times"
+    },
+    {
+      "char": "⊘",
+      "name": "circled division slash"
+    },
+    {
+      "char": "⊙",
+      "name": "circled dot operator"
+    },
+    {
+      "char": "⊚",
+      "name": "circled ring operator"
+    },
+    {
+      "char": "⊛",
+      "name": "circled asterisk operator"
+    },
+    {
+      "char": "⊜",
+      "name": "circled equals"
+    },
+    {
+      "char": "⊝",
+      "name": "circled dash"
+    },
+    {
+      "char": "⊞",
+      "name": "squared plus"
+    },
+    {
+      "char": "⊟",
+      "name": "squared minus"
+    },
+    {
+      "char": "⊠",
+      "name": "squared times"
+    },
+    {
+      "char": "⊡",
+      "name": "squared dot operator"
+    },
+    {
+      "char": "⊢",
+      "name": "right tack"
+    },
+    {
+      "char": "⊣",
+      "name": "left tack"
+    },
+    {
+      "char": "⊤",
+      "name": "down tack"
+    },
+    {
+      "char": "⊥",
+      "name": "up tack"
+    },
+    {
+      "char": "⊦",
+      "name": "assertion"
+    },
+    {
+      "char": "⊧",
+      "name": "models"
+    },
+    {
+      "char": "⊨",
+      "name": "true"
+    },
+    {
+      "char": "⊩",
+      "name": "forces"
+    },
+    {
+      "char": "⊪",
+      "name": "triple vertical bar right turnstile"
+    },
+    {
+      "char": "⊫",
+      "name": "double vertical bar double right turnstile"
+    },
+    {
+      "char": "⊬",
+      "name": "does not prove"
+    },
+    {
+      "char": "⊭",
+      "name": "not true"
+    },
+    {
+      "char": "⊮",
+      "name": "does not force"
+    },
+    {
+      "char": "⊯",
+      "name": "negated double vertical bar double right turnstile"
+    },
+    {
+      "char": "⊰",
+      "name": "precedes under relation"
+    },
+    {
+      "char": "⊱",
+      "name": "succeeds under relation"
+    },
+    {
+      "char": "⊲",
+      "name": "normal subgroup of"
+    },
+    {
+      "char": "⊳",
+      "name": "contains as normal subgroup"
+    },
+    {
+      "char": "⊴",
+      "name": "normal subgroup of or equal to"
+    },
+    {
+      "char": "⊵",
+      "name": "contains as normal subgroup or equal to"
+    },
+    {
+      "char": "⊶",
+      "name": "original of"
+    },
+    {
+      "char": "⊷",
+      "name": "image of"
+    },
+    {
+      "char": "⊸",
+      "name": "multimap"
+    },
+    {
+      "char": "⊹",
+      "name": "hermitian conjugate matrix"
+    },
+    {
+      "char": "⊺",
+      "name": "intercalate"
+    },
+    {
+      "char": "⊻",
+      "name": "xor"
+    },
+    {
+      "char": "⊼",
+      "name": "nand"
+    },
+    {
+      "char": "⊽",
+      "name": "nor"
+    },
+    {
+      "char": "⊾",
+      "name": "right angle with arc"
+    },
+    {
+      "char": "⊿",
+      "name": "right triangle"
+    },
+    {
+      "char": "⋀",
+      "name": "n-ary logical and"
+    },
+    {
+      "char": "⋁",
+      "name": "n-ary logical or"
+    },
+    {
+      "char": "⋂",
+      "name": "n-ary intersection"
+    },
+    {
+      "char": "⋃",
+      "name": "n-ary union"
+    },
+    {
+      "char": "⋄",
+      "name": "diamond operator"
+    },
+    {
+      "char": "⋅",
+      "name": "dot operator"
+    },
+    {
+      "char": "⋆",
+      "name": "star operator"
+    },
+    {
+      "char": "⋇",
+      "name": "division times"
+    },
+    {
+      "char": "⋈",
+      "name": "bowtie"
+    },
+    {
+      "char": "⋉",
+      "name": "left normal factor semidirect product"
+    },
+    {
+      "char": "⋊",
+      "name": "right normal factor semidirect product"
+    },
+    {
+      "char": "⋋",
+      "name": "left semidirect product"
+    },
+    {
+      "char": "⋌",
+      "name": "right semidirect product"
+    },
+    {
+      "char": "⋍",
+      "name": "reversed tilde equals"
+    },
+    {
+      "char": "⋎",
+      "name": "curly logical or"
+    },
+    {
+      "char": "⋏",
+      "name": "curly logical and"
+    },
+    {
+      "char": "⋐",
+      "name": "double subset"
+    },
+    {
+      "char": "⋑",
+      "name": "double superset"
+    },
+    {
+      "char": "⋒",
+      "name": "double intersection"
+    },
+    {
+      "char": "⋓",
+      "name": "double union"
+    },
+    {
+      "char": "⋔",
+      "name": "pitchfork"
+    },
+    {
+      "char": "⋕",
+      "name": "equal and parallel to"
+    },
+    {
+      "char": "⋖",
+      "name": "less-than with dot"
+    },
+    {
+      "char": "⋗",
+      "name": "greater-than with dot"
+    },
+    {
+      "char": "⋘",
+      "name": "very much less-than"
+    },
+    {
+      "char": "⋙",
+      "name": "very much greater-than"
+    },
+    {
+      "char": "⋚",
+      "name": "less-than equal to or greater-than"
+    },
+    {
+      "char": "⋛",
+      "name": "greater-than equal to or less-than"
+    },
+    {
+      "char": "⋜",
+      "name": "equal to or less-than sign"
+    },
+    {
+      "char": "⋝",
+      "name": "equal to or greater-than sign"
+    },
+    {
+      "char": "⋞",
+      "name": "equal to or precedes"
+    },
+    {
+      "char": "⋟",
+      "name": "equal to or succeeds"
+    },
+    {
+      "char": "⋠",
+      "name": "does not precede or equal"
+    },
+    {
+      "char": "⋡",
+      "name": "does not succeed or equal"
+    },
+    {
+      "char": "⋢",
+      "name": "not square image of or equal to"
+    },
+    {
+      "char": "⋣",
+      "name": "not square original of or equal to"
+    },
+    {
+      "char": "⋤",
+      "name": "square image of or not equal to"
+    },
+    {
+      "char": "⋥",
+      "name": "square original of or not equal to"
+    },
+    {
+      "char": "⋦",
+      "name": "less-than but not equivalent to"
+    },
+    {
+      "char": "⋧",
+      "name": "greater-than but not equivalent to"
+    },
+    {
+      "char": "⋨",
+      "name": "precedes but not equivalent to"
+    },
+    {
+      "char": "⋩",
+      "name": "succeeds but not equivalent to"
+    },
+    {
+      "char": "⋪",
+      "name": "not normal subgroup of"
+    },
+    {
+      "char": "⋫",
+      "name": "does not contain as normal subgroup"
+    },
+    {
+      "char": "⋬",
+      "name": "not normal subgroup of or equal to"
+    },
+    {
+      "char": "⋭",
+      "name": "does not contain as normal subgroup or equal"
+    },
+    {
+      "char": "⋮",
+      "name": "vertical ellipsis"
+    },
+    {
+      "char": "⋯",
+      "name": "midline horizontal ellipsis"
+    },
+    {
+      "char": "⋰",
+      "name": "up right diagonal ellipsis"
+    },
+    {
+      "char": "⋱",
+      "name": "down right diagonal ellipsis"
+    },
+    {
+      "char": "⋲",
+      "name": "element of with long horizontal stroke"
+    },
+    {
+      "char": "⋳",
+      "name": "element of with vertical bar at end of horizontal stroke"
+    },
+    {
+      "char": "⋴",
+      "name": "small element of with vertical bar at end of horizontal stroke"
+    },
+    {
+      "char": "⋵",
+      "name": "element of with dot above"
+    },
+    {
+      "char": "⋶",
+      "name": "element of with overbar"
+    },
+    {
+      "char": "⋷",
+      "name": "small element of with overbar"
+    },
+    {
+      "char": "⋸",
+      "name": "element of with underbar"
+    },
+    {
+      "char": "⋹",
+      "name": "element of with two horizontal strokes"
+    },
+    {
+      "char": "⋺",
+      "name": "contains with long horizontal stroke"
+    },
+    {
+      "char": "⋻",
+      "name": "contains with vertical bar at end of horizontal stroke"
+    },
+    {
+      "char": "⋼",
+      "name": "small contains with vertical bar at end of horizontal stroke"
+    },
+    {
+      "char": "⋽",
+      "name": "contains with overbar"
+    },
+    {
+      "char": "⋾",
+      "name": "small contains with overbar"
+    },
+    {
+      "char": "⋿",
+      "name": "z notation bag membership"
+    }
+  ]
+}

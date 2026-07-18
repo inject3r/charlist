@@ -1,0 +1,4290 @@
+{
+  "id": "hieroglyphs",
+  "name": "Hieroglyphs",
+  "chars": [
+    {
+      "char": "𓀀",
+      "name": "EGYPTIAN HIEROGLYPH A001"
+    },
+    {
+      "char": "𓀁",
+      "name": "EGYPTIAN HIEROGLYPH A002"
+    },
+    {
+      "char": "𓀂",
+      "name": "EGYPTIAN HIEROGLYPH A003"
+    },
+    {
+      "char": "𓀃",
+      "name": "EGYPTIAN HIEROGLYPH A004"
+    },
+    {
+      "char": "𓀄",
+      "name": "EGYPTIAN HIEROGLYPH A005"
+    },
+    {
+      "char": "𓀅",
+      "name": "EGYPTIAN HIEROGLYPH A005A"
+    },
+    {
+      "char": "𓀆",
+      "name": "EGYPTIAN HIEROGLYPH A006"
+    },
+    {
+      "char": "𓀇",
+      "name": "EGYPTIAN HIEROGLYPH A006A"
+    },
+    {
+      "char": "𓀈",
+      "name": "EGYPTIAN HIEROGLYPH A006B"
+    },
+    {
+      "char": "𓀉",
+      "name": "EGYPTIAN HIEROGLYPH A007"
+    },
+    {
+      "char": "𓀊",
+      "name": "EGYPTIAN HIEROGLYPH A008"
+    },
+    {
+      "char": "𓀋",
+      "name": "EGYPTIAN HIEROGLYPH A009"
+    },
+    {
+      "char": "𓀌",
+      "name": "EGYPTIAN HIEROGLYPH A010"
+    },
+    {
+      "char": "𓀍",
+      "name": "EGYPTIAN HIEROGLYPH A011"
+    },
+    {
+      "char": "𓀎",
+      "name": "EGYPTIAN HIEROGLYPH A012"
+    },
+    {
+      "char": "𓀏",
+      "name": "EGYPTIAN HIEROGLYPH A013"
+    },
+    {
+      "char": "𓀐",
+      "name": "EGYPTIAN HIEROGLYPH A014"
+    },
+    {
+      "char": "𓀑",
+      "name": "EGYPTIAN HIEROGLYPH A014A"
+    },
+    {
+      "char": "𓀒",
+      "name": "EGYPTIAN HIEROGLYPH A015"
+    },
+    {
+      "char": "𓀓",
+      "name": "EGYPTIAN HIEROGLYPH A016"
+    },
+    {
+      "char": "𓀔",
+      "name": "EGYPTIAN HIEROGLYPH A017"
+    },
+    {
+      "char": "𓀕",
+      "name": "EGYPTIAN HIEROGLYPH A017A"
+    },
+    {
+      "char": "𓀖",
+      "name": "EGYPTIAN HIEROGLYPH A018"
+    },
+    {
+      "char": "𓀗",
+      "name": "EGYPTIAN HIEROGLYPH A019"
+    },
+    {
+      "char": "𓀘",
+      "name": "EGYPTIAN HIEROGLYPH A020"
+    },
+    {
+      "char": "𓀙",
+      "name": "EGYPTIAN HIEROGLYPH A021"
+    },
+    {
+      "char": "𓀚",
+      "name": "EGYPTIAN HIEROGLYPH A022"
+    },
+    {
+      "char": "𓀛",
+      "name": "EGYPTIAN HIEROGLYPH A023"
+    },
+    {
+      "char": "𓀜",
+      "name": "EGYPTIAN HIEROGLYPH A024"
+    },
+    {
+      "char": "𓀝",
+      "name": "EGYPTIAN HIEROGLYPH A025"
+    },
+    {
+      "char": "𓀞",
+      "name": "EGYPTIAN HIEROGLYPH A026"
+    },
+    {
+      "char": "𓀟",
+      "name": "EGYPTIAN HIEROGLYPH A027"
+    },
+    {
+      "char": "𓀠",
+      "name": "EGYPTIAN HIEROGLYPH A028"
+    },
+    {
+      "char": "𓀡",
+      "name": "EGYPTIAN HIEROGLYPH A029"
+    },
+    {
+      "char": "𓀢",
+      "name": "EGYPTIAN HIEROGLYPH A030"
+    },
+    {
+      "char": "𓀣",
+      "name": "EGYPTIAN HIEROGLYPH A031"
+    },
+    {
+      "char": "𓀤",
+      "name": "EGYPTIAN HIEROGLYPH A032"
+    },
+    {
+      "char": "𓀥",
+      "name": "EGYPTIAN HIEROGLYPH A032A"
+    },
+    {
+      "char": "𓀦",
+      "name": "EGYPTIAN HIEROGLYPH A033"
+    },
+    {
+      "char": "𓀧",
+      "name": "EGYPTIAN HIEROGLYPH A034"
+    },
+    {
+      "char": "𓀨",
+      "name": "EGYPTIAN HIEROGLYPH A035"
+    },
+    {
+      "char": "𓀩",
+      "name": "EGYPTIAN HIEROGLYPH A036"
+    },
+    {
+      "char": "𓀪",
+      "name": "EGYPTIAN HIEROGLYPH A037"
+    },
+    {
+      "char": "𓀫",
+      "name": "EGYPTIAN HIEROGLYPH A038"
+    },
+    {
+      "char": "𓀬",
+      "name": "EGYPTIAN HIEROGLYPH A039"
+    },
+    {
+      "char": "𓀭",
+      "name": "EGYPTIAN HIEROGLYPH A040"
+    },
+    {
+      "char": "𓀮",
+      "name": "EGYPTIAN HIEROGLYPH A040A"
+    },
+    {
+      "char": "𓀯",
+      "name": "EGYPTIAN HIEROGLYPH A041"
+    },
+    {
+      "char": "𓀰",
+      "name": "EGYPTIAN HIEROGLYPH A042"
+    },
+    {
+      "char": "𓀱",
+      "name": "EGYPTIAN HIEROGLYPH A042A"
+    },
+    {
+      "char": "𓀲",
+      "name": "EGYPTIAN HIEROGLYPH A043"
+    },
+    {
+      "char": "𓀳",
+      "name": "EGYPTIAN HIEROGLYPH A043A"
+    },
+    {
+      "char": "𓀴",
+      "name": "EGYPTIAN HIEROGLYPH A044"
+    },
+    {
+      "char": "𓀵",
+      "name": "EGYPTIAN HIEROGLYPH A045"
+    },
+    {
+      "char": "𓀶",
+      "name": "EGYPTIAN HIEROGLYPH A045A"
+    },
+    {
+      "char": "𓀷",
+      "name": "EGYPTIAN HIEROGLYPH A046"
+    },
+    {
+      "char": "𓀸",
+      "name": "EGYPTIAN HIEROGLYPH A047"
+    },
+    {
+      "char": "𓀹",
+      "name": "EGYPTIAN HIEROGLYPH A048"
+    },
+    {
+      "char": "𓀺",
+      "name": "EGYPTIAN HIEROGLYPH A049"
+    },
+    {
+      "char": "𓀻",
+      "name": "EGYPTIAN HIEROGLYPH A050"
+    },
+    {
+      "char": "𓀼",
+      "name": "EGYPTIAN HIEROGLYPH A051"
+    },
+    {
+      "char": "𓀽",
+      "name": "EGYPTIAN HIEROGLYPH A052"
+    },
+    {
+      "char": "𓀾",
+      "name": "EGYPTIAN HIEROGLYPH A053"
+    },
+    {
+      "char": "𓀿",
+      "name": "EGYPTIAN HIEROGLYPH A054"
+    },
+    {
+      "char": "𓁀",
+      "name": "EGYPTIAN HIEROGLYPH A055"
+    },
+    {
+      "char": "𓁁",
+      "name": "EGYPTIAN HIEROGLYPH A056"
+    },
+    {
+      "char": "𓁂",
+      "name": "EGYPTIAN HIEROGLYPH A057"
+    },
+    {
+      "char": "𓁃",
+      "name": "EGYPTIAN HIEROGLYPH A058"
+    },
+    {
+      "char": "𓁄",
+      "name": "EGYPTIAN HIEROGLYPH A059"
+    },
+    {
+      "char": "𓁅",
+      "name": "EGYPTIAN HIEROGLYPH A060"
+    },
+    {
+      "char": "𓁆",
+      "name": "EGYPTIAN HIEROGLYPH A061"
+    },
+    {
+      "char": "𓁇",
+      "name": "EGYPTIAN HIEROGLYPH A062"
+    },
+    {
+      "char": "𓁈",
+      "name": "EGYPTIAN HIEROGLYPH A063"
+    },
+    {
+      "char": "𓁉",
+      "name": "EGYPTIAN HIEROGLYPH A064"
+    },
+    {
+      "char": "𓁊",
+      "name": "EGYPTIAN HIEROGLYPH A065"
+    },
+    {
+      "char": "𓁋",
+      "name": "EGYPTIAN HIEROGLYPH A066"
+    },
+    {
+      "char": "𓁌",
+      "name": "EGYPTIAN HIEROGLYPH A067"
+    },
+    {
+      "char": "𓁍",
+      "name": "EGYPTIAN HIEROGLYPH A068"
+    },
+    {
+      "char": "𓁎",
+      "name": "EGYPTIAN HIEROGLYPH A069"
+    },
+    {
+      "char": "𓁏",
+      "name": "EGYPTIAN HIEROGLYPH A070"
+    },
+    {
+      "char": "𓁐",
+      "name": "EGYPTIAN HIEROGLYPH B001"
+    },
+    {
+      "char": "𓁑",
+      "name": "EGYPTIAN HIEROGLYPH B002"
+    },
+    {
+      "char": "𓁒",
+      "name": "EGYPTIAN HIEROGLYPH B003"
+    },
+    {
+      "char": "𓁓",
+      "name": "EGYPTIAN HIEROGLYPH B004"
+    },
+    {
+      "char": "𓁔",
+      "name": "EGYPTIAN HIEROGLYPH B005"
+    },
+    {
+      "char": "𓁕",
+      "name": "EGYPTIAN HIEROGLYPH B005A"
+    },
+    {
+      "char": "𓁖",
+      "name": "EGYPTIAN HIEROGLYPH B006"
+    },
+    {
+      "char": "𓁗",
+      "name": "EGYPTIAN HIEROGLYPH B007"
+    },
+    {
+      "char": "𓁘",
+      "name": "EGYPTIAN HIEROGLYPH B008"
+    },
+    {
+      "char": "𓁙",
+      "name": "EGYPTIAN HIEROGLYPH B009"
+    },
+    {
+      "char": "𓁚",
+      "name": "EGYPTIAN HIEROGLYPH C001"
+    },
+    {
+      "char": "𓁛",
+      "name": "EGYPTIAN HIEROGLYPH C002"
+    },
+    {
+      "char": "𓁜",
+      "name": "EGYPTIAN HIEROGLYPH C002A"
+    },
+    {
+      "char": "𓁝",
+      "name": "EGYPTIAN HIEROGLYPH C002B"
+    },
+    {
+      "char": "𓁞",
+      "name": "EGYPTIAN HIEROGLYPH C002C"
+    },
+    {
+      "char": "𓁟",
+      "name": "EGYPTIAN HIEROGLYPH C003"
+    },
+    {
+      "char": "𓁠",
+      "name": "EGYPTIAN HIEROGLYPH C004"
+    },
+    {
+      "char": "𓁡",
+      "name": "EGYPTIAN HIEROGLYPH C005"
+    },
+    {
+      "char": "𓁢",
+      "name": "EGYPTIAN HIEROGLYPH C006"
+    },
+    {
+      "char": "𓁣",
+      "name": "EGYPTIAN HIEROGLYPH C007"
+    },
+    {
+      "char": "𓁤",
+      "name": "EGYPTIAN HIEROGLYPH C008"
+    },
+    {
+      "char": "𓁥",
+      "name": "EGYPTIAN HIEROGLYPH C009"
+    },
+    {
+      "char": "𓁦",
+      "name": "EGYPTIAN HIEROGLYPH C010"
+    },
+    {
+      "char": "𓁧",
+      "name": "EGYPTIAN HIEROGLYPH C010A"
+    },
+    {
+      "char": "𓁨",
+      "name": "EGYPTIAN HIEROGLYPH C011"
+    },
+    {
+      "char": "𓁩",
+      "name": "EGYPTIAN HIEROGLYPH C012"
+    },
+    {
+      "char": "𓁪",
+      "name": "EGYPTIAN HIEROGLYPH C013"
+    },
+    {
+      "char": "𓁫",
+      "name": "EGYPTIAN HIEROGLYPH C014"
+    },
+    {
+      "char": "𓁬",
+      "name": "EGYPTIAN HIEROGLYPH C015"
+    },
+    {
+      "char": "𓁭",
+      "name": "EGYPTIAN HIEROGLYPH C016"
+    },
+    {
+      "char": "𓁮",
+      "name": "EGYPTIAN HIEROGLYPH C017"
+    },
+    {
+      "char": "𓁯",
+      "name": "EGYPTIAN HIEROGLYPH C018"
+    },
+    {
+      "char": "𓁰",
+      "name": "EGYPTIAN HIEROGLYPH C019"
+    },
+    {
+      "char": "𓁱",
+      "name": "EGYPTIAN HIEROGLYPH C020"
+    },
+    {
+      "char": "𓁲",
+      "name": "EGYPTIAN HIEROGLYPH C021"
+    },
+    {
+      "char": "𓁳",
+      "name": "EGYPTIAN HIEROGLYPH C022"
+    },
+    {
+      "char": "𓁴",
+      "name": "EGYPTIAN HIEROGLYPH C023"
+    },
+    {
+      "char": "𓁵",
+      "name": "EGYPTIAN HIEROGLYPH C024"
+    },
+    {
+      "char": "𓁶",
+      "name": "EGYPTIAN HIEROGLYPH D001"
+    },
+    {
+      "char": "𓁷",
+      "name": "EGYPTIAN HIEROGLYPH D002"
+    },
+    {
+      "char": "𓁸",
+      "name": "EGYPTIAN HIEROGLYPH D003"
+    },
+    {
+      "char": "𓁹",
+      "name": "EGYPTIAN HIEROGLYPH D004"
+    },
+    {
+      "char": "𓁺",
+      "name": "EGYPTIAN HIEROGLYPH D005"
+    },
+    {
+      "char": "𓁻",
+      "name": "EGYPTIAN HIEROGLYPH D006"
+    },
+    {
+      "char": "𓁼",
+      "name": "EGYPTIAN HIEROGLYPH D007"
+    },
+    {
+      "char": "𓁽",
+      "name": "EGYPTIAN HIEROGLYPH D008"
+    },
+    {
+      "char": "𓁾",
+      "name": "EGYPTIAN HIEROGLYPH D008A"
+    },
+    {
+      "char": "𓁿",
+      "name": "EGYPTIAN HIEROGLYPH D009"
+    },
+    {
+      "char": "𓂀",
+      "name": "EGYPTIAN HIEROGLYPH D010"
+    },
+    {
+      "char": "𓂁",
+      "name": "EGYPTIAN HIEROGLYPH D011"
+    },
+    {
+      "char": "𓂂",
+      "name": "EGYPTIAN HIEROGLYPH D012"
+    },
+    {
+      "char": "𓂃",
+      "name": "EGYPTIAN HIEROGLYPH D013"
+    },
+    {
+      "char": "𓂄",
+      "name": "EGYPTIAN HIEROGLYPH D014"
+    },
+    {
+      "char": "𓂅",
+      "name": "EGYPTIAN HIEROGLYPH D015"
+    },
+    {
+      "char": "𓂆",
+      "name": "EGYPTIAN HIEROGLYPH D016"
+    },
+    {
+      "char": "𓂇",
+      "name": "EGYPTIAN HIEROGLYPH D017"
+    },
+    {
+      "char": "𓂈",
+      "name": "EGYPTIAN HIEROGLYPH D018"
+    },
+    {
+      "char": "𓂉",
+      "name": "EGYPTIAN HIEROGLYPH D019"
+    },
+    {
+      "char": "𓂊",
+      "name": "EGYPTIAN HIEROGLYPH D020"
+    },
+    {
+      "char": "𓂋",
+      "name": "EGYPTIAN HIEROGLYPH D021"
+    },
+    {
+      "char": "𓂌",
+      "name": "EGYPTIAN HIEROGLYPH D022"
+    },
+    {
+      "char": "𓂍",
+      "name": "EGYPTIAN HIEROGLYPH D023"
+    },
+    {
+      "char": "𓂎",
+      "name": "EGYPTIAN HIEROGLYPH D024"
+    },
+    {
+      "char": "𓂏",
+      "name": "EGYPTIAN HIEROGLYPH D025"
+    },
+    {
+      "char": "𓂐",
+      "name": "EGYPTIAN HIEROGLYPH D026"
+    },
+    {
+      "char": "𓂑",
+      "name": "EGYPTIAN HIEROGLYPH D027"
+    },
+    {
+      "char": "𓂒",
+      "name": "EGYPTIAN HIEROGLYPH D027A"
+    },
+    {
+      "char": "𓂓",
+      "name": "EGYPTIAN HIEROGLYPH D028"
+    },
+    {
+      "char": "𓂔",
+      "name": "EGYPTIAN HIEROGLYPH D029"
+    },
+    {
+      "char": "𓂕",
+      "name": "EGYPTIAN HIEROGLYPH D030"
+    },
+    {
+      "char": "𓂖",
+      "name": "EGYPTIAN HIEROGLYPH D031"
+    },
+    {
+      "char": "𓂗",
+      "name": "EGYPTIAN HIEROGLYPH D031A"
+    },
+    {
+      "char": "𓂘",
+      "name": "EGYPTIAN HIEROGLYPH D032"
+    },
+    {
+      "char": "𓂙",
+      "name": "EGYPTIAN HIEROGLYPH D033"
+    },
+    {
+      "char": "𓂚",
+      "name": "EGYPTIAN HIEROGLYPH D034"
+    },
+    {
+      "char": "𓂛",
+      "name": "EGYPTIAN HIEROGLYPH D034A"
+    },
+    {
+      "char": "𓂜",
+      "name": "EGYPTIAN HIEROGLYPH D035"
+    },
+    {
+      "char": "𓂝",
+      "name": "EGYPTIAN HIEROGLYPH D036"
+    },
+    {
+      "char": "𓂞",
+      "name": "EGYPTIAN HIEROGLYPH D037"
+    },
+    {
+      "char": "𓂟",
+      "name": "EGYPTIAN HIEROGLYPH D038"
+    },
+    {
+      "char": "𓂠",
+      "name": "EGYPTIAN HIEROGLYPH D039"
+    },
+    {
+      "char": "𓂡",
+      "name": "EGYPTIAN HIEROGLYPH D040"
+    },
+    {
+      "char": "𓂢",
+      "name": "EGYPTIAN HIEROGLYPH D041"
+    },
+    {
+      "char": "𓂣",
+      "name": "EGYPTIAN HIEROGLYPH D042"
+    },
+    {
+      "char": "𓂤",
+      "name": "EGYPTIAN HIEROGLYPH D043"
+    },
+    {
+      "char": "𓂥",
+      "name": "EGYPTIAN HIEROGLYPH D044"
+    },
+    {
+      "char": "𓂦",
+      "name": "EGYPTIAN HIEROGLYPH D045"
+    },
+    {
+      "char": "𓂧",
+      "name": "EGYPTIAN HIEROGLYPH D046"
+    },
+    {
+      "char": "𓂨",
+      "name": "EGYPTIAN HIEROGLYPH D046A"
+    },
+    {
+      "char": "𓂩",
+      "name": "EGYPTIAN HIEROGLYPH D047"
+    },
+    {
+      "char": "𓂪",
+      "name": "EGYPTIAN HIEROGLYPH D048"
+    },
+    {
+      "char": "𓂫",
+      "name": "EGYPTIAN HIEROGLYPH D048A"
+    },
+    {
+      "char": "𓂬",
+      "name": "EGYPTIAN HIEROGLYPH D049"
+    },
+    {
+      "char": "𓂭",
+      "name": "EGYPTIAN HIEROGLYPH D050"
+    },
+    {
+      "char": "𓂮",
+      "name": "EGYPTIAN HIEROGLYPH D050A"
+    },
+    {
+      "char": "𓂯",
+      "name": "EGYPTIAN HIEROGLYPH D050B"
+    },
+    {
+      "char": "𓂰",
+      "name": "EGYPTIAN HIEROGLYPH D050C"
+    },
+    {
+      "char": "𓂱",
+      "name": "EGYPTIAN HIEROGLYPH D050D"
+    },
+    {
+      "char": "𓂲",
+      "name": "EGYPTIAN HIEROGLYPH D050E"
+    },
+    {
+      "char": "𓂳",
+      "name": "EGYPTIAN HIEROGLYPH D050F"
+    },
+    {
+      "char": "𓂴",
+      "name": "EGYPTIAN HIEROGLYPH D050G"
+    },
+    {
+      "char": "𓂵",
+      "name": "EGYPTIAN HIEROGLYPH D050H"
+    },
+    {
+      "char": "𓂶",
+      "name": "EGYPTIAN HIEROGLYPH D050I"
+    },
+    {
+      "char": "𓂷",
+      "name": "EGYPTIAN HIEROGLYPH D051"
+    },
+    {
+      "char": "𓂸",
+      "name": "EGYPTIAN HIEROGLYPH D052"
+    },
+    {
+      "char": "𓂹",
+      "name": "EGYPTIAN HIEROGLYPH D052A"
+    },
+    {
+      "char": "𓂺",
+      "name": "EGYPTIAN HIEROGLYPH D053"
+    },
+    {
+      "char": "𓂻",
+      "name": "EGYPTIAN HIEROGLYPH D054"
+    },
+    {
+      "char": "𓂼",
+      "name": "EGYPTIAN HIEROGLYPH D054A"
+    },
+    {
+      "char": "𓂽",
+      "name": "EGYPTIAN HIEROGLYPH D055"
+    },
+    {
+      "char": "𓂾",
+      "name": "EGYPTIAN HIEROGLYPH D056"
+    },
+    {
+      "char": "𓂿",
+      "name": "EGYPTIAN HIEROGLYPH D057"
+    },
+    {
+      "char": "𓃀",
+      "name": "EGYPTIAN HIEROGLYPH D058"
+    },
+    {
+      "char": "𓃁",
+      "name": "EGYPTIAN HIEROGLYPH D059"
+    },
+    {
+      "char": "𓃂",
+      "name": "EGYPTIAN HIEROGLYPH D060"
+    },
+    {
+      "char": "𓃃",
+      "name": "EGYPTIAN HIEROGLYPH D061"
+    },
+    {
+      "char": "𓃄",
+      "name": "EGYPTIAN HIEROGLYPH D062"
+    },
+    {
+      "char": "𓃅",
+      "name": "EGYPTIAN HIEROGLYPH D063"
+    },
+    {
+      "char": "𓃆",
+      "name": "EGYPTIAN HIEROGLYPH D064"
+    },
+    {
+      "char": "𓃇",
+      "name": "EGYPTIAN HIEROGLYPH D065"
+    },
+    {
+      "char": "𓃈",
+      "name": "EGYPTIAN HIEROGLYPH D066"
+    },
+    {
+      "char": "𓃉",
+      "name": "EGYPTIAN HIEROGLYPH D067"
+    },
+    {
+      "char": "𓃊",
+      "name": "EGYPTIAN HIEROGLYPH D067A"
+    },
+    {
+      "char": "𓃋",
+      "name": "EGYPTIAN HIEROGLYPH D067B"
+    },
+    {
+      "char": "𓃌",
+      "name": "EGYPTIAN HIEROGLYPH D067C"
+    },
+    {
+      "char": "𓃍",
+      "name": "EGYPTIAN HIEROGLYPH D067D"
+    },
+    {
+      "char": "𓃎",
+      "name": "EGYPTIAN HIEROGLYPH D067E"
+    },
+    {
+      "char": "𓃏",
+      "name": "EGYPTIAN HIEROGLYPH D067F"
+    },
+    {
+      "char": "𓃐",
+      "name": "EGYPTIAN HIEROGLYPH D067G"
+    },
+    {
+      "char": "𓃑",
+      "name": "EGYPTIAN HIEROGLYPH D067H"
+    },
+    {
+      "char": "𓃒",
+      "name": "EGYPTIAN HIEROGLYPH E001"
+    },
+    {
+      "char": "𓃓",
+      "name": "EGYPTIAN HIEROGLYPH E002"
+    },
+    {
+      "char": "𓃔",
+      "name": "EGYPTIAN HIEROGLYPH E003"
+    },
+    {
+      "char": "𓃕",
+      "name": "EGYPTIAN HIEROGLYPH E004"
+    },
+    {
+      "char": "𓃖",
+      "name": "EGYPTIAN HIEROGLYPH E005"
+    },
+    {
+      "char": "𓃗",
+      "name": "EGYPTIAN HIEROGLYPH E006"
+    },
+    {
+      "char": "𓃘",
+      "name": "EGYPTIAN HIEROGLYPH E007"
+    },
+    {
+      "char": "𓃙",
+      "name": "EGYPTIAN HIEROGLYPH E008"
+    },
+    {
+      "char": "𓃚",
+      "name": "EGYPTIAN HIEROGLYPH E008A"
+    },
+    {
+      "char": "𓃛",
+      "name": "EGYPTIAN HIEROGLYPH E009"
+    },
+    {
+      "char": "𓃜",
+      "name": "EGYPTIAN HIEROGLYPH E009A"
+    },
+    {
+      "char": "𓃝",
+      "name": "EGYPTIAN HIEROGLYPH E010"
+    },
+    {
+      "char": "𓃞",
+      "name": "EGYPTIAN HIEROGLYPH E011"
+    },
+    {
+      "char": "𓃟",
+      "name": "EGYPTIAN HIEROGLYPH E012"
+    },
+    {
+      "char": "𓃠",
+      "name": "EGYPTIAN HIEROGLYPH E013"
+    },
+    {
+      "char": "𓃡",
+      "name": "EGYPTIAN HIEROGLYPH E014"
+    },
+    {
+      "char": "𓃢",
+      "name": "EGYPTIAN HIEROGLYPH E015"
+    },
+    {
+      "char": "𓃣",
+      "name": "EGYPTIAN HIEROGLYPH E016"
+    },
+    {
+      "char": "𓃤",
+      "name": "EGYPTIAN HIEROGLYPH E016A"
+    },
+    {
+      "char": "𓃥",
+      "name": "EGYPTIAN HIEROGLYPH E017"
+    },
+    {
+      "char": "𓃦",
+      "name": "EGYPTIAN HIEROGLYPH E017A"
+    },
+    {
+      "char": "𓃧",
+      "name": "EGYPTIAN HIEROGLYPH E018"
+    },
+    {
+      "char": "𓃨",
+      "name": "EGYPTIAN HIEROGLYPH E019"
+    },
+    {
+      "char": "𓃩",
+      "name": "EGYPTIAN HIEROGLYPH E020"
+    },
+    {
+      "char": "𓃪",
+      "name": "EGYPTIAN HIEROGLYPH E020A"
+    },
+    {
+      "char": "𓃫",
+      "name": "EGYPTIAN HIEROGLYPH E021"
+    },
+    {
+      "char": "𓃬",
+      "name": "EGYPTIAN HIEROGLYPH E022"
+    },
+    {
+      "char": "𓃭",
+      "name": "EGYPTIAN HIEROGLYPH E023"
+    },
+    {
+      "char": "𓃮",
+      "name": "EGYPTIAN HIEROGLYPH E024"
+    },
+    {
+      "char": "𓃯",
+      "name": "EGYPTIAN HIEROGLYPH E025"
+    },
+    {
+      "char": "𓃰",
+      "name": "EGYPTIAN HIEROGLYPH E026"
+    },
+    {
+      "char": "𓃱",
+      "name": "EGYPTIAN HIEROGLYPH E027"
+    },
+    {
+      "char": "𓃲",
+      "name": "EGYPTIAN HIEROGLYPH E028"
+    },
+    {
+      "char": "𓃳",
+      "name": "EGYPTIAN HIEROGLYPH E028A"
+    },
+    {
+      "char": "𓃴",
+      "name": "EGYPTIAN HIEROGLYPH E029"
+    },
+    {
+      "char": "𓃵",
+      "name": "EGYPTIAN HIEROGLYPH E030"
+    },
+    {
+      "char": "𓃶",
+      "name": "EGYPTIAN HIEROGLYPH E031"
+    },
+    {
+      "char": "𓃷",
+      "name": "EGYPTIAN HIEROGLYPH E032"
+    },
+    {
+      "char": "𓃸",
+      "name": "EGYPTIAN HIEROGLYPH E033"
+    },
+    {
+      "char": "𓃹",
+      "name": "EGYPTIAN HIEROGLYPH E034"
+    },
+    {
+      "char": "𓃺",
+      "name": "EGYPTIAN HIEROGLYPH E034A"
+    },
+    {
+      "char": "𓃻",
+      "name": "EGYPTIAN HIEROGLYPH E036"
+    },
+    {
+      "char": "𓃼",
+      "name": "EGYPTIAN HIEROGLYPH E037"
+    },
+    {
+      "char": "𓃽",
+      "name": "EGYPTIAN HIEROGLYPH E038"
+    },
+    {
+      "char": "𓃾",
+      "name": "EGYPTIAN HIEROGLYPH F001"
+    },
+    {
+      "char": "𓃿",
+      "name": "EGYPTIAN HIEROGLYPH F001A"
+    },
+    {
+      "char": "𓄀",
+      "name": "EGYPTIAN HIEROGLYPH F002"
+    },
+    {
+      "char": "𓄁",
+      "name": "EGYPTIAN HIEROGLYPH F003"
+    },
+    {
+      "char": "𓄂",
+      "name": "EGYPTIAN HIEROGLYPH F004"
+    },
+    {
+      "char": "𓄃",
+      "name": "EGYPTIAN HIEROGLYPH F005"
+    },
+    {
+      "char": "𓄄",
+      "name": "EGYPTIAN HIEROGLYPH F006"
+    },
+    {
+      "char": "𓄅",
+      "name": "EGYPTIAN HIEROGLYPH F007"
+    },
+    {
+      "char": "𓄆",
+      "name": "EGYPTIAN HIEROGLYPH F008"
+    },
+    {
+      "char": "𓄇",
+      "name": "EGYPTIAN HIEROGLYPH F009"
+    },
+    {
+      "char": "𓄈",
+      "name": "EGYPTIAN HIEROGLYPH F010"
+    },
+    {
+      "char": "𓄉",
+      "name": "EGYPTIAN HIEROGLYPH F011"
+    },
+    {
+      "char": "𓄊",
+      "name": "EGYPTIAN HIEROGLYPH F012"
+    },
+    {
+      "char": "𓄋",
+      "name": "EGYPTIAN HIEROGLYPH F013"
+    },
+    {
+      "char": "𓄌",
+      "name": "EGYPTIAN HIEROGLYPH F013A"
+    },
+    {
+      "char": "𓄍",
+      "name": "EGYPTIAN HIEROGLYPH F014"
+    },
+    {
+      "char": "𓄎",
+      "name": "EGYPTIAN HIEROGLYPH F015"
+    },
+    {
+      "char": "𓄏",
+      "name": "EGYPTIAN HIEROGLYPH F016"
+    },
+    {
+      "char": "𓄐",
+      "name": "EGYPTIAN HIEROGLYPH F017"
+    },
+    {
+      "char": "𓄑",
+      "name": "EGYPTIAN HIEROGLYPH F018"
+    },
+    {
+      "char": "𓄒",
+      "name": "EGYPTIAN HIEROGLYPH F019"
+    },
+    {
+      "char": "𓄓",
+      "name": "EGYPTIAN HIEROGLYPH F020"
+    },
+    {
+      "char": "𓄔",
+      "name": "EGYPTIAN HIEROGLYPH F021"
+    },
+    {
+      "char": "𓄕",
+      "name": "EGYPTIAN HIEROGLYPH F021A"
+    },
+    {
+      "char": "𓄖",
+      "name": "EGYPTIAN HIEROGLYPH F022"
+    },
+    {
+      "char": "𓄗",
+      "name": "EGYPTIAN HIEROGLYPH F023"
+    },
+    {
+      "char": "𓄘",
+      "name": "EGYPTIAN HIEROGLYPH F024"
+    },
+    {
+      "char": "𓄙",
+      "name": "EGYPTIAN HIEROGLYPH F025"
+    },
+    {
+      "char": "𓄚",
+      "name": "EGYPTIAN HIEROGLYPH F026"
+    },
+    {
+      "char": "𓄛",
+      "name": "EGYPTIAN HIEROGLYPH F027"
+    },
+    {
+      "char": "𓄜",
+      "name": "EGYPTIAN HIEROGLYPH F028"
+    },
+    {
+      "char": "𓄝",
+      "name": "EGYPTIAN HIEROGLYPH F029"
+    },
+    {
+      "char": "𓄞",
+      "name": "EGYPTIAN HIEROGLYPH F030"
+    },
+    {
+      "char": "𓄟",
+      "name": "EGYPTIAN HIEROGLYPH F031"
+    },
+    {
+      "char": "𓄠",
+      "name": "EGYPTIAN HIEROGLYPH F031A"
+    },
+    {
+      "char": "𓄡",
+      "name": "EGYPTIAN HIEROGLYPH F032"
+    },
+    {
+      "char": "𓄢",
+      "name": "EGYPTIAN HIEROGLYPH F033"
+    },
+    {
+      "char": "𓄣",
+      "name": "EGYPTIAN HIEROGLYPH F034"
+    },
+    {
+      "char": "𓄤",
+      "name": "EGYPTIAN HIEROGLYPH F035"
+    },
+    {
+      "char": "𓄥",
+      "name": "EGYPTIAN HIEROGLYPH F036"
+    },
+    {
+      "char": "𓄦",
+      "name": "EGYPTIAN HIEROGLYPH F037"
+    },
+    {
+      "char": "𓄧",
+      "name": "EGYPTIAN HIEROGLYPH F037A"
+    },
+    {
+      "char": "𓄨",
+      "name": "EGYPTIAN HIEROGLYPH F038"
+    },
+    {
+      "char": "𓄩",
+      "name": "EGYPTIAN HIEROGLYPH F038A"
+    },
+    {
+      "char": "𓄪",
+      "name": "EGYPTIAN HIEROGLYPH F039"
+    },
+    {
+      "char": "𓄫",
+      "name": "EGYPTIAN HIEROGLYPH F040"
+    },
+    {
+      "char": "𓄬",
+      "name": "EGYPTIAN HIEROGLYPH F041"
+    },
+    {
+      "char": "𓄭",
+      "name": "EGYPTIAN HIEROGLYPH F042"
+    },
+    {
+      "char": "𓄮",
+      "name": "EGYPTIAN HIEROGLYPH F043"
+    },
+    {
+      "char": "𓄯",
+      "name": "EGYPTIAN HIEROGLYPH F044"
+    },
+    {
+      "char": "𓄰",
+      "name": "EGYPTIAN HIEROGLYPH F045"
+    },
+    {
+      "char": "𓄱",
+      "name": "EGYPTIAN HIEROGLYPH F045A"
+    },
+    {
+      "char": "𓄲",
+      "name": "EGYPTIAN HIEROGLYPH F046"
+    },
+    {
+      "char": "𓄳",
+      "name": "EGYPTIAN HIEROGLYPH F046A"
+    },
+    {
+      "char": "𓄴",
+      "name": "EGYPTIAN HIEROGLYPH F047"
+    },
+    {
+      "char": "𓄵",
+      "name": "EGYPTIAN HIEROGLYPH F047A"
+    },
+    {
+      "char": "𓄶",
+      "name": "EGYPTIAN HIEROGLYPH F048"
+    },
+    {
+      "char": "𓄷",
+      "name": "EGYPTIAN HIEROGLYPH F049"
+    },
+    {
+      "char": "𓄸",
+      "name": "EGYPTIAN HIEROGLYPH F050"
+    },
+    {
+      "char": "𓄹",
+      "name": "EGYPTIAN HIEROGLYPH F051"
+    },
+    {
+      "char": "𓄺",
+      "name": "EGYPTIAN HIEROGLYPH F051A"
+    },
+    {
+      "char": "𓄻",
+      "name": "EGYPTIAN HIEROGLYPH F051B"
+    },
+    {
+      "char": "𓄼",
+      "name": "EGYPTIAN HIEROGLYPH F051C"
+    },
+    {
+      "char": "𓄽",
+      "name": "EGYPTIAN HIEROGLYPH F052"
+    },
+    {
+      "char": "𓄾",
+      "name": "EGYPTIAN HIEROGLYPH F053"
+    },
+    {
+      "char": "𓄿",
+      "name": "EGYPTIAN HIEROGLYPH G001"
+    },
+    {
+      "char": "𓅀",
+      "name": "EGYPTIAN HIEROGLYPH G002"
+    },
+    {
+      "char": "𓅁",
+      "name": "EGYPTIAN HIEROGLYPH G003"
+    },
+    {
+      "char": "𓅂",
+      "name": "EGYPTIAN HIEROGLYPH G004"
+    },
+    {
+      "char": "𓅃",
+      "name": "EGYPTIAN HIEROGLYPH G005"
+    },
+    {
+      "char": "𓅄",
+      "name": "EGYPTIAN HIEROGLYPH G006"
+    },
+    {
+      "char": "𓅅",
+      "name": "EGYPTIAN HIEROGLYPH G006A"
+    },
+    {
+      "char": "𓅆",
+      "name": "EGYPTIAN HIEROGLYPH G007"
+    },
+    {
+      "char": "𓅇",
+      "name": "EGYPTIAN HIEROGLYPH G007A"
+    },
+    {
+      "char": "𓅈",
+      "name": "EGYPTIAN HIEROGLYPH G007B"
+    },
+    {
+      "char": "𓅉",
+      "name": "EGYPTIAN HIEROGLYPH G008"
+    },
+    {
+      "char": "𓅊",
+      "name": "EGYPTIAN HIEROGLYPH G009"
+    },
+    {
+      "char": "𓅋",
+      "name": "EGYPTIAN HIEROGLYPH G010"
+    },
+    {
+      "char": "𓅌",
+      "name": "EGYPTIAN HIEROGLYPH G011"
+    },
+    {
+      "char": "𓅍",
+      "name": "EGYPTIAN HIEROGLYPH G011A"
+    },
+    {
+      "char": "𓅎",
+      "name": "EGYPTIAN HIEROGLYPH G012"
+    },
+    {
+      "char": "𓅏",
+      "name": "EGYPTIAN HIEROGLYPH G013"
+    },
+    {
+      "char": "𓅐",
+      "name": "EGYPTIAN HIEROGLYPH G014"
+    },
+    {
+      "char": "𓅑",
+      "name": "EGYPTIAN HIEROGLYPH G015"
+    },
+    {
+      "char": "𓅒",
+      "name": "EGYPTIAN HIEROGLYPH G016"
+    },
+    {
+      "char": "𓅓",
+      "name": "EGYPTIAN HIEROGLYPH G017"
+    },
+    {
+      "char": "𓅔",
+      "name": "EGYPTIAN HIEROGLYPH G018"
+    },
+    {
+      "char": "𓅕",
+      "name": "EGYPTIAN HIEROGLYPH G019"
+    },
+    {
+      "char": "𓅖",
+      "name": "EGYPTIAN HIEROGLYPH G020"
+    },
+    {
+      "char": "𓅗",
+      "name": "EGYPTIAN HIEROGLYPH G020A"
+    },
+    {
+      "char": "𓅘",
+      "name": "EGYPTIAN HIEROGLYPH G021"
+    },
+    {
+      "char": "𓅙",
+      "name": "EGYPTIAN HIEROGLYPH G022"
+    },
+    {
+      "char": "𓅚",
+      "name": "EGYPTIAN HIEROGLYPH G023"
+    },
+    {
+      "char": "𓅛",
+      "name": "EGYPTIAN HIEROGLYPH G024"
+    },
+    {
+      "char": "𓅜",
+      "name": "EGYPTIAN HIEROGLYPH G025"
+    },
+    {
+      "char": "𓅝",
+      "name": "EGYPTIAN HIEROGLYPH G026"
+    },
+    {
+      "char": "𓅞",
+      "name": "EGYPTIAN HIEROGLYPH G026A"
+    },
+    {
+      "char": "𓅟",
+      "name": "EGYPTIAN HIEROGLYPH G027"
+    },
+    {
+      "char": "𓅠",
+      "name": "EGYPTIAN HIEROGLYPH G028"
+    },
+    {
+      "char": "𓅡",
+      "name": "EGYPTIAN HIEROGLYPH G029"
+    },
+    {
+      "char": "𓅢",
+      "name": "EGYPTIAN HIEROGLYPH G030"
+    },
+    {
+      "char": "𓅣",
+      "name": "EGYPTIAN HIEROGLYPH G031"
+    },
+    {
+      "char": "𓅤",
+      "name": "EGYPTIAN HIEROGLYPH G032"
+    },
+    {
+      "char": "𓅥",
+      "name": "EGYPTIAN HIEROGLYPH G033"
+    },
+    {
+      "char": "𓅦",
+      "name": "EGYPTIAN HIEROGLYPH G034"
+    },
+    {
+      "char": "𓅧",
+      "name": "EGYPTIAN HIEROGLYPH G035"
+    },
+    {
+      "char": "𓅨",
+      "name": "EGYPTIAN HIEROGLYPH G036"
+    },
+    {
+      "char": "𓅩",
+      "name": "EGYPTIAN HIEROGLYPH G036A"
+    },
+    {
+      "char": "𓅪",
+      "name": "EGYPTIAN HIEROGLYPH G037"
+    },
+    {
+      "char": "𓅫",
+      "name": "EGYPTIAN HIEROGLYPH G037A"
+    },
+    {
+      "char": "𓅬",
+      "name": "EGYPTIAN HIEROGLYPH G038"
+    },
+    {
+      "char": "𓅭",
+      "name": "EGYPTIAN HIEROGLYPH G039"
+    },
+    {
+      "char": "𓅮",
+      "name": "EGYPTIAN HIEROGLYPH G040"
+    },
+    {
+      "char": "𓅯",
+      "name": "EGYPTIAN HIEROGLYPH G041"
+    },
+    {
+      "char": "𓅰",
+      "name": "EGYPTIAN HIEROGLYPH G042"
+    },
+    {
+      "char": "𓅱",
+      "name": "EGYPTIAN HIEROGLYPH G043"
+    },
+    {
+      "char": "𓅲",
+      "name": "EGYPTIAN HIEROGLYPH G043A"
+    },
+    {
+      "char": "𓅳",
+      "name": "EGYPTIAN HIEROGLYPH G044"
+    },
+    {
+      "char": "𓅴",
+      "name": "EGYPTIAN HIEROGLYPH G045"
+    },
+    {
+      "char": "𓅵",
+      "name": "EGYPTIAN HIEROGLYPH G045A"
+    },
+    {
+      "char": "𓅶",
+      "name": "EGYPTIAN HIEROGLYPH G046"
+    },
+    {
+      "char": "𓅷",
+      "name": "EGYPTIAN HIEROGLYPH G047"
+    },
+    {
+      "char": "𓅸",
+      "name": "EGYPTIAN HIEROGLYPH G048"
+    },
+    {
+      "char": "𓅹",
+      "name": "EGYPTIAN HIEROGLYPH G049"
+    },
+    {
+      "char": "𓅺",
+      "name": "EGYPTIAN HIEROGLYPH G050"
+    },
+    {
+      "char": "𓅻",
+      "name": "EGYPTIAN HIEROGLYPH G051"
+    },
+    {
+      "char": "𓅼",
+      "name": "EGYPTIAN HIEROGLYPH G052"
+    },
+    {
+      "char": "𓅽",
+      "name": "EGYPTIAN HIEROGLYPH G053"
+    },
+    {
+      "char": "𓅾",
+      "name": "EGYPTIAN HIEROGLYPH G054"
+    },
+    {
+      "char": "𓅿",
+      "name": "EGYPTIAN HIEROGLYPH H001"
+    },
+    {
+      "char": "𓆀",
+      "name": "EGYPTIAN HIEROGLYPH H002"
+    },
+    {
+      "char": "𓆁",
+      "name": "EGYPTIAN HIEROGLYPH H003"
+    },
+    {
+      "char": "𓆂",
+      "name": "EGYPTIAN HIEROGLYPH H004"
+    },
+    {
+      "char": "𓆃",
+      "name": "EGYPTIAN HIEROGLYPH H005"
+    },
+    {
+      "char": "𓆄",
+      "name": "EGYPTIAN HIEROGLYPH H006"
+    },
+    {
+      "char": "𓆅",
+      "name": "EGYPTIAN HIEROGLYPH H006A"
+    },
+    {
+      "char": "𓆆",
+      "name": "EGYPTIAN HIEROGLYPH H007"
+    },
+    {
+      "char": "𓆇",
+      "name": "EGYPTIAN HIEROGLYPH H008"
+    },
+    {
+      "char": "𓆈",
+      "name": "EGYPTIAN HIEROGLYPH I001"
+    },
+    {
+      "char": "𓆉",
+      "name": "EGYPTIAN HIEROGLYPH I002"
+    },
+    {
+      "char": "𓆊",
+      "name": "EGYPTIAN HIEROGLYPH I003"
+    },
+    {
+      "char": "𓆋",
+      "name": "EGYPTIAN HIEROGLYPH I004"
+    },
+    {
+      "char": "𓆌",
+      "name": "EGYPTIAN HIEROGLYPH I005"
+    },
+    {
+      "char": "𓆍",
+      "name": "EGYPTIAN HIEROGLYPH I005A"
+    },
+    {
+      "char": "𓆎",
+      "name": "EGYPTIAN HIEROGLYPH I006"
+    },
+    {
+      "char": "𓆏",
+      "name": "EGYPTIAN HIEROGLYPH I007"
+    },
+    {
+      "char": "𓆐",
+      "name": "EGYPTIAN HIEROGLYPH I008"
+    },
+    {
+      "char": "𓆑",
+      "name": "EGYPTIAN HIEROGLYPH I009"
+    },
+    {
+      "char": "𓆒",
+      "name": "EGYPTIAN HIEROGLYPH I009A"
+    },
+    {
+      "char": "𓆓",
+      "name": "EGYPTIAN HIEROGLYPH I010"
+    },
+    {
+      "char": "𓆔",
+      "name": "EGYPTIAN HIEROGLYPH I010A"
+    },
+    {
+      "char": "𓆕",
+      "name": "EGYPTIAN HIEROGLYPH I011"
+    },
+    {
+      "char": "𓆖",
+      "name": "EGYPTIAN HIEROGLYPH I011A"
+    },
+    {
+      "char": "𓆗",
+      "name": "EGYPTIAN HIEROGLYPH I012"
+    },
+    {
+      "char": "𓆘",
+      "name": "EGYPTIAN HIEROGLYPH I013"
+    },
+    {
+      "char": "𓆙",
+      "name": "EGYPTIAN HIEROGLYPH I014"
+    },
+    {
+      "char": "𓆚",
+      "name": "EGYPTIAN HIEROGLYPH I015"
+    },
+    {
+      "char": "𓆛",
+      "name": "EGYPTIAN HIEROGLYPH K001"
+    },
+    {
+      "char": "𓆜",
+      "name": "EGYPTIAN HIEROGLYPH K002"
+    },
+    {
+      "char": "𓆝",
+      "name": "EGYPTIAN HIEROGLYPH K003"
+    },
+    {
+      "char": "𓆞",
+      "name": "EGYPTIAN HIEROGLYPH K004"
+    },
+    {
+      "char": "𓆟",
+      "name": "EGYPTIAN HIEROGLYPH K005"
+    },
+    {
+      "char": "𓆠",
+      "name": "EGYPTIAN HIEROGLYPH K006"
+    },
+    {
+      "char": "𓆡",
+      "name": "EGYPTIAN HIEROGLYPH K007"
+    },
+    {
+      "char": "𓆢",
+      "name": "EGYPTIAN HIEROGLYPH K008"
+    },
+    {
+      "char": "𓆣",
+      "name": "EGYPTIAN HIEROGLYPH L001"
+    },
+    {
+      "char": "𓆤",
+      "name": "EGYPTIAN HIEROGLYPH L002"
+    },
+    {
+      "char": "𓆥",
+      "name": "EGYPTIAN HIEROGLYPH L002A"
+    },
+    {
+      "char": "𓆦",
+      "name": "EGYPTIAN HIEROGLYPH L003"
+    },
+    {
+      "char": "𓆧",
+      "name": "EGYPTIAN HIEROGLYPH L004"
+    },
+    {
+      "char": "𓆨",
+      "name": "EGYPTIAN HIEROGLYPH L005"
+    },
+    {
+      "char": "𓆩",
+      "name": "EGYPTIAN HIEROGLYPH L006"
+    },
+    {
+      "char": "𓆪",
+      "name": "EGYPTIAN HIEROGLYPH L006A"
+    },
+    {
+      "char": "𓆫",
+      "name": "EGYPTIAN HIEROGLYPH L007"
+    },
+    {
+      "char": "𓆬",
+      "name": "EGYPTIAN HIEROGLYPH L008"
+    },
+    {
+      "char": "𓆭",
+      "name": "EGYPTIAN HIEROGLYPH M001"
+    },
+    {
+      "char": "𓆮",
+      "name": "EGYPTIAN HIEROGLYPH M001A"
+    },
+    {
+      "char": "𓆯",
+      "name": "EGYPTIAN HIEROGLYPH M001B"
+    },
+    {
+      "char": "𓆰",
+      "name": "EGYPTIAN HIEROGLYPH M002"
+    },
+    {
+      "char": "𓆱",
+      "name": "EGYPTIAN HIEROGLYPH M003"
+    },
+    {
+      "char": "𓆲",
+      "name": "EGYPTIAN HIEROGLYPH M003A"
+    },
+    {
+      "char": "𓆳",
+      "name": "EGYPTIAN HIEROGLYPH M004"
+    },
+    {
+      "char": "𓆴",
+      "name": "EGYPTIAN HIEROGLYPH M005"
+    },
+    {
+      "char": "𓆵",
+      "name": "EGYPTIAN HIEROGLYPH M006"
+    },
+    {
+      "char": "𓆶",
+      "name": "EGYPTIAN HIEROGLYPH M007"
+    },
+    {
+      "char": "𓆷",
+      "name": "EGYPTIAN HIEROGLYPH M008"
+    },
+    {
+      "char": "𓆸",
+      "name": "EGYPTIAN HIEROGLYPH M009"
+    },
+    {
+      "char": "𓆹",
+      "name": "EGYPTIAN HIEROGLYPH M010"
+    },
+    {
+      "char": "𓆺",
+      "name": "EGYPTIAN HIEROGLYPH M010A"
+    },
+    {
+      "char": "𓆻",
+      "name": "EGYPTIAN HIEROGLYPH M011"
+    },
+    {
+      "char": "𓆼",
+      "name": "EGYPTIAN HIEROGLYPH M012"
+    },
+    {
+      "char": "𓆽",
+      "name": "EGYPTIAN HIEROGLYPH M012A"
+    },
+    {
+      "char": "𓆾",
+      "name": "EGYPTIAN HIEROGLYPH M012B"
+    },
+    {
+      "char": "𓆿",
+      "name": "EGYPTIAN HIEROGLYPH M012C"
+    },
+    {
+      "char": "𓇀",
+      "name": "EGYPTIAN HIEROGLYPH M012D"
+    },
+    {
+      "char": "𓇁",
+      "name": "EGYPTIAN HIEROGLYPH M012E"
+    },
+    {
+      "char": "𓇂",
+      "name": "EGYPTIAN HIEROGLYPH M012F"
+    },
+    {
+      "char": "𓇃",
+      "name": "EGYPTIAN HIEROGLYPH M012G"
+    },
+    {
+      "char": "𓇄",
+      "name": "EGYPTIAN HIEROGLYPH M012H"
+    },
+    {
+      "char": "𓇅",
+      "name": "EGYPTIAN HIEROGLYPH M013"
+    },
+    {
+      "char": "𓇆",
+      "name": "EGYPTIAN HIEROGLYPH M014"
+    },
+    {
+      "char": "𓇇",
+      "name": "EGYPTIAN HIEROGLYPH M015"
+    },
+    {
+      "char": "𓇈",
+      "name": "EGYPTIAN HIEROGLYPH M015A"
+    },
+    {
+      "char": "𓇉",
+      "name": "EGYPTIAN HIEROGLYPH M016"
+    },
+    {
+      "char": "𓇊",
+      "name": "EGYPTIAN HIEROGLYPH M016A"
+    },
+    {
+      "char": "𓇋",
+      "name": "EGYPTIAN HIEROGLYPH M017"
+    },
+    {
+      "char": "𓇌",
+      "name": "EGYPTIAN HIEROGLYPH M017A"
+    },
+    {
+      "char": "𓇍",
+      "name": "EGYPTIAN HIEROGLYPH M018"
+    },
+    {
+      "char": "𓇎",
+      "name": "EGYPTIAN HIEROGLYPH M019"
+    },
+    {
+      "char": "𓇏",
+      "name": "EGYPTIAN HIEROGLYPH M020"
+    },
+    {
+      "char": "𓇐",
+      "name": "EGYPTIAN HIEROGLYPH M021"
+    },
+    {
+      "char": "𓇑",
+      "name": "EGYPTIAN HIEROGLYPH M022"
+    },
+    {
+      "char": "𓇒",
+      "name": "EGYPTIAN HIEROGLYPH M022A"
+    },
+    {
+      "char": "𓇓",
+      "name": "EGYPTIAN HIEROGLYPH M023"
+    },
+    {
+      "char": "𓇔",
+      "name": "EGYPTIAN HIEROGLYPH M024"
+    },
+    {
+      "char": "𓇕",
+      "name": "EGYPTIAN HIEROGLYPH M024A"
+    },
+    {
+      "char": "𓇖",
+      "name": "EGYPTIAN HIEROGLYPH M025"
+    },
+    {
+      "char": "𓇗",
+      "name": "EGYPTIAN HIEROGLYPH M026"
+    },
+    {
+      "char": "𓇘",
+      "name": "EGYPTIAN HIEROGLYPH M027"
+    },
+    {
+      "char": "𓇙",
+      "name": "EGYPTIAN HIEROGLYPH M028"
+    },
+    {
+      "char": "𓇚",
+      "name": "EGYPTIAN HIEROGLYPH M028A"
+    },
+    {
+      "char": "𓇛",
+      "name": "EGYPTIAN HIEROGLYPH M029"
+    },
+    {
+      "char": "𓇜",
+      "name": "EGYPTIAN HIEROGLYPH M030"
+    },
+    {
+      "char": "𓇝",
+      "name": "EGYPTIAN HIEROGLYPH M031"
+    },
+    {
+      "char": "𓇞",
+      "name": "EGYPTIAN HIEROGLYPH M031A"
+    },
+    {
+      "char": "𓇟",
+      "name": "EGYPTIAN HIEROGLYPH M032"
+    },
+    {
+      "char": "𓇠",
+      "name": "EGYPTIAN HIEROGLYPH M033"
+    },
+    {
+      "char": "𓇡",
+      "name": "EGYPTIAN HIEROGLYPH M033A"
+    },
+    {
+      "char": "𓇢",
+      "name": "EGYPTIAN HIEROGLYPH M033B"
+    },
+    {
+      "char": "𓇣",
+      "name": "EGYPTIAN HIEROGLYPH M034"
+    },
+    {
+      "char": "𓇤",
+      "name": "EGYPTIAN HIEROGLYPH M035"
+    },
+    {
+      "char": "𓇥",
+      "name": "EGYPTIAN HIEROGLYPH M036"
+    },
+    {
+      "char": "𓇦",
+      "name": "EGYPTIAN HIEROGLYPH M037"
+    },
+    {
+      "char": "𓇧",
+      "name": "EGYPTIAN HIEROGLYPH M038"
+    },
+    {
+      "char": "𓇨",
+      "name": "EGYPTIAN HIEROGLYPH M039"
+    },
+    {
+      "char": "𓇩",
+      "name": "EGYPTIAN HIEROGLYPH M040"
+    },
+    {
+      "char": "𓇪",
+      "name": "EGYPTIAN HIEROGLYPH M040A"
+    },
+    {
+      "char": "𓇫",
+      "name": "EGYPTIAN HIEROGLYPH M041"
+    },
+    {
+      "char": "𓇬",
+      "name": "EGYPTIAN HIEROGLYPH M042"
+    },
+    {
+      "char": "𓇭",
+      "name": "EGYPTIAN HIEROGLYPH M043"
+    },
+    {
+      "char": "𓇮",
+      "name": "EGYPTIAN HIEROGLYPH M044"
+    },
+    {
+      "char": "𓇯",
+      "name": "EGYPTIAN HIEROGLYPH N001"
+    },
+    {
+      "char": "𓇰",
+      "name": "EGYPTIAN HIEROGLYPH N002"
+    },
+    {
+      "char": "𓇱",
+      "name": "EGYPTIAN HIEROGLYPH N003"
+    },
+    {
+      "char": "𓇲",
+      "name": "EGYPTIAN HIEROGLYPH N004"
+    },
+    {
+      "char": "𓇳",
+      "name": "EGYPTIAN HIEROGLYPH N005"
+    },
+    {
+      "char": "𓇴",
+      "name": "EGYPTIAN HIEROGLYPH N006"
+    },
+    {
+      "char": "𓇵",
+      "name": "EGYPTIAN HIEROGLYPH N007"
+    },
+    {
+      "char": "𓇶",
+      "name": "EGYPTIAN HIEROGLYPH N008"
+    },
+    {
+      "char": "𓇷",
+      "name": "EGYPTIAN HIEROGLYPH N009"
+    },
+    {
+      "char": "𓇸",
+      "name": "EGYPTIAN HIEROGLYPH N010"
+    },
+    {
+      "char": "𓇹",
+      "name": "EGYPTIAN HIEROGLYPH N011"
+    },
+    {
+      "char": "𓇺",
+      "name": "EGYPTIAN HIEROGLYPH N012"
+    },
+    {
+      "char": "𓇻",
+      "name": "EGYPTIAN HIEROGLYPH N013"
+    },
+    {
+      "char": "𓇼",
+      "name": "EGYPTIAN HIEROGLYPH N014"
+    },
+    {
+      "char": "𓇽",
+      "name": "EGYPTIAN HIEROGLYPH N015"
+    },
+    {
+      "char": "𓇾",
+      "name": "EGYPTIAN HIEROGLYPH N016"
+    },
+    {
+      "char": "𓇿",
+      "name": "EGYPTIAN HIEROGLYPH N017"
+    },
+    {
+      "char": "𓈀",
+      "name": "EGYPTIAN HIEROGLYPH N018"
+    },
+    {
+      "char": "𓈁",
+      "name": "EGYPTIAN HIEROGLYPH N018A"
+    },
+    {
+      "char": "𓈂",
+      "name": "EGYPTIAN HIEROGLYPH N018B"
+    },
+    {
+      "char": "𓈃",
+      "name": "EGYPTIAN HIEROGLYPH N019"
+    },
+    {
+      "char": "𓈄",
+      "name": "EGYPTIAN HIEROGLYPH N020"
+    },
+    {
+      "char": "𓈅",
+      "name": "EGYPTIAN HIEROGLYPH N021"
+    },
+    {
+      "char": "𓈆",
+      "name": "EGYPTIAN HIEROGLYPH N022"
+    },
+    {
+      "char": "𓈇",
+      "name": "EGYPTIAN HIEROGLYPH N023"
+    },
+    {
+      "char": "𓈈",
+      "name": "EGYPTIAN HIEROGLYPH N024"
+    },
+    {
+      "char": "𓈉",
+      "name": "EGYPTIAN HIEROGLYPH N025"
+    },
+    {
+      "char": "𓈊",
+      "name": "EGYPTIAN HIEROGLYPH N025A"
+    },
+    {
+      "char": "𓈋",
+      "name": "EGYPTIAN HIEROGLYPH N026"
+    },
+    {
+      "char": "𓈌",
+      "name": "EGYPTIAN HIEROGLYPH N027"
+    },
+    {
+      "char": "𓈍",
+      "name": "EGYPTIAN HIEROGLYPH N028"
+    },
+    {
+      "char": "𓈎",
+      "name": "EGYPTIAN HIEROGLYPH N029"
+    },
+    {
+      "char": "𓈏",
+      "name": "EGYPTIAN HIEROGLYPH N030"
+    },
+    {
+      "char": "𓈐",
+      "name": "EGYPTIAN HIEROGLYPH N031"
+    },
+    {
+      "char": "𓈑",
+      "name": "EGYPTIAN HIEROGLYPH N032"
+    },
+    {
+      "char": "𓈒",
+      "name": "EGYPTIAN HIEROGLYPH N033"
+    },
+    {
+      "char": "𓈓",
+      "name": "EGYPTIAN HIEROGLYPH N033A"
+    },
+    {
+      "char": "𓈔",
+      "name": "EGYPTIAN HIEROGLYPH N034"
+    },
+    {
+      "char": "𓈕",
+      "name": "EGYPTIAN HIEROGLYPH N034A"
+    },
+    {
+      "char": "𓈖",
+      "name": "EGYPTIAN HIEROGLYPH N035"
+    },
+    {
+      "char": "𓈗",
+      "name": "EGYPTIAN HIEROGLYPH N035A"
+    },
+    {
+      "char": "𓈘",
+      "name": "EGYPTIAN HIEROGLYPH N036"
+    },
+    {
+      "char": "𓈙",
+      "name": "EGYPTIAN HIEROGLYPH N037"
+    },
+    {
+      "char": "𓈚",
+      "name": "EGYPTIAN HIEROGLYPH N037A"
+    },
+    {
+      "char": "𓈛",
+      "name": "EGYPTIAN HIEROGLYPH N038"
+    },
+    {
+      "char": "𓈜",
+      "name": "EGYPTIAN HIEROGLYPH N039"
+    },
+    {
+      "char": "𓈝",
+      "name": "EGYPTIAN HIEROGLYPH N040"
+    },
+    {
+      "char": "𓈞",
+      "name": "EGYPTIAN HIEROGLYPH N041"
+    },
+    {
+      "char": "𓈟",
+      "name": "EGYPTIAN HIEROGLYPH N042"
+    },
+    {
+      "char": "𓈠",
+      "name": "EGYPTIAN HIEROGLYPH NL001"
+    },
+    {
+      "char": "𓈡",
+      "name": "EGYPTIAN HIEROGLYPH NL002"
+    },
+    {
+      "char": "𓈢",
+      "name": "EGYPTIAN HIEROGLYPH NL003"
+    },
+    {
+      "char": "𓈣",
+      "name": "EGYPTIAN HIEROGLYPH NL004"
+    },
+    {
+      "char": "𓈤",
+      "name": "EGYPTIAN HIEROGLYPH NL005"
+    },
+    {
+      "char": "𓈥",
+      "name": "EGYPTIAN HIEROGLYPH NL005A"
+    },
+    {
+      "char": "𓈦",
+      "name": "EGYPTIAN HIEROGLYPH NL006"
+    },
+    {
+      "char": "𓈧",
+      "name": "EGYPTIAN HIEROGLYPH NL007"
+    },
+    {
+      "char": "𓈨",
+      "name": "EGYPTIAN HIEROGLYPH NL008"
+    },
+    {
+      "char": "𓈩",
+      "name": "EGYPTIAN HIEROGLYPH NL009"
+    },
+    {
+      "char": "𓈪",
+      "name": "EGYPTIAN HIEROGLYPH NL010"
+    },
+    {
+      "char": "𓈫",
+      "name": "EGYPTIAN HIEROGLYPH NL011"
+    },
+    {
+      "char": "𓈬",
+      "name": "EGYPTIAN HIEROGLYPH NL012"
+    },
+    {
+      "char": "𓈭",
+      "name": "EGYPTIAN HIEROGLYPH NL013"
+    },
+    {
+      "char": "𓈮",
+      "name": "EGYPTIAN HIEROGLYPH NL014"
+    },
+    {
+      "char": "𓈯",
+      "name": "EGYPTIAN HIEROGLYPH NL015"
+    },
+    {
+      "char": "𓈰",
+      "name": "EGYPTIAN HIEROGLYPH NL016"
+    },
+    {
+      "char": "𓈱",
+      "name": "EGYPTIAN HIEROGLYPH NL017"
+    },
+    {
+      "char": "𓈲",
+      "name": "EGYPTIAN HIEROGLYPH NL017A"
+    },
+    {
+      "char": "𓈳",
+      "name": "EGYPTIAN HIEROGLYPH NL018"
+    },
+    {
+      "char": "𓈴",
+      "name": "EGYPTIAN HIEROGLYPH NL019"
+    },
+    {
+      "char": "𓈵",
+      "name": "EGYPTIAN HIEROGLYPH NL020"
+    },
+    {
+      "char": "𓈶",
+      "name": "EGYPTIAN HIEROGLYPH NU001"
+    },
+    {
+      "char": "𓈷",
+      "name": "EGYPTIAN HIEROGLYPH NU002"
+    },
+    {
+      "char": "𓈸",
+      "name": "EGYPTIAN HIEROGLYPH NU003"
+    },
+    {
+      "char": "𓈹",
+      "name": "EGYPTIAN HIEROGLYPH NU004"
+    },
+    {
+      "char": "𓈺",
+      "name": "EGYPTIAN HIEROGLYPH NU005"
+    },
+    {
+      "char": "𓈻",
+      "name": "EGYPTIAN HIEROGLYPH NU006"
+    },
+    {
+      "char": "𓈼",
+      "name": "EGYPTIAN HIEROGLYPH NU007"
+    },
+    {
+      "char": "𓈽",
+      "name": "EGYPTIAN HIEROGLYPH NU008"
+    },
+    {
+      "char": "𓈾",
+      "name": "EGYPTIAN HIEROGLYPH NU009"
+    },
+    {
+      "char": "𓈿",
+      "name": "EGYPTIAN HIEROGLYPH NU010"
+    },
+    {
+      "char": "𓉀",
+      "name": "EGYPTIAN HIEROGLYPH NU010A"
+    },
+    {
+      "char": "𓉁",
+      "name": "EGYPTIAN HIEROGLYPH NU011"
+    },
+    {
+      "char": "𓉂",
+      "name": "EGYPTIAN HIEROGLYPH NU011A"
+    },
+    {
+      "char": "𓉃",
+      "name": "EGYPTIAN HIEROGLYPH NU012"
+    },
+    {
+      "char": "𓉄",
+      "name": "EGYPTIAN HIEROGLYPH NU013"
+    },
+    {
+      "char": "𓉅",
+      "name": "EGYPTIAN HIEROGLYPH NU014"
+    },
+    {
+      "char": "𓉆",
+      "name": "EGYPTIAN HIEROGLYPH NU015"
+    },
+    {
+      "char": "𓉇",
+      "name": "EGYPTIAN HIEROGLYPH NU016"
+    },
+    {
+      "char": "𓉈",
+      "name": "EGYPTIAN HIEROGLYPH NU017"
+    },
+    {
+      "char": "𓉉",
+      "name": "EGYPTIAN HIEROGLYPH NU018"
+    },
+    {
+      "char": "𓉊",
+      "name": "EGYPTIAN HIEROGLYPH NU018A"
+    },
+    {
+      "char": "𓉋",
+      "name": "EGYPTIAN HIEROGLYPH NU019"
+    },
+    {
+      "char": "𓉌",
+      "name": "EGYPTIAN HIEROGLYPH NU020"
+    },
+    {
+      "char": "𓉍",
+      "name": "EGYPTIAN HIEROGLYPH NU021"
+    },
+    {
+      "char": "𓉎",
+      "name": "EGYPTIAN HIEROGLYPH NU022"
+    },
+    {
+      "char": "𓉏",
+      "name": "EGYPTIAN HIEROGLYPH NU022A"
+    },
+    {
+      "char": "𓉐",
+      "name": "EGYPTIAN HIEROGLYPH O001"
+    },
+    {
+      "char": "𓉑",
+      "name": "EGYPTIAN HIEROGLYPH O001A"
+    },
+    {
+      "char": "𓉒",
+      "name": "EGYPTIAN HIEROGLYPH O002"
+    },
+    {
+      "char": "𓉓",
+      "name": "EGYPTIAN HIEROGLYPH O003"
+    },
+    {
+      "char": "𓉔",
+      "name": "EGYPTIAN HIEROGLYPH O004"
+    },
+    {
+      "char": "𓉕",
+      "name": "EGYPTIAN HIEROGLYPH O005"
+    },
+    {
+      "char": "𓉖",
+      "name": "EGYPTIAN HIEROGLYPH O005A"
+    },
+    {
+      "char": "𓉗",
+      "name": "EGYPTIAN HIEROGLYPH O006"
+    },
+    {
+      "char": "𓉘",
+      "name": "EGYPTIAN HIEROGLYPH O006A"
+    },
+    {
+      "char": "𓉙",
+      "name": "EGYPTIAN HIEROGLYPH O006B"
+    },
+    {
+      "char": "𓉚",
+      "name": "EGYPTIAN HIEROGLYPH O006C"
+    },
+    {
+      "char": "𓉛",
+      "name": "EGYPTIAN HIEROGLYPH O006D"
+    },
+    {
+      "char": "𓉜",
+      "name": "EGYPTIAN HIEROGLYPH O006E"
+    },
+    {
+      "char": "𓉝",
+      "name": "EGYPTIAN HIEROGLYPH O006F"
+    },
+    {
+      "char": "𓉞",
+      "name": "EGYPTIAN HIEROGLYPH O007"
+    },
+    {
+      "char": "𓉟",
+      "name": "EGYPTIAN HIEROGLYPH O008"
+    },
+    {
+      "char": "𓉠",
+      "name": "EGYPTIAN HIEROGLYPH O009"
+    },
+    {
+      "char": "𓉡",
+      "name": "EGYPTIAN HIEROGLYPH O010"
+    },
+    {
+      "char": "𓉢",
+      "name": "EGYPTIAN HIEROGLYPH O010A"
+    },
+    {
+      "char": "𓉣",
+      "name": "EGYPTIAN HIEROGLYPH O010B"
+    },
+    {
+      "char": "𓉤",
+      "name": "EGYPTIAN HIEROGLYPH O010C"
+    },
+    {
+      "char": "𓉥",
+      "name": "EGYPTIAN HIEROGLYPH O011"
+    },
+    {
+      "char": "𓉦",
+      "name": "EGYPTIAN HIEROGLYPH O012"
+    },
+    {
+      "char": "𓉧",
+      "name": "EGYPTIAN HIEROGLYPH O013"
+    },
+    {
+      "char": "𓉨",
+      "name": "EGYPTIAN HIEROGLYPH O014"
+    },
+    {
+      "char": "𓉩",
+      "name": "EGYPTIAN HIEROGLYPH O015"
+    },
+    {
+      "char": "𓉪",
+      "name": "EGYPTIAN HIEROGLYPH O016"
+    },
+    {
+      "char": "𓉫",
+      "name": "EGYPTIAN HIEROGLYPH O017"
+    },
+    {
+      "char": "𓉬",
+      "name": "EGYPTIAN HIEROGLYPH O018"
+    },
+    {
+      "char": "𓉭",
+      "name": "EGYPTIAN HIEROGLYPH O019"
+    },
+    {
+      "char": "𓉮",
+      "name": "EGYPTIAN HIEROGLYPH O019A"
+    },
+    {
+      "char": "𓉯",
+      "name": "EGYPTIAN HIEROGLYPH O020"
+    },
+    {
+      "char": "𓉰",
+      "name": "EGYPTIAN HIEROGLYPH O020A"
+    },
+    {
+      "char": "𓉱",
+      "name": "EGYPTIAN HIEROGLYPH O021"
+    },
+    {
+      "char": "𓉲",
+      "name": "EGYPTIAN HIEROGLYPH O022"
+    },
+    {
+      "char": "𓉳",
+      "name": "EGYPTIAN HIEROGLYPH O023"
+    },
+    {
+      "char": "𓉴",
+      "name": "EGYPTIAN HIEROGLYPH O024"
+    },
+    {
+      "char": "𓉵",
+      "name": "EGYPTIAN HIEROGLYPH O024A"
+    },
+    {
+      "char": "𓉶",
+      "name": "EGYPTIAN HIEROGLYPH O025"
+    },
+    {
+      "char": "𓉷",
+      "name": "EGYPTIAN HIEROGLYPH O025A"
+    },
+    {
+      "char": "𓉸",
+      "name": "EGYPTIAN HIEROGLYPH O026"
+    },
+    {
+      "char": "𓉹",
+      "name": "EGYPTIAN HIEROGLYPH O027"
+    },
+    {
+      "char": "𓉺",
+      "name": "EGYPTIAN HIEROGLYPH O028"
+    },
+    {
+      "char": "𓉻",
+      "name": "EGYPTIAN HIEROGLYPH O029"
+    },
+    {
+      "char": "𓉼",
+      "name": "EGYPTIAN HIEROGLYPH O029A"
+    },
+    {
+      "char": "𓉽",
+      "name": "EGYPTIAN HIEROGLYPH O030"
+    },
+    {
+      "char": "𓉾",
+      "name": "EGYPTIAN HIEROGLYPH O030A"
+    },
+    {
+      "char": "𓉿",
+      "name": "EGYPTIAN HIEROGLYPH O031"
+    },
+    {
+      "char": "𓊀",
+      "name": "EGYPTIAN HIEROGLYPH O032"
+    },
+    {
+      "char": "𓊁",
+      "name": "EGYPTIAN HIEROGLYPH O033"
+    },
+    {
+      "char": "𓊂",
+      "name": "EGYPTIAN HIEROGLYPH O033A"
+    },
+    {
+      "char": "𓊃",
+      "name": "EGYPTIAN HIEROGLYPH O034"
+    },
+    {
+      "char": "𓊄",
+      "name": "EGYPTIAN HIEROGLYPH O035"
+    },
+    {
+      "char": "𓊅",
+      "name": "EGYPTIAN HIEROGLYPH O036"
+    },
+    {
+      "char": "𓊆",
+      "name": "EGYPTIAN HIEROGLYPH O036A"
+    },
+    {
+      "char": "𓊇",
+      "name": "EGYPTIAN HIEROGLYPH O036B"
+    },
+    {
+      "char": "𓊈",
+      "name": "EGYPTIAN HIEROGLYPH O036C"
+    },
+    {
+      "char": "𓊉",
+      "name": "EGYPTIAN HIEROGLYPH O036D"
+    },
+    {
+      "char": "𓊊",
+      "name": "EGYPTIAN HIEROGLYPH O037"
+    },
+    {
+      "char": "𓊋",
+      "name": "EGYPTIAN HIEROGLYPH O038"
+    },
+    {
+      "char": "𓊌",
+      "name": "EGYPTIAN HIEROGLYPH O039"
+    },
+    {
+      "char": "𓊍",
+      "name": "EGYPTIAN HIEROGLYPH O040"
+    },
+    {
+      "char": "𓊎",
+      "name": "EGYPTIAN HIEROGLYPH O041"
+    },
+    {
+      "char": "𓊏",
+      "name": "EGYPTIAN HIEROGLYPH O042"
+    },
+    {
+      "char": "𓊐",
+      "name": "EGYPTIAN HIEROGLYPH O043"
+    },
+    {
+      "char": "𓊑",
+      "name": "EGYPTIAN HIEROGLYPH O044"
+    },
+    {
+      "char": "𓊒",
+      "name": "EGYPTIAN HIEROGLYPH O045"
+    },
+    {
+      "char": "𓊓",
+      "name": "EGYPTIAN HIEROGLYPH O046"
+    },
+    {
+      "char": "𓊔",
+      "name": "EGYPTIAN HIEROGLYPH O047"
+    },
+    {
+      "char": "𓊕",
+      "name": "EGYPTIAN HIEROGLYPH O048"
+    },
+    {
+      "char": "𓊖",
+      "name": "EGYPTIAN HIEROGLYPH O049"
+    },
+    {
+      "char": "𓊗",
+      "name": "EGYPTIAN HIEROGLYPH O050"
+    },
+    {
+      "char": "𓊘",
+      "name": "EGYPTIAN HIEROGLYPH O050A"
+    },
+    {
+      "char": "𓊙",
+      "name": "EGYPTIAN HIEROGLYPH O050B"
+    },
+    {
+      "char": "𓊚",
+      "name": "EGYPTIAN HIEROGLYPH O051"
+    },
+    {
+      "char": "𓊛",
+      "name": "EGYPTIAN HIEROGLYPH P001"
+    },
+    {
+      "char": "𓊜",
+      "name": "EGYPTIAN HIEROGLYPH P001A"
+    },
+    {
+      "char": "𓊝",
+      "name": "EGYPTIAN HIEROGLYPH P002"
+    },
+    {
+      "char": "𓊞",
+      "name": "EGYPTIAN HIEROGLYPH P003"
+    },
+    {
+      "char": "𓊟",
+      "name": "EGYPTIAN HIEROGLYPH P003A"
+    },
+    {
+      "char": "𓊠",
+      "name": "EGYPTIAN HIEROGLYPH P004"
+    },
+    {
+      "char": "𓊡",
+      "name": "EGYPTIAN HIEROGLYPH P005"
+    },
+    {
+      "char": "𓊢",
+      "name": "EGYPTIAN HIEROGLYPH P006"
+    },
+    {
+      "char": "𓊣",
+      "name": "EGYPTIAN HIEROGLYPH P007"
+    },
+    {
+      "char": "𓊤",
+      "name": "EGYPTIAN HIEROGLYPH P008"
+    },
+    {
+      "char": "𓊥",
+      "name": "EGYPTIAN HIEROGLYPH P009"
+    },
+    {
+      "char": "𓊦",
+      "name": "EGYPTIAN HIEROGLYPH P010"
+    },
+    {
+      "char": "𓊧",
+      "name": "EGYPTIAN HIEROGLYPH P011"
+    },
+    {
+      "char": "𓊨",
+      "name": "EGYPTIAN HIEROGLYPH Q001"
+    },
+    {
+      "char": "𓊩",
+      "name": "EGYPTIAN HIEROGLYPH Q002"
+    },
+    {
+      "char": "𓊪",
+      "name": "EGYPTIAN HIEROGLYPH Q003"
+    },
+    {
+      "char": "𓊫",
+      "name": "EGYPTIAN HIEROGLYPH Q004"
+    },
+    {
+      "char": "𓊬",
+      "name": "EGYPTIAN HIEROGLYPH Q005"
+    },
+    {
+      "char": "𓊭",
+      "name": "EGYPTIAN HIEROGLYPH Q006"
+    },
+    {
+      "char": "𓊮",
+      "name": "EGYPTIAN HIEROGLYPH Q007"
+    },
+    {
+      "char": "𓊯",
+      "name": "EGYPTIAN HIEROGLYPH R001"
+    },
+    {
+      "char": "𓊰",
+      "name": "EGYPTIAN HIEROGLYPH R002"
+    },
+    {
+      "char": "𓊱",
+      "name": "EGYPTIAN HIEROGLYPH R002A"
+    },
+    {
+      "char": "𓊲",
+      "name": "EGYPTIAN HIEROGLYPH R003"
+    },
+    {
+      "char": "𓊳",
+      "name": "EGYPTIAN HIEROGLYPH R003A"
+    },
+    {
+      "char": "𓊴",
+      "name": "EGYPTIAN HIEROGLYPH R003B"
+    },
+    {
+      "char": "𓊵",
+      "name": "EGYPTIAN HIEROGLYPH R004"
+    },
+    {
+      "char": "𓊶",
+      "name": "EGYPTIAN HIEROGLYPH R005"
+    },
+    {
+      "char": "𓊷",
+      "name": "EGYPTIAN HIEROGLYPH R006"
+    },
+    {
+      "char": "𓊸",
+      "name": "EGYPTIAN HIEROGLYPH R007"
+    },
+    {
+      "char": "𓊹",
+      "name": "EGYPTIAN HIEROGLYPH R008"
+    },
+    {
+      "char": "𓊺",
+      "name": "EGYPTIAN HIEROGLYPH R009"
+    },
+    {
+      "char": "𓊻",
+      "name": "EGYPTIAN HIEROGLYPH R010"
+    },
+    {
+      "char": "𓊼",
+      "name": "EGYPTIAN HIEROGLYPH R010A"
+    },
+    {
+      "char": "𓊽",
+      "name": "EGYPTIAN HIEROGLYPH R011"
+    },
+    {
+      "char": "𓊾",
+      "name": "EGYPTIAN HIEROGLYPH R012"
+    },
+    {
+      "char": "𓊿",
+      "name": "EGYPTIAN HIEROGLYPH R013"
+    },
+    {
+      "char": "𓋀",
+      "name": "EGYPTIAN HIEROGLYPH R014"
+    },
+    {
+      "char": "𓋁",
+      "name": "EGYPTIAN HIEROGLYPH R015"
+    },
+    {
+      "char": "𓋂",
+      "name": "EGYPTIAN HIEROGLYPH R016"
+    },
+    {
+      "char": "𓋃",
+      "name": "EGYPTIAN HIEROGLYPH R016A"
+    },
+    {
+      "char": "𓋄",
+      "name": "EGYPTIAN HIEROGLYPH R017"
+    },
+    {
+      "char": "𓋅",
+      "name": "EGYPTIAN HIEROGLYPH R018"
+    },
+    {
+      "char": "𓋆",
+      "name": "EGYPTIAN HIEROGLYPH R019"
+    },
+    {
+      "char": "𓋇",
+      "name": "EGYPTIAN HIEROGLYPH R020"
+    },
+    {
+      "char": "𓋈",
+      "name": "EGYPTIAN HIEROGLYPH R021"
+    },
+    {
+      "char": "𓋉",
+      "name": "EGYPTIAN HIEROGLYPH R022"
+    },
+    {
+      "char": "𓋊",
+      "name": "EGYPTIAN HIEROGLYPH R023"
+    },
+    {
+      "char": "𓋋",
+      "name": "EGYPTIAN HIEROGLYPH R024"
+    },
+    {
+      "char": "𓋌",
+      "name": "EGYPTIAN HIEROGLYPH R025"
+    },
+    {
+      "char": "𓋍",
+      "name": "EGYPTIAN HIEROGLYPH R026"
+    },
+    {
+      "char": "𓋎",
+      "name": "EGYPTIAN HIEROGLYPH R027"
+    },
+    {
+      "char": "𓋏",
+      "name": "EGYPTIAN HIEROGLYPH R028"
+    },
+    {
+      "char": "𓋐",
+      "name": "EGYPTIAN HIEROGLYPH R029"
+    },
+    {
+      "char": "𓋑",
+      "name": "EGYPTIAN HIEROGLYPH S001"
+    },
+    {
+      "char": "𓋒",
+      "name": "EGYPTIAN HIEROGLYPH S002"
+    },
+    {
+      "char": "𓋓",
+      "name": "EGYPTIAN HIEROGLYPH S002A"
+    },
+    {
+      "char": "𓋔",
+      "name": "EGYPTIAN HIEROGLYPH S003"
+    },
+    {
+      "char": "𓋕",
+      "name": "EGYPTIAN HIEROGLYPH S004"
+    },
+    {
+      "char": "𓋖",
+      "name": "EGYPTIAN HIEROGLYPH S005"
+    },
+    {
+      "char": "𓋗",
+      "name": "EGYPTIAN HIEROGLYPH S006"
+    },
+    {
+      "char": "𓋘",
+      "name": "EGYPTIAN HIEROGLYPH S006A"
+    },
+    {
+      "char": "𓋙",
+      "name": "EGYPTIAN HIEROGLYPH S007"
+    },
+    {
+      "char": "𓋚",
+      "name": "EGYPTIAN HIEROGLYPH S008"
+    },
+    {
+      "char": "𓋛",
+      "name": "EGYPTIAN HIEROGLYPH S009"
+    },
+    {
+      "char": "𓋜",
+      "name": "EGYPTIAN HIEROGLYPH S010"
+    },
+    {
+      "char": "𓋝",
+      "name": "EGYPTIAN HIEROGLYPH S011"
+    },
+    {
+      "char": "𓋞",
+      "name": "EGYPTIAN HIEROGLYPH S012"
+    },
+    {
+      "char": "𓋟",
+      "name": "EGYPTIAN HIEROGLYPH S013"
+    },
+    {
+      "char": "𓋠",
+      "name": "EGYPTIAN HIEROGLYPH S014"
+    },
+    {
+      "char": "𓋡",
+      "name": "EGYPTIAN HIEROGLYPH S014A"
+    },
+    {
+      "char": "𓋢",
+      "name": "EGYPTIAN HIEROGLYPH S014B"
+    },
+    {
+      "char": "𓋣",
+      "name": "EGYPTIAN HIEROGLYPH S015"
+    },
+    {
+      "char": "𓋤",
+      "name": "EGYPTIAN HIEROGLYPH S016"
+    },
+    {
+      "char": "𓋥",
+      "name": "EGYPTIAN HIEROGLYPH S017"
+    },
+    {
+      "char": "𓋦",
+      "name": "EGYPTIAN HIEROGLYPH S017A"
+    },
+    {
+      "char": "𓋧",
+      "name": "EGYPTIAN HIEROGLYPH S018"
+    },
+    {
+      "char": "𓋨",
+      "name": "EGYPTIAN HIEROGLYPH S019"
+    },
+    {
+      "char": "𓋩",
+      "name": "EGYPTIAN HIEROGLYPH S020"
+    },
+    {
+      "char": "𓋪",
+      "name": "EGYPTIAN HIEROGLYPH S021"
+    },
+    {
+      "char": "𓋫",
+      "name": "EGYPTIAN HIEROGLYPH S022"
+    },
+    {
+      "char": "𓋬",
+      "name": "EGYPTIAN HIEROGLYPH S023"
+    },
+    {
+      "char": "𓋭",
+      "name": "EGYPTIAN HIEROGLYPH S024"
+    },
+    {
+      "char": "𓋮",
+      "name": "EGYPTIAN HIEROGLYPH S025"
+    },
+    {
+      "char": "𓋯",
+      "name": "EGYPTIAN HIEROGLYPH S026"
+    },
+    {
+      "char": "𓋰",
+      "name": "EGYPTIAN HIEROGLYPH S026A"
+    },
+    {
+      "char": "𓋱",
+      "name": "EGYPTIAN HIEROGLYPH S026B"
+    },
+    {
+      "char": "𓋲",
+      "name": "EGYPTIAN HIEROGLYPH S027"
+    },
+    {
+      "char": "𓋳",
+      "name": "EGYPTIAN HIEROGLYPH S028"
+    },
+    {
+      "char": "𓋴",
+      "name": "EGYPTIAN HIEROGLYPH S029"
+    },
+    {
+      "char": "𓋵",
+      "name": "EGYPTIAN HIEROGLYPH S030"
+    },
+    {
+      "char": "𓋶",
+      "name": "EGYPTIAN HIEROGLYPH S031"
+    },
+    {
+      "char": "𓋷",
+      "name": "EGYPTIAN HIEROGLYPH S032"
+    },
+    {
+      "char": "𓋸",
+      "name": "EGYPTIAN HIEROGLYPH S033"
+    },
+    {
+      "char": "𓋹",
+      "name": "EGYPTIAN HIEROGLYPH S034"
+    },
+    {
+      "char": "𓋺",
+      "name": "EGYPTIAN HIEROGLYPH S035"
+    },
+    {
+      "char": "𓋻",
+      "name": "EGYPTIAN HIEROGLYPH S035A"
+    },
+    {
+      "char": "𓋼",
+      "name": "EGYPTIAN HIEROGLYPH S036"
+    },
+    {
+      "char": "𓋽",
+      "name": "EGYPTIAN HIEROGLYPH S037"
+    },
+    {
+      "char": "𓋾",
+      "name": "EGYPTIAN HIEROGLYPH S038"
+    },
+    {
+      "char": "𓋿",
+      "name": "EGYPTIAN HIEROGLYPH S039"
+    },
+    {
+      "char": "𓌀",
+      "name": "EGYPTIAN HIEROGLYPH S040"
+    },
+    {
+      "char": "𓌁",
+      "name": "EGYPTIAN HIEROGLYPH S041"
+    },
+    {
+      "char": "𓌂",
+      "name": "EGYPTIAN HIEROGLYPH S042"
+    },
+    {
+      "char": "𓌃",
+      "name": "EGYPTIAN HIEROGLYPH S043"
+    },
+    {
+      "char": "𓌄",
+      "name": "EGYPTIAN HIEROGLYPH S044"
+    },
+    {
+      "char": "𓌅",
+      "name": "EGYPTIAN HIEROGLYPH S045"
+    },
+    {
+      "char": "𓌆",
+      "name": "EGYPTIAN HIEROGLYPH S046"
+    },
+    {
+      "char": "𓌇",
+      "name": "EGYPTIAN HIEROGLYPH T001"
+    },
+    {
+      "char": "𓌈",
+      "name": "EGYPTIAN HIEROGLYPH T002"
+    },
+    {
+      "char": "𓌉",
+      "name": "EGYPTIAN HIEROGLYPH T003"
+    },
+    {
+      "char": "𓌊",
+      "name": "EGYPTIAN HIEROGLYPH T003A"
+    },
+    {
+      "char": "𓌋",
+      "name": "EGYPTIAN HIEROGLYPH T004"
+    },
+    {
+      "char": "𓌌",
+      "name": "EGYPTIAN HIEROGLYPH T005"
+    },
+    {
+      "char": "𓌍",
+      "name": "EGYPTIAN HIEROGLYPH T006"
+    },
+    {
+      "char": "𓌎",
+      "name": "EGYPTIAN HIEROGLYPH T007"
+    },
+    {
+      "char": "𓌏",
+      "name": "EGYPTIAN HIEROGLYPH T007A"
+    },
+    {
+      "char": "𓌐",
+      "name": "EGYPTIAN HIEROGLYPH T008"
+    },
+    {
+      "char": "𓌑",
+      "name": "EGYPTIAN HIEROGLYPH T008A"
+    },
+    {
+      "char": "𓌒",
+      "name": "EGYPTIAN HIEROGLYPH T009"
+    },
+    {
+      "char": "𓌓",
+      "name": "EGYPTIAN HIEROGLYPH T009A"
+    },
+    {
+      "char": "𓌔",
+      "name": "EGYPTIAN HIEROGLYPH T010"
+    },
+    {
+      "char": "𓌕",
+      "name": "EGYPTIAN HIEROGLYPH T011"
+    },
+    {
+      "char": "𓌖",
+      "name": "EGYPTIAN HIEROGLYPH T011A"
+    },
+    {
+      "char": "𓌗",
+      "name": "EGYPTIAN HIEROGLYPH T012"
+    },
+    {
+      "char": "𓌘",
+      "name": "EGYPTIAN HIEROGLYPH T013"
+    },
+    {
+      "char": "𓌙",
+      "name": "EGYPTIAN HIEROGLYPH T014"
+    },
+    {
+      "char": "𓌚",
+      "name": "EGYPTIAN HIEROGLYPH T015"
+    },
+    {
+      "char": "𓌛",
+      "name": "EGYPTIAN HIEROGLYPH T016"
+    },
+    {
+      "char": "𓌜",
+      "name": "EGYPTIAN HIEROGLYPH T016A"
+    },
+    {
+      "char": "𓌝",
+      "name": "EGYPTIAN HIEROGLYPH T017"
+    },
+    {
+      "char": "𓌞",
+      "name": "EGYPTIAN HIEROGLYPH T018"
+    },
+    {
+      "char": "𓌟",
+      "name": "EGYPTIAN HIEROGLYPH T019"
+    },
+    {
+      "char": "𓌠",
+      "name": "EGYPTIAN HIEROGLYPH T020"
+    },
+    {
+      "char": "𓌡",
+      "name": "EGYPTIAN HIEROGLYPH T021"
+    },
+    {
+      "char": "𓌢",
+      "name": "EGYPTIAN HIEROGLYPH T022"
+    },
+    {
+      "char": "𓌣",
+      "name": "EGYPTIAN HIEROGLYPH T023"
+    },
+    {
+      "char": "𓌤",
+      "name": "EGYPTIAN HIEROGLYPH T024"
+    },
+    {
+      "char": "𓌥",
+      "name": "EGYPTIAN HIEROGLYPH T025"
+    },
+    {
+      "char": "𓌦",
+      "name": "EGYPTIAN HIEROGLYPH T026"
+    },
+    {
+      "char": "𓌧",
+      "name": "EGYPTIAN HIEROGLYPH T027"
+    },
+    {
+      "char": "𓌨",
+      "name": "EGYPTIAN HIEROGLYPH T028"
+    },
+    {
+      "char": "𓌩",
+      "name": "EGYPTIAN HIEROGLYPH T029"
+    },
+    {
+      "char": "𓌪",
+      "name": "EGYPTIAN HIEROGLYPH T030"
+    },
+    {
+      "char": "𓌫",
+      "name": "EGYPTIAN HIEROGLYPH T031"
+    },
+    {
+      "char": "𓌬",
+      "name": "EGYPTIAN HIEROGLYPH T032"
+    },
+    {
+      "char": "𓌭",
+      "name": "EGYPTIAN HIEROGLYPH T032A"
+    },
+    {
+      "char": "𓌮",
+      "name": "EGYPTIAN HIEROGLYPH T033"
+    },
+    {
+      "char": "𓌯",
+      "name": "EGYPTIAN HIEROGLYPH T033A"
+    },
+    {
+      "char": "𓌰",
+      "name": "EGYPTIAN HIEROGLYPH T034"
+    },
+    {
+      "char": "𓌱",
+      "name": "EGYPTIAN HIEROGLYPH T035"
+    },
+    {
+      "char": "𓌲",
+      "name": "EGYPTIAN HIEROGLYPH T036"
+    },
+    {
+      "char": "𓌳",
+      "name": "EGYPTIAN HIEROGLYPH U001"
+    },
+    {
+      "char": "𓌴",
+      "name": "EGYPTIAN HIEROGLYPH U002"
+    },
+    {
+      "char": "𓌵",
+      "name": "EGYPTIAN HIEROGLYPH U003"
+    },
+    {
+      "char": "𓌶",
+      "name": "EGYPTIAN HIEROGLYPH U004"
+    },
+    {
+      "char": "𓌷",
+      "name": "EGYPTIAN HIEROGLYPH U005"
+    },
+    {
+      "char": "𓌸",
+      "name": "EGYPTIAN HIEROGLYPH U006"
+    },
+    {
+      "char": "𓌹",
+      "name": "EGYPTIAN HIEROGLYPH U006A"
+    },
+    {
+      "char": "𓌺",
+      "name": "EGYPTIAN HIEROGLYPH U006B"
+    },
+    {
+      "char": "𓌻",
+      "name": "EGYPTIAN HIEROGLYPH U007"
+    },
+    {
+      "char": "𓌼",
+      "name": "EGYPTIAN HIEROGLYPH U008"
+    },
+    {
+      "char": "𓌽",
+      "name": "EGYPTIAN HIEROGLYPH U009"
+    },
+    {
+      "char": "𓌾",
+      "name": "EGYPTIAN HIEROGLYPH U010"
+    },
+    {
+      "char": "𓌿",
+      "name": "EGYPTIAN HIEROGLYPH U011"
+    },
+    {
+      "char": "𓍀",
+      "name": "EGYPTIAN HIEROGLYPH U012"
+    },
+    {
+      "char": "𓍁",
+      "name": "EGYPTIAN HIEROGLYPH U013"
+    },
+    {
+      "char": "𓍂",
+      "name": "EGYPTIAN HIEROGLYPH U014"
+    },
+    {
+      "char": "𓍃",
+      "name": "EGYPTIAN HIEROGLYPH U015"
+    },
+    {
+      "char": "𓍄",
+      "name": "EGYPTIAN HIEROGLYPH U016"
+    },
+    {
+      "char": "𓍅",
+      "name": "EGYPTIAN HIEROGLYPH U017"
+    },
+    {
+      "char": "𓍆",
+      "name": "EGYPTIAN HIEROGLYPH U018"
+    },
+    {
+      "char": "𓍇",
+      "name": "EGYPTIAN HIEROGLYPH U019"
+    },
+    {
+      "char": "𓍈",
+      "name": "EGYPTIAN HIEROGLYPH U020"
+    },
+    {
+      "char": "𓍉",
+      "name": "EGYPTIAN HIEROGLYPH U021"
+    },
+    {
+      "char": "𓍊",
+      "name": "EGYPTIAN HIEROGLYPH U022"
+    },
+    {
+      "char": "𓍋",
+      "name": "EGYPTIAN HIEROGLYPH U023"
+    },
+    {
+      "char": "𓍌",
+      "name": "EGYPTIAN HIEROGLYPH U023A"
+    },
+    {
+      "char": "𓍍",
+      "name": "EGYPTIAN HIEROGLYPH U024"
+    },
+    {
+      "char": "𓍎",
+      "name": "EGYPTIAN HIEROGLYPH U025"
+    },
+    {
+      "char": "𓍏",
+      "name": "EGYPTIAN HIEROGLYPH U026"
+    },
+    {
+      "char": "𓍐",
+      "name": "EGYPTIAN HIEROGLYPH U027"
+    },
+    {
+      "char": "𓍑",
+      "name": "EGYPTIAN HIEROGLYPH U028"
+    },
+    {
+      "char": "𓍒",
+      "name": "EGYPTIAN HIEROGLYPH U029"
+    },
+    {
+      "char": "𓍓",
+      "name": "EGYPTIAN HIEROGLYPH U029A"
+    },
+    {
+      "char": "𓍔",
+      "name": "EGYPTIAN HIEROGLYPH U030"
+    },
+    {
+      "char": "𓍕",
+      "name": "EGYPTIAN HIEROGLYPH U031"
+    },
+    {
+      "char": "𓍖",
+      "name": "EGYPTIAN HIEROGLYPH U032"
+    },
+    {
+      "char": "𓍗",
+      "name": "EGYPTIAN HIEROGLYPH U032A"
+    },
+    {
+      "char": "𓍘",
+      "name": "EGYPTIAN HIEROGLYPH U033"
+    },
+    {
+      "char": "𓍙",
+      "name": "EGYPTIAN HIEROGLYPH U034"
+    },
+    {
+      "char": "𓍚",
+      "name": "EGYPTIAN HIEROGLYPH U035"
+    },
+    {
+      "char": "𓍛",
+      "name": "EGYPTIAN HIEROGLYPH U036"
+    },
+    {
+      "char": "𓍜",
+      "name": "EGYPTIAN HIEROGLYPH U037"
+    },
+    {
+      "char": "𓍝",
+      "name": "EGYPTIAN HIEROGLYPH U038"
+    },
+    {
+      "char": "𓍞",
+      "name": "EGYPTIAN HIEROGLYPH U039"
+    },
+    {
+      "char": "𓍟",
+      "name": "EGYPTIAN HIEROGLYPH U040"
+    },
+    {
+      "char": "𓍠",
+      "name": "EGYPTIAN HIEROGLYPH U041"
+    },
+    {
+      "char": "𓍡",
+      "name": "EGYPTIAN HIEROGLYPH U042"
+    },
+    {
+      "char": "𓍢",
+      "name": "EGYPTIAN HIEROGLYPH V001"
+    },
+    {
+      "char": "𓍣",
+      "name": "EGYPTIAN HIEROGLYPH V001A"
+    },
+    {
+      "char": "𓍤",
+      "name": "EGYPTIAN HIEROGLYPH V001B"
+    },
+    {
+      "char": "𓍥",
+      "name": "EGYPTIAN HIEROGLYPH V001C"
+    },
+    {
+      "char": "𓍦",
+      "name": "EGYPTIAN HIEROGLYPH V001D"
+    },
+    {
+      "char": "𓍧",
+      "name": "EGYPTIAN HIEROGLYPH V001E"
+    },
+    {
+      "char": "𓍨",
+      "name": "EGYPTIAN HIEROGLYPH V001F"
+    },
+    {
+      "char": "𓍩",
+      "name": "EGYPTIAN HIEROGLYPH V001G"
+    },
+    {
+      "char": "𓍪",
+      "name": "EGYPTIAN HIEROGLYPH V001H"
+    },
+    {
+      "char": "𓍫",
+      "name": "EGYPTIAN HIEROGLYPH V001I"
+    },
+    {
+      "char": "𓍬",
+      "name": "EGYPTIAN HIEROGLYPH V002"
+    },
+    {
+      "char": "𓍭",
+      "name": "EGYPTIAN HIEROGLYPH V002A"
+    },
+    {
+      "char": "𓍮",
+      "name": "EGYPTIAN HIEROGLYPH V003"
+    },
+    {
+      "char": "𓍯",
+      "name": "EGYPTIAN HIEROGLYPH V004"
+    },
+    {
+      "char": "𓍰",
+      "name": "EGYPTIAN HIEROGLYPH V005"
+    },
+    {
+      "char": "𓍱",
+      "name": "EGYPTIAN HIEROGLYPH V006"
+    },
+    {
+      "char": "𓍲",
+      "name": "EGYPTIAN HIEROGLYPH V007"
+    },
+    {
+      "char": "𓍳",
+      "name": "EGYPTIAN HIEROGLYPH V007A"
+    },
+    {
+      "char": "𓍴",
+      "name": "EGYPTIAN HIEROGLYPH V007B"
+    },
+    {
+      "char": "𓍵",
+      "name": "EGYPTIAN HIEROGLYPH V008"
+    },
+    {
+      "char": "𓍶",
+      "name": "EGYPTIAN HIEROGLYPH V009"
+    },
+    {
+      "char": "𓍷",
+      "name": "EGYPTIAN HIEROGLYPH V010"
+    },
+    {
+      "char": "𓍸",
+      "name": "EGYPTIAN HIEROGLYPH V011"
+    },
+    {
+      "char": "𓍹",
+      "name": "EGYPTIAN HIEROGLYPH V011A"
+    },
+    {
+      "char": "𓍺",
+      "name": "EGYPTIAN HIEROGLYPH V011B"
+    },
+    {
+      "char": "𓍻",
+      "name": "EGYPTIAN HIEROGLYPH V011C"
+    },
+    {
+      "char": "𓍼",
+      "name": "EGYPTIAN HIEROGLYPH V012"
+    },
+    {
+      "char": "𓍽",
+      "name": "EGYPTIAN HIEROGLYPH V012A"
+    },
+    {
+      "char": "𓍾",
+      "name": "EGYPTIAN HIEROGLYPH V012B"
+    },
+    {
+      "char": "𓍿",
+      "name": "EGYPTIAN HIEROGLYPH V013"
+    },
+    {
+      "char": "𓎀",
+      "name": "EGYPTIAN HIEROGLYPH V014"
+    },
+    {
+      "char": "𓎁",
+      "name": "EGYPTIAN HIEROGLYPH V015"
+    },
+    {
+      "char": "𓎂",
+      "name": "EGYPTIAN HIEROGLYPH V016"
+    },
+    {
+      "char": "𓎃",
+      "name": "EGYPTIAN HIEROGLYPH V017"
+    },
+    {
+      "char": "𓎄",
+      "name": "EGYPTIAN HIEROGLYPH V018"
+    },
+    {
+      "char": "𓎅",
+      "name": "EGYPTIAN HIEROGLYPH V019"
+    },
+    {
+      "char": "𓎆",
+      "name": "EGYPTIAN HIEROGLYPH V020"
+    },
+    {
+      "char": "𓎇",
+      "name": "EGYPTIAN HIEROGLYPH V020A"
+    },
+    {
+      "char": "𓎈",
+      "name": "EGYPTIAN HIEROGLYPH V020B"
+    },
+    {
+      "char": "𓎉",
+      "name": "EGYPTIAN HIEROGLYPH V020C"
+    },
+    {
+      "char": "𓎊",
+      "name": "EGYPTIAN HIEROGLYPH V020D"
+    },
+    {
+      "char": "𓎋",
+      "name": "EGYPTIAN HIEROGLYPH V020E"
+    },
+    {
+      "char": "𓎌",
+      "name": "EGYPTIAN HIEROGLYPH V020F"
+    },
+    {
+      "char": "𓎍",
+      "name": "EGYPTIAN HIEROGLYPH V020G"
+    },
+    {
+      "char": "𓎎",
+      "name": "EGYPTIAN HIEROGLYPH V020H"
+    },
+    {
+      "char": "𓎏",
+      "name": "EGYPTIAN HIEROGLYPH V020I"
+    },
+    {
+      "char": "𓎐",
+      "name": "EGYPTIAN HIEROGLYPH V020J"
+    },
+    {
+      "char": "𓎑",
+      "name": "EGYPTIAN HIEROGLYPH V020K"
+    },
+    {
+      "char": "𓎒",
+      "name": "EGYPTIAN HIEROGLYPH V020L"
+    },
+    {
+      "char": "𓎓",
+      "name": "EGYPTIAN HIEROGLYPH V021"
+    },
+    {
+      "char": "𓎔",
+      "name": "EGYPTIAN HIEROGLYPH V022"
+    },
+    {
+      "char": "𓎕",
+      "name": "EGYPTIAN HIEROGLYPH V023"
+    },
+    {
+      "char": "𓎖",
+      "name": "EGYPTIAN HIEROGLYPH V023A"
+    },
+    {
+      "char": "𓎗",
+      "name": "EGYPTIAN HIEROGLYPH V024"
+    },
+    {
+      "char": "𓎘",
+      "name": "EGYPTIAN HIEROGLYPH V025"
+    },
+    {
+      "char": "𓎙",
+      "name": "EGYPTIAN HIEROGLYPH V026"
+    },
+    {
+      "char": "𓎚",
+      "name": "EGYPTIAN HIEROGLYPH V027"
+    },
+    {
+      "char": "𓎛",
+      "name": "EGYPTIAN HIEROGLYPH V028"
+    },
+    {
+      "char": "𓎜",
+      "name": "EGYPTIAN HIEROGLYPH V028A"
+    },
+    {
+      "char": "𓎝",
+      "name": "EGYPTIAN HIEROGLYPH V029"
+    },
+    {
+      "char": "𓎞",
+      "name": "EGYPTIAN HIEROGLYPH V029A"
+    },
+    {
+      "char": "𓎟",
+      "name": "EGYPTIAN HIEROGLYPH V030"
+    },
+    {
+      "char": "𓎠",
+      "name": "EGYPTIAN HIEROGLYPH V030A"
+    },
+    {
+      "char": "𓎡",
+      "name": "EGYPTIAN HIEROGLYPH V031"
+    },
+    {
+      "char": "𓎢",
+      "name": "EGYPTIAN HIEROGLYPH V031A"
+    },
+    {
+      "char": "𓎣",
+      "name": "EGYPTIAN HIEROGLYPH V032"
+    },
+    {
+      "char": "𓎤",
+      "name": "EGYPTIAN HIEROGLYPH V033"
+    },
+    {
+      "char": "𓎥",
+      "name": "EGYPTIAN HIEROGLYPH V033A"
+    },
+    {
+      "char": "𓎦",
+      "name": "EGYPTIAN HIEROGLYPH V034"
+    },
+    {
+      "char": "𓎧",
+      "name": "EGYPTIAN HIEROGLYPH V035"
+    },
+    {
+      "char": "𓎨",
+      "name": "EGYPTIAN HIEROGLYPH V036"
+    },
+    {
+      "char": "𓎩",
+      "name": "EGYPTIAN HIEROGLYPH V037"
+    },
+    {
+      "char": "𓎪",
+      "name": "EGYPTIAN HIEROGLYPH V037A"
+    },
+    {
+      "char": "𓎫",
+      "name": "EGYPTIAN HIEROGLYPH V038"
+    },
+    {
+      "char": "𓎬",
+      "name": "EGYPTIAN HIEROGLYPH V039"
+    },
+    {
+      "char": "𓎭",
+      "name": "EGYPTIAN HIEROGLYPH V040"
+    },
+    {
+      "char": "𓎮",
+      "name": "EGYPTIAN HIEROGLYPH V040A"
+    },
+    {
+      "char": "𓎯",
+      "name": "EGYPTIAN HIEROGLYPH W001"
+    },
+    {
+      "char": "𓎰",
+      "name": "EGYPTIAN HIEROGLYPH W002"
+    },
+    {
+      "char": "𓎱",
+      "name": "EGYPTIAN HIEROGLYPH W003"
+    },
+    {
+      "char": "𓎲",
+      "name": "EGYPTIAN HIEROGLYPH W003A"
+    },
+    {
+      "char": "𓎳",
+      "name": "EGYPTIAN HIEROGLYPH W004"
+    },
+    {
+      "char": "𓎴",
+      "name": "EGYPTIAN HIEROGLYPH W005"
+    },
+    {
+      "char": "𓎵",
+      "name": "EGYPTIAN HIEROGLYPH W006"
+    },
+    {
+      "char": "𓎶",
+      "name": "EGYPTIAN HIEROGLYPH W007"
+    },
+    {
+      "char": "𓎷",
+      "name": "EGYPTIAN HIEROGLYPH W008"
+    },
+    {
+      "char": "𓎸",
+      "name": "EGYPTIAN HIEROGLYPH W009"
+    },
+    {
+      "char": "𓎹",
+      "name": "EGYPTIAN HIEROGLYPH W009A"
+    },
+    {
+      "char": "𓎺",
+      "name": "EGYPTIAN HIEROGLYPH W010"
+    },
+    {
+      "char": "𓎻",
+      "name": "EGYPTIAN HIEROGLYPH W010A"
+    },
+    {
+      "char": "𓎼",
+      "name": "EGYPTIAN HIEROGLYPH W011"
+    },
+    {
+      "char": "𓎽",
+      "name": "EGYPTIAN HIEROGLYPH W012"
+    },
+    {
+      "char": "𓎾",
+      "name": "EGYPTIAN HIEROGLYPH W013"
+    },
+    {
+      "char": "𓎿",
+      "name": "EGYPTIAN HIEROGLYPH W014"
+    },
+    {
+      "char": "𓏀",
+      "name": "EGYPTIAN HIEROGLYPH W014A"
+    },
+    {
+      "char": "𓏁",
+      "name": "EGYPTIAN HIEROGLYPH W015"
+    },
+    {
+      "char": "𓏂",
+      "name": "EGYPTIAN HIEROGLYPH W016"
+    },
+    {
+      "char": "𓏃",
+      "name": "EGYPTIAN HIEROGLYPH W017"
+    },
+    {
+      "char": "𓏄",
+      "name": "EGYPTIAN HIEROGLYPH W017A"
+    },
+    {
+      "char": "𓏅",
+      "name": "EGYPTIAN HIEROGLYPH W018"
+    },
+    {
+      "char": "𓏆",
+      "name": "EGYPTIAN HIEROGLYPH W018A"
+    },
+    {
+      "char": "𓏇",
+      "name": "EGYPTIAN HIEROGLYPH W019"
+    },
+    {
+      "char": "𓏈",
+      "name": "EGYPTIAN HIEROGLYPH W020"
+    },
+    {
+      "char": "𓏉",
+      "name": "EGYPTIAN HIEROGLYPH W021"
+    },
+    {
+      "char": "𓏊",
+      "name": "EGYPTIAN HIEROGLYPH W022"
+    },
+    {
+      "char": "𓏋",
+      "name": "EGYPTIAN HIEROGLYPH W023"
+    },
+    {
+      "char": "𓏌",
+      "name": "EGYPTIAN HIEROGLYPH W024"
+    },
+    {
+      "char": "𓏍",
+      "name": "EGYPTIAN HIEROGLYPH W024A"
+    },
+    {
+      "char": "𓏎",
+      "name": "EGYPTIAN HIEROGLYPH W025"
+    },
+    {
+      "char": "𓏏",
+      "name": "EGYPTIAN HIEROGLYPH X001"
+    },
+    {
+      "char": "𓏐",
+      "name": "EGYPTIAN HIEROGLYPH X002"
+    },
+    {
+      "char": "𓏑",
+      "name": "EGYPTIAN HIEROGLYPH X003"
+    },
+    {
+      "char": "𓏒",
+      "name": "EGYPTIAN HIEROGLYPH X004"
+    },
+    {
+      "char": "𓏓",
+      "name": "EGYPTIAN HIEROGLYPH X004A"
+    },
+    {
+      "char": "𓏔",
+      "name": "EGYPTIAN HIEROGLYPH X004B"
+    },
+    {
+      "char": "𓏕",
+      "name": "EGYPTIAN HIEROGLYPH X005"
+    },
+    {
+      "char": "𓏖",
+      "name": "EGYPTIAN HIEROGLYPH X006"
+    },
+    {
+      "char": "𓏗",
+      "name": "EGYPTIAN HIEROGLYPH X006A"
+    },
+    {
+      "char": "𓏘",
+      "name": "EGYPTIAN HIEROGLYPH X007"
+    },
+    {
+      "char": "𓏙",
+      "name": "EGYPTIAN HIEROGLYPH X008"
+    },
+    {
+      "char": "𓏚",
+      "name": "EGYPTIAN HIEROGLYPH X008A"
+    },
+    {
+      "char": "𓏛",
+      "name": "EGYPTIAN HIEROGLYPH Y001"
+    },
+    {
+      "char": "𓏜",
+      "name": "EGYPTIAN HIEROGLYPH Y001A"
+    },
+    {
+      "char": "𓏝",
+      "name": "EGYPTIAN HIEROGLYPH Y002"
+    },
+    {
+      "char": "𓏞",
+      "name": "EGYPTIAN HIEROGLYPH Y003"
+    },
+    {
+      "char": "𓏟",
+      "name": "EGYPTIAN HIEROGLYPH Y004"
+    },
+    {
+      "char": "𓏠",
+      "name": "EGYPTIAN HIEROGLYPH Y005"
+    },
+    {
+      "char": "𓏡",
+      "name": "EGYPTIAN HIEROGLYPH Y006"
+    },
+    {
+      "char": "𓏢",
+      "name": "EGYPTIAN HIEROGLYPH Y007"
+    },
+    {
+      "char": "𓏣",
+      "name": "EGYPTIAN HIEROGLYPH Y008"
+    },
+    {
+      "char": "𓏤",
+      "name": "EGYPTIAN HIEROGLYPH Z001"
+    },
+    {
+      "char": "𓏥",
+      "name": "EGYPTIAN HIEROGLYPH Z002"
+    },
+    {
+      "char": "𓏦",
+      "name": "EGYPTIAN HIEROGLYPH Z002A"
+    },
+    {
+      "char": "𓏧",
+      "name": "EGYPTIAN HIEROGLYPH Z002B"
+    },
+    {
+      "char": "𓏨",
+      "name": "EGYPTIAN HIEROGLYPH Z002C"
+    },
+    {
+      "char": "𓏩",
+      "name": "EGYPTIAN HIEROGLYPH Z002D"
+    },
+    {
+      "char": "𓏪",
+      "name": "EGYPTIAN HIEROGLYPH Z003"
+    },
+    {
+      "char": "𓏫",
+      "name": "EGYPTIAN HIEROGLYPH Z003A"
+    },
+    {
+      "char": "𓏬",
+      "name": "EGYPTIAN HIEROGLYPH Z003B"
+    },
+    {
+      "char": "𓏭",
+      "name": "EGYPTIAN HIEROGLYPH Z004"
+    },
+    {
+      "char": "𓏮",
+      "name": "EGYPTIAN HIEROGLYPH Z004A"
+    },
+    {
+      "char": "𓏯",
+      "name": "EGYPTIAN HIEROGLYPH Z005"
+    },
+    {
+      "char": "𓏰",
+      "name": "EGYPTIAN HIEROGLYPH Z005A"
+    },
+    {
+      "char": "𓏱",
+      "name": "EGYPTIAN HIEROGLYPH Z006"
+    },
+    {
+      "char": "𓏲",
+      "name": "EGYPTIAN HIEROGLYPH Z007"
+    },
+    {
+      "char": "𓏳",
+      "name": "EGYPTIAN HIEROGLYPH Z008"
+    },
+    {
+      "char": "𓏴",
+      "name": "EGYPTIAN HIEROGLYPH Z009"
+    },
+    {
+      "char": "𓏵",
+      "name": "EGYPTIAN HIEROGLYPH Z010"
+    },
+    {
+      "char": "𓏶",
+      "name": "EGYPTIAN HIEROGLYPH Z011"
+    },
+    {
+      "char": "𓏷",
+      "name": "EGYPTIAN HIEROGLYPH Z012"
+    },
+    {
+      "char": "𓏸",
+      "name": "EGYPTIAN HIEROGLYPH Z013"
+    },
+    {
+      "char": "𓏹",
+      "name": "EGYPTIAN HIEROGLYPH Z014"
+    },
+    {
+      "char": "𓏺",
+      "name": "EGYPTIAN HIEROGLYPH Z015"
+    },
+    {
+      "char": "𓏻",
+      "name": "EGYPTIAN HIEROGLYPH Z015A"
+    },
+    {
+      "char": "𓏼",
+      "name": "EGYPTIAN HIEROGLYPH Z015B"
+    },
+    {
+      "char": "𓏽",
+      "name": "EGYPTIAN HIEROGLYPH Z015C"
+    },
+    {
+      "char": "𓏾",
+      "name": "EGYPTIAN HIEROGLYPH Z015D"
+    },
+    {
+      "char": "𓏿",
+      "name": "EGYPTIAN HIEROGLYPH Z015E"
+    },
+    {
+      "char": "𓐀",
+      "name": "EGYPTIAN HIEROGLYPH Z015F"
+    },
+    {
+      "char": "𓐁",
+      "name": "EGYPTIAN HIEROGLYPH Z015G"
+    },
+    {
+      "char": "𓐂",
+      "name": "EGYPTIAN HIEROGLYPH Z015H"
+    },
+    {
+      "char": "𓐃",
+      "name": "EGYPTIAN HIEROGLYPH Z015I"
+    },
+    {
+      "char": "𓐄",
+      "name": "EGYPTIAN HIEROGLYPH Z016"
+    },
+    {
+      "char": "𓐅",
+      "name": "EGYPTIAN HIEROGLYPH Z016A"
+    },
+    {
+      "char": "𓐆",
+      "name": "EGYPTIAN HIEROGLYPH Z016B"
+    },
+    {
+      "char": "𓐇",
+      "name": "EGYPTIAN HIEROGLYPH Z016C"
+    },
+    {
+      "char": "𓐈",
+      "name": "EGYPTIAN HIEROGLYPH Z016D"
+    },
+    {
+      "char": "𓐉",
+      "name": "EGYPTIAN HIEROGLYPH Z016E"
+    },
+    {
+      "char": "𓐊",
+      "name": "EGYPTIAN HIEROGLYPH Z016F"
+    },
+    {
+      "char": "𓐋",
+      "name": "EGYPTIAN HIEROGLYPH Z016G"
+    },
+    {
+      "char": "𓐌",
+      "name": "EGYPTIAN HIEROGLYPH Z016H"
+    },
+    {
+      "char": "𓐍",
+      "name": "EGYPTIAN HIEROGLYPH AA001"
+    },
+    {
+      "char": "𓐎",
+      "name": "EGYPTIAN HIEROGLYPH AA002"
+    },
+    {
+      "char": "𓐏",
+      "name": "EGYPTIAN HIEROGLYPH AA003"
+    },
+    {
+      "char": "𓐐",
+      "name": "EGYPTIAN HIEROGLYPH AA004"
+    },
+    {
+      "char": "𓐑",
+      "name": "EGYPTIAN HIEROGLYPH AA005"
+    },
+    {
+      "char": "𓐒",
+      "name": "EGYPTIAN HIEROGLYPH AA006"
+    },
+    {
+      "char": "𓐓",
+      "name": "EGYPTIAN HIEROGLYPH AA007"
+    },
+    {
+      "char": "𓐔",
+      "name": "EGYPTIAN HIEROGLYPH AA007A"
+    },
+    {
+      "char": "𓐕",
+      "name": "EGYPTIAN HIEROGLYPH AA007B"
+    },
+    {
+      "char": "𓐖",
+      "name": "EGYPTIAN HIEROGLYPH AA008"
+    },
+    {
+      "char": "𓐗",
+      "name": "EGYPTIAN HIEROGLYPH AA009"
+    },
+    {
+      "char": "𓐘",
+      "name": "EGYPTIAN HIEROGLYPH AA010"
+    },
+    {
+      "char": "𓐙",
+      "name": "EGYPTIAN HIEROGLYPH AA011"
+    },
+    {
+      "char": "𓐚",
+      "name": "EGYPTIAN HIEROGLYPH AA012"
+    },
+    {
+      "char": "𓐛",
+      "name": "EGYPTIAN HIEROGLYPH AA013"
+    },
+    {
+      "char": "𓐜",
+      "name": "EGYPTIAN HIEROGLYPH AA014"
+    },
+    {
+      "char": "𓐝",
+      "name": "EGYPTIAN HIEROGLYPH AA015"
+    },
+    {
+      "char": "𓐞",
+      "name": "EGYPTIAN HIEROGLYPH AA016"
+    },
+    {
+      "char": "𓐟",
+      "name": "EGYPTIAN HIEROGLYPH AA017"
+    },
+    {
+      "char": "𓐠",
+      "name": "EGYPTIAN HIEROGLYPH AA018"
+    },
+    {
+      "char": "𓐡",
+      "name": "EGYPTIAN HIEROGLYPH AA019"
+    },
+    {
+      "char": "𓐢",
+      "name": "EGYPTIAN HIEROGLYPH AA020"
+    },
+    {
+      "char": "𓐣",
+      "name": "EGYPTIAN HIEROGLYPH AA021"
+    },
+    {
+      "char": "𓐤",
+      "name": "EGYPTIAN HIEROGLYPH AA022"
+    },
+    {
+      "char": "𓐥",
+      "name": "EGYPTIAN HIEROGLYPH AA023"
+    },
+    {
+      "char": "𓐦",
+      "name": "EGYPTIAN HIEROGLYPH AA024"
+    },
+    {
+      "char": "𓐧",
+      "name": "EGYPTIAN HIEROGLYPH AA025"
+    },
+    {
+      "char": "𓐨",
+      "name": "EGYPTIAN HIEROGLYPH AA026"
+    },
+    {
+      "char": "𓐩",
+      "name": "EGYPTIAN HIEROGLYPH AA027"
+    },
+    {
+      "char": "𓐪",
+      "name": "EGYPTIAN HIEROGLYPH AA028"
+    },
+    {
+      "char": "𓐫",
+      "name": "EGYPTIAN HIEROGLYPH AA029"
+    },
+    {
+      "char": "𓐬",
+      "name": "EGYPTIAN HIEROGLYPH AA030"
+    },
+    {
+      "char": "𓐭",
+      "name": "EGYPTIAN HIEROGLYPH AA031"
+    },
+    {
+      "char": "𓐮",
+      "name": "EGYPTIAN HIEROGLYPH AA032"
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "id": "numbers",
+  "name": "Numbers",
+  "chars": [
+    {
+      "char": "0",
+      "name": "zero"
+    },
+    {
+      "char": "1",
+      "name": "one"
+    },
+    {
+      "char": "2",
+      "name": "two"
+    },
+    {
+      "char": "3",
+      "name": "three"
+    },
+    {
+      "char": "4",
+      "name": "four"
+    },
+    {
+      "char": "5",
+      "name": "five"
+    },
+    {
+      "char": "6",
+      "name": "six"
+    },
+    {
+      "char": "7",
+      "name": "seven"
+    },
+    {
+      "char": "8",
+      "name": "eight"
+    },
+    {
+      "char": "9",
+      "name": "nine"
+    },
+    {
+      "char": "²",
+      "name": "superscript two"
+    },
+    {
+      "char": "³",
+      "name": "superscript three"
+    },
+    {
+      "char": "¹",
+      "name": "superscript one"
+    },
+    {
+      "char": "⁰",
+      "name": "superscript zero"
+    },
+    {
+      "char": "ⁱ",
+      "name": "superscript latin small letter i"
+    },
+    {
+      "char": "⁴",
+      "name": "superscript four"
+    },
+    {
+      "char": "⁵",
+      "name": "superscript five"
+    },
+    {
+      "char": "⁶",
+      "name": "superscript six"
+    },
+    {
+      "char": "⁷",
+      "name": "superscript seven"
+    },
+    {
+      "char": "⁸",
+      "name": "superscript eight"
+    },
+    {
+      "char": "⁹",
+      "name": "superscript nine"
+    },
+    {
+      "char": "₀",
+      "name": "subscript zero"
+    },
+    {
+      "char": "₁",
+      "name": "subscript one"
+    },
+    {
+      "char": "₂",
+      "name": "subscript two"
+    },
+    {
+      "char": "₃",
+      "name": "subscript three"
+    },
+    {
+      "char": "₄",
+      "name": "subscript four"
+    },
+    {
+      "char": "₅",
+      "name": "subscript five"
+    },
+    {
+      "char": "₆",
+      "name": "subscript six"
+    },
+    {
+      "char": "₇",
+      "name": "subscript seven"
+    },
+    {
+      "char": "₈",
+      "name": "subscript eight"
+    },
+    {
+      "char": "₉",
+      "name": "subscript nine"
+    },
+    {
+      "char": "⅐",
+      "name": "vulgar fraction one seventh"
+    },
+    {
+      "char": "⅑",
+      "name": "vulgar fraction one ninth"
+    },
+    {
+      "char": "⅒",
+      "name": "vulgar fraction one tenth"
+    },
+    {
+      "char": "⅓",
+      "name": "vulgar fraction one third"
+    },
+    {
+      "char": "⅔",
+      "name": "vulgar fraction two thirds"
+    },
+    {
+      "char": "⅕",
+      "name": "vulgar fraction one fifth"
+    },
+    {
+      "char": "⅖",
+      "name": "vulgar fraction two fifths"
+    },
+    {
+      "char": "⅗",
+      "name": "vulgar fraction three fifths"
+    },
+    {
+      "char": "⅘",
+      "name": "vulgar fraction four fifths"
+    },
+    {
+      "char": "⅙",
+      "name": "vulgar fraction one sixth"
+    },
+    {
+      "char": "⅚",
+      "name": "vulgar fraction five sixths"
+    },
+    {
+      "char": "⅛",
+      "name": "vulgar fraction one eighth"
+    },
+    {
+      "char": "⅜",
+      "name": "vulgar fraction three eighths"
+    },
+    {
+      "char": "⅝",
+      "name": "vulgar fraction five eighths"
+    },
+    {
+      "char": "⅞",
+      "name": "vulgar fraction seven eighths"
+    },
+    {
+      "char": "⅟",
+      "name": "fraction numerator one"
+    },
+    {
+      "char": "Ⅰ",
+      "name": "roman numeral one"
+    },
+    {
+      "char": "Ⅱ",
+      "name": "roman numeral two"
+    },
+    {
+      "char": "Ⅲ",
+      "name": "roman numeral three"
+    },
+    {
+      "char": "Ⅳ",
+      "name": "roman numeral four"
+    },
+    {
+      "char": "Ⅴ",
+      "name": "roman numeral five"
+    },
+    {
+      "char": "Ⅵ",
+      "name": "roman numeral six"
+    },
+    {
+      "char": "Ⅶ",
+      "name": "roman numeral seven"
+    },
+    {
+      "char": "Ⅷ",
+      "name": "roman numeral eight"
+    },
+    {
+      "char": "Ⅸ",
+      "name": "roman numeral nine"
+    },
+    {
+      "char": "Ⅹ",
+      "name": "roman numeral ten"
+    },
+    {
+      "char": "Ⅺ",
+      "name": "roman numeral eleven"
+    },
+    {
+      "char": "Ⅻ",
+      "name": "roman numeral twelve"
+    },
+    {
+      "char": "Ⅼ",
+      "name": "roman numeral fifty"
+    },
+    {
+      "char": "Ⅽ",
+      "name": "roman numeral one hundred"
+    },
+    {
+      "char": "Ⅾ",
+      "name": "roman numeral five hundred"
+    },
+    {
+      "char": "Ⅿ",
+      "name": "roman numeral one thousand"
+    },
+    {
+      "char": "ⅰ",
+      "name": "small roman numeral one"
+    },
+    {
+      "char": "ⅱ",
+      "name": "small roman numeral two"
+    },
+    {
+      "char": "ⅲ",
+      "name": "small roman numeral three"
+    },
+    {
+      "char": "ⅳ",
+      "name": "small roman numeral four"
+    },
+    {
+      "char": "ⅴ",
+      "name": "small roman numeral five"
+    },
+    {
+      "char": "ⅵ",
+      "name": "small roman numeral six"
+    },
+    {
+      "char": "ⅶ",
+      "name": "small roman numeral seven"
+    },
+    {
+      "char": "ⅷ",
+      "name": "small roman numeral eight"
+    },
+    {
+      "char": "ⅸ",
+      "name": "small roman numeral nine"
+    },
+    {
+      "char": "ⅹ",
+      "name": "small roman numeral ten"
+    },
+    {
+      "char": "ⅺ",
+      "name": "small roman numeral eleven"
+    },
+    {
+      "char": "ⅻ",
+      "name": "small roman numeral twelve"
+    },
+    {
+      "char": "ⅼ",
+      "name": "small roman numeral fifty"
+    },
+    {
+      "char": "ⅽ",
+      "name": "small roman numeral one hundred"
+    },
+    {
+      "char": "ⅾ",
+      "name": "small roman numeral five hundred"
+    },
+    {
+      "char": "ⅿ",
+      "name": "small roman numeral one thousand"
+    },
+    {
+      "char": "ↀ",
+      "name": "roman numeral one thousand c d"
+    },
+    {
+      "char": "ↁ",
+      "name": "roman numeral five thousand"
+    },
+    {
+      "char": "ↂ",
+      "name": "roman numeral ten thousand"
+    },
+    {
+      "char": "Ↄ",
+      "name": "roman numeral reversed one hundred"
+    },
+    {
+      "char": "ↄ",
+      "name": "latin small letter reversed c"
+    },
+    {
+      "char": "ↅ",
+      "name": "roman numeral six late form"
+    },
+    {
+      "char": "ↆ",
+      "name": "roman numeral fifty early form"
+    },
+    {
+      "char": "↉",
+      "name": "vulgar fraction zero thirds"
+    },
+    {
+      "char": "①",
+      "name": "circled digit one"
+    },
+    {
+      "char": "②",
+      "name": "circled digit two"
+    },
+    {
+      "char": "③",
+      "name": "circled digit three"
+    },
+    {
+      "char": "④",
+      "name": "circled digit four"
+    },
+    {
+      "char": "⑤",
+      "name": "circled digit five"
+    },
+    {
+      "char": "⑥",
+      "name": "circled digit six"
+    },
+    {
+      "char": "⑦",
+      "name": "circled digit seven"
+    },
+    {
+      "char": "⑧",
+      "name": "circled digit eight"
+    },
+    {
+      "char": "⑨",
+      "name": "circled digit nine"
+    },
+    {
+      "char": "⑴",
+      "name": "parenthesized digit one"
+    },
+    {
+      "char": "⑵",
+      "name": "parenthesized digit two"
+    },
+    {
+      "char": "⑶",
+      "name": "parenthesized digit three"
+    },
+    {
+      "char": "⑷",
+      "name": "parenthesized digit four"
+    },
+    {
+      "char": "⑸",
+      "name": "parenthesized digit five"
+    },
+    {
+      "char": "⑹",
+      "name": "parenthesized digit six"
+    },
+    {
+      "char": "⑺",
+      "name": "parenthesized digit seven"
+    },
+    {
+      "char": "⑻",
+      "name": "parenthesized digit eight"
+    },
+    {
+      "char": "⑼",
+      "name": "parenthesized digit nine"
+    },
+    {
+      "char": "⑽",
+      "name": "parenthesized number ten"
+    },
+    {
+      "char": "⑾",
+      "name": "parenthesized number eleven"
+    },
+    {
+      "char": "⑿",
+      "name": "parenthesized number twelve"
+    },
+    {
+      "char": "⒀",
+      "name": "parenthesized number thirteen"
+    },
+    {
+      "char": "⒁",
+      "name": "parenthesized number fourteen"
+    },
+    {
+      "char": "⒂",
+      "name": "parenthesized number fifteen"
+    },
+    {
+      "char": "⒃",
+      "name": "parenthesized number sixteen"
+    },
+    {
+      "char": "⒄",
+      "name": "parenthesized number seventeen"
+    },
+    {
+      "char": "⒅",
+      "name": "parenthesized number eighteen"
+    },
+    {
+      "char": "⒆",
+      "name": "parenthesized number nineteen"
+    },
+    {
+      "char": "⒇",
+      "name": "parenthesized number twenty"
+    },
+    {
+      "char": "⒈",
+      "name": "digit one full stop"
+    },
+    {
+      "char": "⒉",
+      "name": "digit two full stop"
+    },
+    {
+      "char": "⒊",
+      "name": "digit three full stop"
+    },
+    {
+      "char": "⒋",
+      "name": "digit four full stop"
+    },
+    {
+      "char": "⒌",
+      "name": "digit five full stop"
+    },
+    {
+      "char": "⒍",
+      "name": "digit six full stop"
+    },
+    {
+      "char": "⒎",
+      "name": "digit seven full stop"
+    },
+    {
+      "char": "⒏",
+      "name": "digit eight full stop"
+    },
+    {
+      "char": "⒐",
+      "name": "digit nine full stop"
+    },
+    {
+      "char": "⒑",
+      "name": "number ten full stop"
+    },
+    {
+      "char": "⒒",
+      "name": "number eleven full stop"
+    },
+    {
+      "char": "⒓",
+      "name": "number twelve full stop"
+    },
+    {
+      "char": "⒔",
+      "name": "number thirteen full stop"
+    },
+    {
+      "char": "⒕",
+      "name": "number fourteen full stop"
+    },
+    {
+      "char": "⒖",
+      "name": "number fifteen full stop"
+    },
+    {
+      "char": "⒗",
+      "name": "number sixteen full stop"
+    },
+    {
+      "char": "⒘",
+      "name": "number seventeen full stop"
+    },
+    {
+      "char": "⒙",
+      "name": "number eighteen full stop"
+    },
+    {
+      "char": "⒚",
+      "name": "number nineteen full stop"
+    },
+    {
+      "char": "⒛",
+      "name": "number twenty full stop"
+    },
+    {
+      "char": "⒜",
+      "name": "parenthesized latin small letter a"
+    },
+    {
+      "char": "⒝",
+      "name": "parenthesized latin small letter b"
+    },
+    {
+      "char": "⒞",
+      "name": "parenthesized latin small letter c"
+    },
+    {
+      "char": "⒟",
+      "name": "parenthesized latin small letter d"
+    },
+    {
+      "char": "⒠",
+      "name": "parenthesized latin small letter e"
+    },
+    {
+      "char": "⒡",
+      "name": "parenthesized latin small letter f"
+    },
+    {
+      "char": "⒢",
+      "name": "parenthesized latin small letter g"
+    },
+    {
+      "char": "⒣",
+      "name": "parenthesized latin small letter h"
+    },
+    {
+      "char": "⒤",
+      "name": "parenthesized latin small letter i"
+    },
+    {
+      "char": "⒥",
+      "name": "parenthesized latin small letter j"
+    },
+    {
+      "char": "⒦",
+      "name": "parenthesized latin small letter k"
+    },
+    {
+      "char": "⒧",
+      "name": "parenthesized latin small letter l"
+    },
+    {
+      "char": "⒨",
+      "name": "parenthesized latin small letter m"
+    },
+    {
+      "char": "⒩",
+      "name": "parenthesized latin small letter n"
+    },
+    {
+      "char": "⒪",
+      "name": "parenthesized latin small letter o"
+    },
+    {
+      "char": "⒫",
+      "name": "parenthesized latin small letter p"
+    },
+    {
+      "char": "⒬",
+      "name": "parenthesized latin small letter q"
+    },
+    {
+      "char": "⒭",
+      "name": "parenthesized latin small letter r"
+    },
+    {
+      "char": "⒮",
+      "name": "parenthesized latin small letter s"
+    },
+    {
+      "char": "⒯",
+      "name": "parenthesized latin small letter t"
+    },
+    {
+      "char": "⒰",
+      "name": "parenthesized latin small letter u"
+    },
+    {
+      "char": "⒱",
+      "name": "parenthesized latin small letter v"
+    },
+    {
+      "char": "⒲",
+      "name": "parenthesized latin small letter w"
+    },
+    {
+      "char": "⒳",
+      "name": "parenthesized latin small letter x"
+    },
+    {
+      "char": "⒴",
+      "name": "parenthesized latin small letter y"
+    },
+    {
+      "char": "⒵",
+      "name": "parenthesized latin small letter z"
+    },
+    {
+      "char": "Ⓐ",
+      "name": "circled latin capital letter a"
+    },
+    {
+      "char": "Ⓑ",
+      "name": "circled latin capital letter b"
+    },
+    {
+      "char": "Ⓒ",
+      "name": "circled latin capital letter c"
+    },
+    {
+      "char": "Ⓓ",
+      "name": "circled latin capital letter d"
+    },
+    {
+      "char": "Ⓔ",
+      "name": "circled latin capital letter e"
+    },
+    {
+      "char": "Ⓕ",
+      "name": "circled latin capital letter f"
+    },
+    {
+      "char": "Ⓖ",
+      "name": "circled latin capital letter g"
+    },
+    {
+      "char": "Ⓗ",
+      "name": "circled latin capital letter h"
+    },
+    {
+      "char": "Ⓘ",
+      "name": "circled latin capital letter i"
+    },
+    {
+      "char": "Ⓙ",
+      "name": "circled latin capital letter j"
+    },
+    {
+      "char": "Ⓚ",
+      "name": "circled latin capital letter k"
+    },
+    {
+      "char": "Ⓛ",
+      "name": "circled latin capital letter l"
+    },
+    {
+      "char": "Ⓜ",
+      "name": "circled latin capital letter m"
+    },
+    {
+      "char": "Ⓝ",
+      "name": "circled latin capital letter n"
+    },
+    {
+      "char": "Ⓞ",
+      "name": "circled latin capital letter o"
+    },
+    {
+      "char": "Ⓟ",
+      "name": "circled latin capital letter p"
+    },
+    {
+      "char": "Ⓠ",
+      "name": "circled latin capital letter q"
+    },
+    {
+      "char": "Ⓡ",
+      "name": "circled latin capital letter r"
+    },
+    {
+      "char": "Ⓢ",
+      "name": "circled latin capital letter s"
+    },
+    {
+      "char": "Ⓣ",
+      "name": "circled latin capital letter t"
+    },
+    {
+      "char": "Ⓤ",
+      "name": "circled latin capital letter u"
+    },
+    {
+      "char": "Ⓥ",
+      "name": "circled latin capital letter v"
+    },
+    {
+      "char": "Ⓦ",
+      "name": "circled latin capital letter w"
+    },
+    {
+      "char": "Ⓧ",
+      "name": "circled latin capital letter x"
+    },
+    {
+      "char": "Ⓨ",
+      "name": "circled latin capital letter y"
+    },
+    {
+      "char": "Ⓩ",
+      "name": "circled latin capital letter z"
+    },
+    {
+      "char": "ⓐ",
+      "name": "circled latin small letter a"
+    },
+    {
+      "char": "ⓑ",
+      "name": "circled latin small letter b"
+    },
+    {
+      "char": "ⓒ",
+      "name": "circled latin small letter c"
+    },
+    {
+      "char": "ⓓ",
+      "name": "circled latin small letter d"
+    },
+    {
+      "char": "ⓔ",
+      "name": "circled latin small letter e"
+    },
+    {
+      "char": "ⓕ",
+      "name": "circled latin small letter f"
+    },
+    {
+      "char": "ⓖ",
+      "name": "circled latin small letter g"
+    },
+    {
+      "char": "ⓗ",
+      "name": "circled latin small letter h"
+    },
+    {
+      "char": "ⓘ",
+      "name": "circled latin small letter i"
+    },
+    {
+      "char": "ⓙ",
+      "name": "circled latin small letter j"
+    },
+    {
+      "char": "ⓚ",
+      "name": "circled latin small letter k"
+    },
+    {
+      "char": "ⓛ",
+      "name": "circled latin small letter l"
+    },
+    {
+      "char": "ⓜ",
+      "name": "circled latin small letter m"
+    },
+    {
+      "char": "ⓝ",
+      "name": "circled latin small letter n"
+    },
+    {
+      "char": "ⓞ",
+      "name": "circled latin small letter o"
+    },
+    {
+      "char": "ⓟ",
+      "name": "circled latin small letter p"
+    },
+    {
+      "char": "ⓠ",
+      "name": "circled latin small letter q"
+    },
+    {
+      "char": "ⓡ",
+      "name": "circled latin small letter r"
+    },
+    {
+      "char": "ⓢ",
+      "name": "circled latin small letter s"
+    },
+    {
+      "char": "ⓣ",
+      "name": "circled latin small letter t"
+    },
+    {
+      "char": "ⓤ",
+      "name": "circled latin small letter u"
+    },
+    {
+      "char": "ⓥ",
+      "name": "circled latin small letter v"
+    },
+    {
+      "char": "ⓦ",
+      "name": "circled latin small letter w"
+    },
+    {
+      "char": "ⓧ",
+      "name": "circled latin small letter x"
+    },
+    {
+      "char": "ⓨ",
+      "name": "circled latin small letter y"
+    },
+    {
+      "char": "ⓩ",
+      "name": "circled latin small letter z"
+    },
+    {
+      "char": "⓪",
+      "name": "circled digit zero"
+    },
+    {
+      "char": "⓵",
+      "name": "double circled digit one"
+    },
+    {
+      "char": "⓶",
+      "name": "double circled digit two"
+    },
+    {
+      "char": "⓷",
+      "name": "double circled digit three"
+    },
+    {
+      "char": "⓸",
+      "name": "double circled digit four"
+    },
+    {
+      "char": "⓹",
+      "name": "double circled digit five"
+    },
+    {
+      "char": "⓺",
+      "name": "double circled digit six"
+    },
+    {
+      "char": "⓻",
+      "name": "double circled digit seven"
+    },
+    {
+      "char": "⓼",
+      "name": "double circled digit eight"
+    },
+    {
+      "char": "⓽",
+      "name": "double circled digit nine"
+    },
+    {
+      "char": "⓾",
+      "name": "double circled number ten"
+    }
+  ]
+}
