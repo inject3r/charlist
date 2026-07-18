@@ -30,29 +30,39 @@ jobs:
         with:
           node-version: 20
 
+      - name: Get version from package.json
+        id: version
+        run: echo "VERSION=$(node -p "require('./package.json').version")" >> $GITHUB_OUTPUT
+
       - name: Install dependencies
         run: npm install
 
       - name: Build
         run: npm run build:gh-pages
 
+      - name: Prepare deployment folder
+        run: |
+          mkdir -p deploy_temp/charlist
+          cp -r dist/* deploy_temp/charlist/
+          cp dist/.nojekyll deploy_temp/charlist/ 2>/dev/null || true
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./deploy_temp
           publish_branch: gh-pages
-          commit_message: "Deploy version ${{ github.sha }}"
+          commit_message: "Deploy charlist v${{ steps.version.outputs.VERSION }}"
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: v${{ github.run_number }}
-          name: Release v${{ github.run_number }}
+          tag_name: v${{ steps.version.outputs.VERSION }}
+          name: Release v${{ steps.version.outputs.VERSION }}
           body: |
             ## What's Changed
             - Auto-generated release from commit ${{ github.sha }}
-            - Deployed to GitHub Pages
+            - Deployed to https://inject3r.github.io/charlist/
           draft: false
           prerelease: false
           generate_release_notes: true
