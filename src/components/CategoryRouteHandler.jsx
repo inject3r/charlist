@@ -21,14 +21,10 @@ const CategoryRouteHandler = () => {
     return dataMap[tab] ? tab : "all";
   }, [location.pathname]);
 
-  const handleTabChange = useCallback(
-    (tabId) => {
-      navigate(tabId === "all" ? "/" : `/${tabId}`);
-      setSearchQuery("");
-      setSelectedCategory(tabId);
-    },
-    [navigate],
-  );
+  const handleTabChange = useCallback((tabId) => {
+    setSearchQuery("");
+    setSelectedCategory(tabId);
+  }, []);
 
   const handleSearch = (query) => {
     setSearchQuery(query);
