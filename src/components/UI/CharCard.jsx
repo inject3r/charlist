@@ -49,7 +49,7 @@ const CharCard = ({ char, name }) => {
     <>
       <div
         onClick={handleCopy}
-        className="group relative bg-[#14141e] hover:bg-[#1a1a2e] border border-white/5 hover:border-white/20 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 cursor-pointer p-3 flex flex-col items-center justify-center w-full h-full backdrop-blur-sm"
+        className="group relative bg-[#14141e] hover:bg-[#1a1a2e] border border-white/5 hover:border-white/20 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 cursor-pointer p-3 flex flex-col items-center justify-center aspect-square backdrop-blur-sm"
       >
         <span className="text-[1rem] sm:text-3xl font-light text-white group-hover:scale-110 group-hover:text-white transition-all duration-300">
           {decodedChar}
