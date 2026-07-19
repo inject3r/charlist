@@ -1,5 +1,5 @@
-import { useState, useEffect, useRef, useMemo, useCallback } from "react";
-import { FixedSizeGrid } from "react-window";
+import { useState, useEffect, useRef, useMemo } from "react";
+import { Grid } from "react-window";
 import CharCard from "./CharCard";
 
 const CharGridSkeleton = () => {
@@ -48,6 +48,29 @@ const useContainerWidth = () => {
   }, []);
 
   return [ref, width];
+};
+
+const Cell = ({ columnIndex, rowIndex, style, items, columnCount }) => {
+  const index = rowIndex * columnCount + columnIndex;
+  if (index >= items.length) return null;
+
+  const item = items[index];
+  const char = typeof item === "string" ? item : item.char;
+  const name = typeof item === "string" ? "" : item.name || "";
+
+  const adjustedStyle = {
+    ...style,
+    left: style.left + GAP / 2,
+    top: style.top + GAP / 2,
+    width: style.width - GAP,
+    height: style.height - GAP,
+  };
+
+  return (
+    <div style={adjustedStyle}>
+      <CharCard char={char} name={name} />
+    </div>
+  );
 };
 
 const CharGrid = ({ chars, searchQuery }) => {
@@ -105,29 +128,10 @@ const CharGrid = ({ chars, searchQuery }) => {
   const rowCount = Math.ceil(filteredChars.length / columnCount);
   const columnWidth = columnCount > 0 ? containerWidth / columnCount : 90;
   const rowHeight = columnWidth;
+  const gridHeight = Math.min(rowCount * rowHeight, window.innerHeight * 0.75);
 
-  const Cell = useCallback(
-    ({ columnIndex, rowIndex, style }) => {
-      const index = rowIndex * columnCount + columnIndex;
-      if (index >= filteredChars.length) return null;
-      const item = filteredChars[index];
-      const char = typeof item === "string" ? item : item.char;
-      const name = typeof item === "string" ? "" : item.name || "";
-
-      const adjustedStyle = {
-        ...style,
-        left: style.left + GAP / 2,
-        top: style.top + GAP / 2,
-        width: style.width - GAP,
-        height: style.height - GAP,
-      };
-
-      return (
-        <div style={adjustedStyle}>
-          <CharCard char={char} name={name} />
-        </div>
-      );
-    },
+  const cellProps = useMemo(
+    () => ({ items: filteredChars, columnCount }),
     [filteredChars, columnCount],
   );
 
@@ -166,16 +170,15 @@ const CharGrid = ({ chars, searchQuery }) => {
   return (
     <div ref={containerRef} className="w-full max-w-7xl mx-auto p-2 sm:p-4">
       {containerWidth > 0 && (
-        <FixedSizeGrid
+        <Grid
+          cellComponent={Cell}
+          cellProps={cellProps}
           columnCount={columnCount}
           columnWidth={columnWidth}
           rowCount={rowCount}
           rowHeight={rowHeight}
-          width={containerWidth}
-          height={Math.min(rowCount * rowHeight, window.innerHeight * 0.75)}
-        >
-          {Cell}
-        </FixedSizeGrid>
+          style={{ height: gridHeight, width: containerWidth }}
+        />
       )}
       <div className="text-center text-xs text-gray-500 mt-2">
         {filteredChars.length} characters
