@@ -5,8 +5,7 @@ import { GitHubIcon } from "../Icons";
 const MobileMenu = ({ isOpen, onTabChange, onClose }) => {
   if (!isOpen) return null;
 
-  const getTabPath = (tabId) =>
-    tabId === "all" ? "/charlist" : `/charlist/${tabId}`;
+  const getTabPath = (tabId) => (tabId === "all" ? "/" : `/${tabId}`);
 
   return (
     <div className="md:hidden py-3 sm:py-4 border-t border-white/5 mt-2">
@@ -30,7 +29,7 @@ const MobileMenu = ({ isOpen, onTabChange, onClose }) => {
         ))}
       </div>
 
-      <a
+      
         href="https://github.com/inject3r/charlist"
         target="_blank"
         rel="noopener noreferrer"
