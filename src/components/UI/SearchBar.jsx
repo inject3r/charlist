@@ -75,20 +75,6 @@ const SearchBar = ({
       {isDropdownOpen && categories && categories.length > 0 && (
         <div className="absolute top-full left-0 right-0 mt-1 bg-[#1a1a2e] border border-white/10 rounded-lg shadow-2xl overflow-hidden z-50">
           <div className="max-h-60 overflow-y-auto py-1">
-            <button
-              onClick={() => handleCategorySelect("all")}
-              className={`
-                w-full text-left px-4 py-2.5 text-sm transition-colors duration-200
-                ${
-                  selectedCategory === "all"
-                    ? "bg-white/10 text-white"
-                    : "text-gray-400 hover:text-white hover:bg-white/5"
-                }
-              `}
-            >
-              All Categories
-            </button>
-
             {categories.map((category) => (
               <button
                 key={category.id}
