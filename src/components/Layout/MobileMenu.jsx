@@ -5,7 +5,7 @@ import { GitHubIcon } from "../Icons";
 const MobileMenu = ({ isOpen, onTabChange, onClose }) => {
   if (!isOpen) return null;
 
-  const getTabPath = (tabId) => (tabId === "all" ? "/" : `/${tabId}`);
+  const getTabPath = (tabId) => (tabId === "all" ? "/charlist" : `/${tabId}`);
 
   return (
     <div className="md:hidden py-3 sm:py-4 border-t border-white/5 mt-2">

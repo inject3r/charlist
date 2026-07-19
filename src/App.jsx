@@ -7,7 +7,7 @@ const App = () => {
     <Router>
       <div className="min-h-screen bg-[#0a0a0f]">
         <Routes>
-          <Route path="/" element={<CategoryRouteHandler />} />
+          <Route path="/charlist" element={<CategoryRouteHandler />} />
           <Route path="/:categoryId" element={<CategoryRouteHandler />} />
           <Route path="*" element={<CategoryRouteHandler />} />
         </Routes>
