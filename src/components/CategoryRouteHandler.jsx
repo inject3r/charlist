@@ -27,7 +27,7 @@ const CategoryRouteHandler = () => {
 
   const handleTabChange = useCallback(
     (tabId) => {
-      navigate(tabId === "all" ? "/charlist" : `/${tabId}`);
+      navigate(tabId === "all" ? "/charlist" : `/charlist/${tabId}`);
       setSearchQuery("");
       setSelectedCategory(tabId);
     },
@@ -41,7 +41,7 @@ const CategoryRouteHandler = () => {
   const handleCategoryChange = useCallback(
     (categoryId) => {
       setSelectedCategory(categoryId);
-      navigate(categoryId === "all" ? "/charlist" : `/${categoryId}`);
+      navigate(categoryId === "all" ? "/charlist" : `/charlist/${categoryId}`);
     },
     [navigate],
   );
