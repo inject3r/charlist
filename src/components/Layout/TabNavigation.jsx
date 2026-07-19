@@ -2,8 +2,7 @@ import { NavLink } from "react-router-dom";
 import { tabs } from "../../config/tabsConfig";
 
 const TabNavigation = ({ onTabChange }) => {
-  const getTabPath = (tabId) =>
-    tabId === "all" ? "/charlist" : `/charlist/${tabId}`;
+  const getTabPath = (tabId) => (tabId === "all" ? "/" : `/${tabId}`);
 
   return (
     <div className="hidden md:flex items-center border-t border-white/5 pt-2">
