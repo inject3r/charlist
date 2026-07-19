@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import CategoryRouteHandler from "./components/CategoryRouteHandler";
 import Toast from "./components/UI/Toast";
 
