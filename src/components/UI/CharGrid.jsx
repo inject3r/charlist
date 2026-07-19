@@ -1,6 +1,6 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, useMemo, useCallback } from "react";
+import { FixedSizeGrid } from "react-window";
 import CharCard from "./CharCard";
-import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const CharGridSkeleton = () => {
   return (
@@ -15,20 +15,55 @@ const CharGridSkeleton = () => {
   );
 };
 
+const BREAKPOINTS = [
+  { minWidth: 1536, columns: 16 },
+  { minWidth: 1280, columns: 14 },
+  { minWidth: 1024, columns: 12 },
+  { minWidth: 768, columns: 11 },
+  { minWidth: 640, columns: 8 },
+  { minWidth: 0, columns: 6 },
+];
+
+const getColumnsForWidth = (width) => {
+  const match = BREAKPOINTS.find((bp) => width >= bp.minWidth);
+  return match ? match.columns : 6;
+};
+
+const GAP = 12;
+
+const useContainerWidth = () => {
+  const ref = useRef(null);
+  const [width, setWidth] = useState(0);
+
+  useEffect(() => {
+    if (!ref.current) return;
+    const observer = new ResizeObserver((entries) => {
+      for (const entry of entries) {
+        setWidth(entry.contentRect.width);
+      }
+    });
+    observer.observe(ref.current);
+    setWidth(ref.current.offsetWidth);
+    return () => observer.disconnect();
+  }, []);
+
+  return [ref, width];
+};
+
 const CharGrid = ({ chars, searchQuery }) => {
-  const [currentPage, setCurrentPage] = useState(1);
   const [isLoading, setIsLoading] = useState(true);
-  const itemsPerPage = 500;
+  const [containerRef, containerWidth] = useContainerWidth();
 
-  const filteredChars = chars.filter((item) => {
-    const char = typeof item === "string" ? item : item.char;
-    const name = typeof item === "string" ? "" : item.name || "";
+  const filteredChars = useMemo(() => {
     const query = searchQuery.toLowerCase();
-
-    return (
-      char.toLowerCase().includes(query) || name.toLowerCase().includes(query)
-    );
-  });
+    return chars.filter((item) => {
+      const char = typeof item === "string" ? item : item.char;
+      const name = typeof item === "string" ? "" : item.name || "";
+      return (
+        char.toLowerCase().includes(query) || name.toLowerCase().includes(query)
+      );
+    });
+  }, [chars, searchQuery]);
 
   const previousSearchQueryRef = useRef(searchQuery);
   const previousCharsRef = useRef(chars);
@@ -56,9 +91,6 @@ const CharGrid = ({ chars, searchQuery }) => {
       setIsLoading(true);
       timeoutRef.current = setTimeout(() => {
         setIsLoading(false);
-        if (currentPage !== 1) {
-          setCurrentPage(1);
-        }
       }, 300);
     }
 
@@ -69,35 +101,35 @@ const CharGrid = ({ chars, searchQuery }) => {
     };
   }, [searchQuery, chars]);
 
-  const totalItems = filteredChars.length;
-  const totalPages = Math.ceil(totalItems / itemsPerPage);
-  const startIndex = (currentPage - 1) * itemsPerPage;
-  const endIndex = Math.min(startIndex + itemsPerPage, totalItems);
-  const currentItems = filteredChars.slice(startIndex, endIndex);
+  const columnCount = getColumnsForWidth(containerWidth);
+  const rowCount = Math.ceil(filteredChars.length / columnCount);
+  const columnWidth = columnCount > 0 ? containerWidth / columnCount : 90;
+  const rowHeight = columnWidth;
 
-  const goToPage = (page) => {
-    if (page >= 1 && page <= totalPages) {
-      setCurrentPage(page);
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    }
-  };
+  const Cell = useCallback(
+    ({ columnIndex, rowIndex, style }) => {
+      const index = rowIndex * columnCount + columnIndex;
+      if (index >= filteredChars.length) return null;
+      const item = filteredChars[index];
+      const char = typeof item === "string" ? item : item.char;
+      const name = typeof item === "string" ? "" : item.name || "";
 
-  const getPageNumbers = () => {
-    const pages = [];
-    const maxVisible = 5;
-    let start = Math.max(1, currentPage - Math.floor(maxVisible / 2));
-    let end = Math.min(totalPages, start + maxVisible - 1);
+      const adjustedStyle = {
+        ...style,
+        left: style.left + GAP / 2,
+        top: style.top + GAP / 2,
+        width: style.width - GAP,
+        height: style.height - GAP,
+      };
 
-    if (end - start < maxVisible - 1) {
-      start = Math.max(1, end - maxVisible + 1);
-    }
-
-    for (let i = start; i <= end; i++) {
-      pages.push(i);
-    }
-
-    return pages;
-  };
+      return (
+        <div style={adjustedStyle}>
+          <CharCard char={char} name={name} />
+        </div>
+      );
+    },
+    [filteredChars, columnCount],
+  );
 
   if (isLoading) {
     return <CharGridSkeleton />;
@@ -131,109 +163,23 @@ const CharGrid = ({ chars, searchQuery }) => {
     );
   }
 
-  const showPagination = totalItems > itemsPerPage;
-
   return (
-    <div>
-      <div className="grid grid-cols-6 sm:grid-cols-8 md:grid-cols-11 lg:grid-cols-12 xl:grid-cols-14 2xl:grid-cols-16 gap-2 sm:gap-3 p-2 sm:p-4 max-w-7xl mx-auto">
-        {currentItems.map((item, index) => {
-          const char = typeof item === "string" ? item : item.char;
-          const name = typeof item === "string" ? "" : item.name || "";
-          const globalIndex = startIndex + index;
-          return (
-            <CharCard key={`${char}-${globalIndex}`} char={char} name={name} />
-          );
-        })}
+    <div ref={containerRef} className="w-full max-w-7xl mx-auto p-2 sm:p-4">
+      {containerWidth > 0 && (
+        <FixedSizeGrid
+          columnCount={columnCount}
+          columnWidth={columnWidth}
+          rowCount={rowCount}
+          rowHeight={rowHeight}
+          width={containerWidth}
+          height={Math.min(rowCount * rowHeight, window.innerHeight * 0.75)}
+        >
+          {Cell}
+        </FixedSizeGrid>
+      )}
+      <div className="text-center text-xs text-gray-500 mt-2">
+        {filteredChars.length} characters
       </div>
-
-      {showPagination && (
-        <div className="flex items-center justify-center gap-2 mt-6 mb-4 px-4">
-          <button
-            onClick={() => goToPage(currentPage - 1)}
-            disabled={currentPage === 1}
-            className={`
-              p-2 rounded-lg transition-all duration-300
-              ${
-                currentPage === 1
-                  ? "text-gray-600 cursor-not-allowed opacity-50"
-                  : "text-gray-400 hover:text-white hover:bg-white/5"
-              }
-            `}
-            aria-label="Previous page"
-          >
-            <ChevronLeft className="w-5 h-5" />
-          </button>
-
-          <div className="flex items-center gap-1">
-            {getPageNumbers()[0] > 1 && (
-              <>
-                <button
-                  onClick={() => goToPage(1)}
-                  className="px-3 py-1.5 text-sm rounded-lg text-gray-400 hover:text-white hover:bg-white/5 transition-all duration-300"
-                >
-                  1
-                </button>
-                {getPageNumbers()[0] > 2 && (
-                  <span className="text-gray-600">…</span>
-                )}
-              </>
-            )}
-
-            {getPageNumbers().map((page) => (
-              <button
-                key={page}
-                onClick={() => goToPage(page)}
-                className={`
-                  px-3 py-1.5 text-sm rounded-lg transition-all duration-300
-                  ${
-                    currentPage === page
-                      ? "bg-white/10 text-white font-medium"
-                      : "text-gray-400 hover:text-white hover:bg-white/5"
-                  }
-                `}
-              >
-                {page}
-              </button>
-            ))}
-
-            {getPageNumbers()[getPageNumbers().length - 1] < totalPages && (
-              <>
-                {getPageNumbers()[getPageNumbers().length - 1] <
-                  totalPages - 1 && <span className="text-gray-600">…</span>}
-                <button
-                  onClick={() => goToPage(totalPages)}
-                  className="px-3 py-1.5 text-sm rounded-lg text-gray-400 hover:text-white hover:bg-white/5 transition-all duration-300"
-                >
-                  {totalPages}
-                </button>
-              </>
-            )}
-          </div>
-
-          <button
-            onClick={() => goToPage(currentPage + 1)}
-            disabled={currentPage === totalPages}
-            className={`
-              p-2 rounded-lg transition-all duration-300
-              ${
-                currentPage === totalPages
-                  ? "text-gray-600 cursor-not-allowed opacity-50"
-                  : "text-gray-400 hover:text-white hover:bg-white/5"
-              }
-            `}
-            aria-label="Next page"
-          >
-            <ChevronRight className="w-5 h-5" />
-          </button>
-        </div>
-      )}
-
-      {showPagination && (
-        <div className="text-center text-xs text-gray-500 mt-2">
-          Showing {startIndex + 1} - {endIndex} of {totalItems} characters (Page{" "}
-          {currentPage} of {totalPages})
-        </div>
-      )}
     </div>
   );
 };
