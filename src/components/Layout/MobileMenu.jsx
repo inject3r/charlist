@@ -14,13 +14,11 @@ const MobileMenu = ({ isOpen, onTabChange, onClose }) => {
           <NavLink
             key={tab.id}
             to={getTabPath(tab.id)}
-            className={({ isActive }) =>
-              `text-left px-3 sm:px-4 py-2.5 sm:py-3 rounded-lg text-xs sm:text-sm font-medium transition-all duration-200 ${
-                isActive
-                  ? "bg-white/5 text-white"
-                  : "text-gray-500 hover:text-white hover:bg-white/5"
-              }`
-            }
+            className={({ isActive }) => `
+              text-left px-3 sm:px-4 py-2.5 sm:py-3 rounded-lg text-xs sm:text-sm font-medium
+              transition-all duration-200
+              ${isActive ? "bg-white/5 text-white" : "text-gray-500 hover:text-white hover:bg-white/5"}
+            `}
             onClick={() => {
               onClose();
               onTabChange(tab.id);
@@ -31,7 +29,7 @@ const MobileMenu = ({ isOpen, onTabChange, onClose }) => {
         ))}
       </div>
 
-      
+      <a
         href="https://github.com/inject3r/charlist"
         target="_blank"
         rel="noopener noreferrer"
