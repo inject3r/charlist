@@ -16,18 +16,14 @@ const CategoryRouteHandler = () => {
   });
 
   const currentTab = useMemo(() => {
-    if (location.pathname === "/charlist") return "all";
-    const pathSegments = location.pathname.split("/charlist").filter(Boolean);
-    if (pathSegments.length > 0) {
-      const tab = pathSegments[0];
-      return dataMap[tab] ? tab : "all";
-    }
-    return "all";
+    if (location.pathname === "/") return "all";
+    const tab = location.pathname.replace(/^\//, "");
+    return dataMap[tab] ? tab : "all";
   }, [location.pathname]);
 
   const handleTabChange = useCallback(
     (tabId) => {
-      navigate(tabId === "all" ? "/charlist" : `/charlist/${tabId}`);
+      navigate(tabId === "all" ? "/" : `/${tabId}`);
       setSearchQuery("");
       setSelectedCategory(tabId);
     },
@@ -41,7 +37,7 @@ const CategoryRouteHandler = () => {
   const handleCategoryChange = useCallback(
     (categoryId) => {
       setSelectedCategory(categoryId);
-      navigate(categoryId === "all" ? "/charlist" : `/charlist/${categoryId}`);
+      navigate(categoryId === "all" ? "/" : `/${categoryId}`);
     },
     [navigate],
   );
